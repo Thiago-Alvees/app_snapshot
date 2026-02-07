@@ -1,7 +1,27 @@
 {
   "updatedAt": "2026-01-31",
+  "source": "manual",
   "items": [
-    { "ticker": "HGLG11", "vp": 178.0, "dy12m": 8.4, "pl": 11.2 },
-    { "ticker": "MXRF11", "vp": 10.1, "dy12m": 10.8, "pl": 9.1 }
+    { "ticker": "HGLG11", "vp": 178.00, "dy12m": 8.4, "pl": 11.2 },
+    { "ticker": "XPLG11", "vp": 111.00, "dy12m": 9.2 },
+    { "ticker": "VILG11", "vp": 103.00, "dy12m": 8.9 },
+    { "ticker": "BTLG11", "vp": 100.00, "dy12m": 9.1 },
+    { "ticker": "GGRC11", "vp": 100.00, "dy12m": 10.0 },
+
+    { "ticker": "VISC11", "vp": 108.00, "dy12m": 8.0 },
+    { "ticker": "XPML11", "vp": 104.00, "dy12m": 8.5 },
+    { "ticker": "HSML11", "vp": 90.00, "dy12m": 9.0 },
+    { "ticker": "PMLL11", "vp": 103.00, "dy12m": 8.2 },
+
+    { "ticker": "KNRI11", "vp": 133.50, "dy12m": 7.1, "pl": 12.8 },
+    { "ticker": "HGRE11", "vp": 120.00, "dy12m": 7.5 },
+
+    { "ticker": "MXRF11", "vp": 10.10, "dy12m": 10.8, "pl": 9.1 },
+    { "ticker": "CPTS11", "vp": 96.00, "dy12m": 12.0 },
+    { "ticker": "KNCR11", "vp": 103.00, "dy12m": 10.0 },
+    { "ticker": "KNSC11", "vp": 98.00, "dy12m": 11.0 },
+
+    { "ticker": "RBRF11", "vp": 90.00, "dy12m": 9.0 },
+    { "ticker": "HGRU11", "vp": 110.00, "dy12m": 8.0 }
   ]
 }

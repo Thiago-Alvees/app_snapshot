@@ -1,0 +1,32 @@
+name: Update FIIs Fundamentals (CVM)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 20 10 * *" # todo dia 10 às 20:30 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate fundamentals from CVM
+        run: node scripts/update_fundamentals_from_cvm.mjs
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/fiis_fundamentals.json
+          git commit -m "chore(fundamentals): update from CVM" || echo "No changes"
+          git push
