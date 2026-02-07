@@ -1,9 +1,9 @@
 {
   "updatedAt": "2026-02-07",
   "items": [
-    { "ticker": "HGLG11", "cnpj": "" },
-    { "ticker": "XPLG11", "cnpj": "" },
-    { "ticker": "VILG11", "cnpj": "" },
+    { "ticker": "HGLG11", "cnpj": "11728688000147" },
+    { "ticker": "XPLG11", "cnpj": "26502794000185" },
+    { "ticker": "VILG11", "cnpj": "24853044000122" },
     { "ticker": "BTLG11", "cnpj": "" },
     { "ticker": "GGRC11", "cnpj": "" },
     { "ticker": "GARE11", "cnpj": "" },
