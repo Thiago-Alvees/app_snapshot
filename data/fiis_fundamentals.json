@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "updatedAt": "2026-01-31",
   "source": "manual",
   "items": [
@@ -23,5 +24,64 @@
 
     { "ticker": "RBRF11", "vp": 90.00, "dy12m": 9.0 },
     { "ticker": "HGRU11", "vp": 110.00, "dy12m": 8.0 }
+=======
+  "updatedAt": "2026-02-07",
+  "source": "manual",
+  "items": [
+    { "ticker": "HGLG11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "XPLG11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "VILG11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "BTLG11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "GGRC11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "GARE11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "LVBI11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "HSLG11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "SARE11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "BRCO11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "GLOG11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "RBRL11", "vp": null, "dy12m": null, "pl": null },
+
+    { "ticker": "VISC11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "XPML11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "HSML11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "PMLL11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "FLRP11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "HGBS11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "TORD11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "ABCP11", "vp": null, "dy12m": null, "pl": null },
+
+    { "ticker": "KNRI11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "HGRE11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "RCRB11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "VINO11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "BRCR11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "PVBI11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "JSRE11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "AIEC11", "vp": null, "dy12m": null, "pl": null },
+
+    { "ticker": "MXRF11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "CPTS11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "KNCR11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "KNSC11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "RECR11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "VGIR11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "RBRR11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "IRDM11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "HCTR11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "DEVA11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "URPR11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "VGHF11", "vp": null, "dy12m": null, "pl": null },
+
+    { "ticker": "BTHF11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "RBRF11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "HGRU11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "RBVA11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "RECT11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "ALZR11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "RBED11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "FIIB11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "RZTR11", "vp": null, "dy12m": null, "pl": null },
+    { "ticker": "MORE11", "vp": null, "dy12m": null, "pl": null }
+>>>>>>> 4de70c3986c95e1e087363d017604ece2a78d986
   ]
 }
