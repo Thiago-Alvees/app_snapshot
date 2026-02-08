@@ -20,8 +20,6 @@ function normalizeCnpj(cnpj) {
 }
 
 function parseDelimitedLine(line, delim = ";") {
-  // CSV da CVM costuma ser simples (sem aspas complexas na maioria dos casos)
-  // Se tiver aspas, ainda funciona para casos comuns.
   const out = [];
   let cur = "";
   let inQuotes = false;
@@ -47,60 +45,63 @@ function toNumberBR(v) {
   if (v == null) return NaN;
   const s = String(v).trim();
   if (!s) return NaN;
+
   // aceita "1.234.567,89" e "1234567.89"
   const norm = s.replace(/\./g, "").replace(",", ".");
   const n = Number(norm);
   return Number.isFinite(n) ? n : NaN;
 }
 
-function pickColumnIndex(headers, candidates) {
-  const H = headers.map((h) => h.toUpperCase());
-  for (const cand of candidates) {
-    const idx = H.findIndex((h) => h === cand);
+function pickColumnIndex(headers, candidatesExact, candidatesIncludes = []) {
+  const H = headers.map((h) => String(h).toUpperCase());
+
+  // 1) match exato
+  for (const cand of candidatesExact) {
+    const C = String(cand).toUpperCase();
+    const idx = H.findIndex((h) => h === C);
     if (idx >= 0) return idx;
   }
-  // fallback por "includes"
-  for (const cand of candidates) {
-    const idx = H.findIndex((h) => h.includes(cand));
+
+  // 2) match por includes
+  for (const cand of candidatesIncludes) {
+    const C = String(cand).toUpperCase();
+    const idx = H.findIndex((h) => h.includes(C));
     if (idx >= 0) return idx;
   }
+
   return -1;
 }
 
 function detectColumns(headers) {
-  // Heurística: o layout pode mudar, então tentamos várias opções.
-  const idxCnpj = pickColumnIndex(headers, [
-    "CNPJ_FUNDO",
-    "CNPJ",
-    "CNPJ_CLASSE",
-    "CNPJ_FUNDO_CLASSE",
-    "CNPJ_DO_FUNDO"
-  ]);
+  // Observação: em 2026 seus headers vieram como:
+  // CNPJ_Fundo_Classe / Data_Referencia / ...
+  // Então precisamos cobrir esse padrão.
 
-  const idxDt = pickColumnIndex(headers, [
-    "DT_COMPTC",
-    "DT_COMPETENCIA",
-    "DATA_COMPETENCIA",
-    "DT_REF",
-    "DATA_REFERENCIA"
-  ]);
+  const idxCnpj = pickColumnIndex(
+    headers,
+    ["CNPJ_FUNDO", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE"],
+    ["CNPJ_FUNDO", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE", "CNPJ_FUNDO_CLASSE"]
+  );
 
-  const idxPL = pickColumnIndex(headers, [
-    "VL_PATRIM_LIQ",
-    "VL_PATRIMONIO_LIQUIDO",
-    "PATRIM_LIQ",
-    "PATRIMONIO_LIQUIDO",
-    "VL_PL"
-  ]);
+  const idxDt = pickColumnIndex(
+    headers,
+    ["DT_COMPTC", "DT_COMPETENCIA", "DATA_COMPETENCIA", "DT_REF", "DATA_REFERENCIA", "DATA_REFERENCIA"],
+    ["DATA_REFER", "DATA_REF", "COMPET"]
+  );
 
-  const idxQtdCotas = pickColumnIndex(headers, [
-    "QT_COTA",
-    "QT_COTAS",
-    "QTD_COTAS",
-    "NR_COTAS",
-    "QT_COTAS_EMITIDAS",
-    "QTD_COTAS_EMITIDAS"
-  ]);
+  // PL costuma estar no arquivo "geral", com nomes tipo Patrimonio_Liquido / Patrim_Liq / Total_Patrimonio_Liquido etc.
+  const idxPL = pickColumnIndex(
+    headers,
+    ["VL_PATRIM_LIQ", "VL_PL", "PATRIM_LIQ", "PATRIMONIO_LIQUIDO"],
+    ["PATRIM", "LIQUIDO", "PATRIMONIO"]
+  );
+
+  // Qtde de cotas costuma estar no arquivo "geral", com nomes tipo Quantidade_Cotas / Qt_Cotas / Nr_Cotas etc.
+  const idxQtdCotas = pickColumnIndex(
+    headers,
+    ["QT_COTA", "QT_COTAS", "QTD_COTAS", "NR_COTAS"],
+    ["COTA", "COTAS", "QUANTIDADE"]
+  );
 
   return { idxCnpj, idxDt, idxPL, idxQtdCotas };
 }
@@ -108,6 +109,21 @@ function detectColumns(headers) {
 function listZipCsvFiles(extractedDir) {
   const files = fs.readdirSync(extractedDir);
   return files.filter((f) => f.toLowerCase().endsWith(".csv") || f.toLowerCase().endsWith(".txt"));
+}
+
+function chooseBestCsv(files) {
+  // Preferência: "geral" (onde normalmente estão PL e qtde cotas)
+  const lower = files.map((f) => f.toLowerCase());
+
+  const idxGeral = lower.findIndex((f) => f.includes("_geral_"));
+  if (idxGeral >= 0) return files[idxGeral];
+
+  // Se não tiver "geral", tenta qualquer que tenha "geral"
+  const idxGeral2 = lower.findIndex((f) => f.includes("geral"));
+  if (idxGeral2 >= 0) return files[idxGeral2];
+
+  // Fallback (primeiro)
+  return files[0];
 }
 
 function downloadAndUnzip(url, destDir) {
@@ -122,30 +138,28 @@ function downloadAndUnzip(url, destDir) {
 
   const csvs = listZipCsvFiles(destDir);
   if (csvs.length === 0) throw new Error("Nenhum CSV/TXT encontrado dentro do ZIP.");
-  // normalmente é 1 arquivo principal
-  return path.join(destDir, csvs[0]);
+
+  const chosen = chooseBestCsv(csvs);
+  return path.join(destDir, chosen);
 }
 
 function latestYearCandidates() {
   const now = new Date();
   const y = now.getFullYear();
-  return [y, y - 1]; // segurança
+  return [y, y - 1];
 }
 
 function buildCvmZipUrl(year) {
-  // URLs listadas no diretório oficial da CVM
   return `https://dados.cvm.gov.br/dados/FII/DOC/INF_MENSAL/DADOS/inf_mensal_fii_${year}.zip`;
 }
 
 function isoToday() {
-  const d = new Date();
-  return d.toISOString().slice(0, 10);
+  return new Date().toISOString().slice(0, 10);
 }
 
 function main() {
   const repoRoot = process.cwd();
   const dataDir = path.join(repoRoot, "data");
-  const scriptsDir = path.join(repoRoot, "scripts");
 
   const mapPath = path.join(dataDir, "fii_cnpj_map.json");
   const outPath = path.join(dataDir, "fiis_fundamentals.json");
@@ -156,6 +170,7 @@ function main() {
 
   const mapJson = readJson(mapPath);
   const mapItems = Array.isArray(mapJson.items) ? mapJson.items : [];
+
   const tickerToCnpj = new Map();
   for (const it of mapItems) {
     const ticker = String(it.ticker || "").toUpperCase().trim();
@@ -167,14 +182,11 @@ function main() {
     throw new Error("Seu fii_cnpj_map.json não tem nenhum CNPJ preenchido ainda.");
   }
 
-  // 1) Baixa o zip do ano atual (com fallback)
   const tmp = fs.mkdtempSync(path.join(os.tmpdir(), "cvm-inf-mensal-"));
   let csvPath = null;
-
-  const years = latestYearCandidates();
   let lastErr = null;
 
-  for (const y of years) {
+  for (const y of latestYearCandidates()) {
     try {
       const url = buildCvmZipUrl(y);
       csvPath = downloadAndUnzip(url, tmp);
@@ -185,10 +197,11 @@ function main() {
       log(`Falhou ao baixar/ler ano ${y}:`, String(e));
     }
   }
+
   if (!csvPath) throw lastErr || new Error("Falha ao obter CSV da CVM.");
 
-  // 2) Lê linha a linha (stream)
-  const content = fs.readFileSync(csvPath, "latin1"); // CVM costuma vir em latin1
+  // encoding: CVM costuma estar em latin1
+  const content = fs.readFileSync(csvPath, "latin1");
   const lines = content.split(/\r?\n/).filter(Boolean);
   if (lines.length < 2) throw new Error("CSV sem conteúdo suficiente.");
 
@@ -202,17 +215,16 @@ function main() {
     );
   }
 
-  // 3) Primeiro pass: descobre a maior competência disponível por CNPJ mapeado
   const cnpjsWanted = new Set([...tickerToCnpj.values()]);
-  let maxCompet = ""; // YYYY-MM-DD ou YYYYMM, etc.
+  let maxCompet = "";
 
+  // Pass 1: achar maior Data_Referencia/competência
   for (let i = 1; i < lines.length; i++) {
     const row = parseDelimitedLine(lines[i], ";");
     const cnpj = normalizeCnpj(row[idxCnpj]);
     if (!cnpjsWanted.has(cnpj)) continue;
 
     const dt = String(row[idxDt] || "").trim();
-    // usamos comparação lexicográfica (funciona bem para ISO e YYYYMM)
     if (dt && dt > maxCompet) maxCompet = dt;
   }
 
@@ -220,7 +232,7 @@ function main() {
 
   log("Competência mais recente detectada:", maxCompet);
 
-  // 4) Segundo pass: extrai PL e QtdCotas para essa competência
+  // Pass 2: PL e cotas para a competência mais recente
   const cnpjToVp = new Map();
 
   for (let i = 1; i < lines.length; i++) {
@@ -237,12 +249,9 @@ function main() {
     if (!Number.isFinite(pl) || !Number.isFinite(qtd) || qtd <= 0) continue;
 
     const vp = pl / qtd;
-    if (Number.isFinite(vp) && vp > 0) {
-      cnpjToVp.set(cnpj, vp);
-    }
+    if (Number.isFinite(vp) && vp > 0) cnpjToVp.set(cnpj, vp);
   }
 
-  // 5) Monta output
   const items = [];
   let filled = 0;
 
@@ -254,7 +263,7 @@ function main() {
       ticker,
       vp: vp ?? null,
       dy12m: null,
-      pl: null
+      pl: null,
     });
   }
 
@@ -262,7 +271,7 @@ function main() {
     updatedAt: isoToday(),
     source: "CVM - Informe Mensal Estruturado",
     competence: maxCompet,
-    items
+    items,
   };
 
   writeJson(outPath, out);
