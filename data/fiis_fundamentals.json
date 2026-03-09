@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-01",
+  "updatedAt": "2026-02-01",
   "source": "CVM - INF_MENSAL FII (geral + complemento via ISIN)",
   "audit": {
     "mappingMethod": "ISIN->ticker + optional overrides",
@@ -151,10 +151,10 @@
     },
     {
       "ticker": "HSML11",
-      "vp": 103.425256603664,
+      "vp": 103.892609882918,
       "dy12m": 7.5859,
       "dyStatus": "OK",
-      "pl": 2206058241.15
+      "pl": 2216026875.38
     },
     {
       "ticker": "IRDM11",
