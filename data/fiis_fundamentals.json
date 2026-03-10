@@ -1,25 +1,363 @@
 {
-  "updatedAt": "2026-03-10",
-  "source": "CVM - Informe Mensal Estruturado (join geral + complemento/ativo_passivo)",
-  "referenceDate": "2026-01-01",
+  "updatedAt": "2026-02-01",
+  "source": "CVM - INF_MENSAL FII (geral + complemento via ISIN)",
+  "audit": {
+    "mappingMethod": "ISIN->ticker + optional overrides",
+    "tickersRequested": 50,
+    "tickersMapped": 50,
+    "itemsGenerated": 50,
+    "duplicateCnpjs": 0
+  },
   "items": [
     {
-      "ticker": "HGLG11",
-      "vp": 166.4088923921714,
-      "dy12m": null,
-      "pl": null
+      "ticker": "ABCP11",
+      "vp": 110.832416313838,
+      "dy12m": 7.095400000000001,
+      "dyStatus": "OK",
+      "pl": 521918936.68
     },
     {
-      "ticker": "XPLG11",
-      "vp": 0.0010571679252183675,
+      "ticker": "AIEC11",
+      "vp": 76.4504379680194,
+      "dy12m": 5.0726,
+      "dyStatus": "OK",
+      "pl": 368872369.34
+    },
+    {
+      "ticker": "ALZR11",
+      "vp": 10.631332,
+      "dy12m": 9.1639,
+      "dyStatus": "OK",
+      "pl": 1299853108.46
+    },
+    {
+      "ticker": "BRCO11",
+      "vp": 116.666925727172,
+      "dy12m": 9.012500000000001,
+      "dyStatus": "OK",
+      "pl": 2102490018.62
+    },
+    {
+      "ticker": "BRCR11",
+      "vp": 85.937294,
+      "dy12m": 5.5714,
+      "dyStatus": "OK",
+      "pl": 2289214993.6
+    },
+    {
+      "ticker": "BTHF11",
+      "vp": 10.109524,
+      "dy12m": 11.8242,
+      "dyStatus": "OK",
+      "pl": 2081014595.39
+    },
+    {
+      "ticker": "BTLG11",
+      "vp": 103.059131,
+      "dy12m": 9.4977,
+      "dyStatus": "OK",
+      "pl": 5494118561.27
+    },
+    {
+      "ticker": "CPTS11",
+      "vp": 9.240122,
+      "dy12m": 11.7285,
+      "dyStatus": "OK",
+      "pl": 3217834892.53
+    },
+    {
+      "ticker": "DEVA11",
+      "vp": 98.07920127,
+      "dy12m": 5.003468999999999,
+      "dyStatus": "OK",
+      "pl": 1377513358.51
+    },
+    {
+      "ticker": "FIIB11",
+      "vp": 589.537939211679,
+      "dy12m": 9.1273,
+      "dyStatus": "OK",
+      "pl": 403833488.36
+    },
+    {
+      "ticker": "FLRP11",
+      "vp": 21.1300345294617,
+      "dy12m": 8.486099999999999,
+      "dyStatus": "OK",
+      "pl": 159802584.35
+    },
+    {
+      "ticker": "GARE11",
+      "vp": 9.52184737,
+      "dy12m": 8.134657,
+      "dyStatus": "OK",
+      "pl": 2753589125.34
+    },
+    {
+      "ticker": "GGRC11",
+      "vp": 11.2062466587579,
+      "dy12m": 0,
+      "dyStatus": "OK",
+      "pl": 2400934581.34
+    },
+    {
+      "ticker": "GLOG11",
+      "vp": 108.830425666667,
+      "dy12m": 4.528,
+      "dyStatus": "OK",
+      "pl": 81622819.25
+    },
+    {
+      "ticker": "HCTR11",
+      "vp": 105.74291767,
+      "dy12m": 3.555278,
+      "dyStatus": "OK",
+      "pl": 2336448804.37
+    },
+    {
+      "ticker": "HGBS11",
+      "vp": 20.6651950523727,
+      "dy12m": 8.0193,
+      "dyStatus": "OK",
+      "pl": 2668558839.35
+    },
+    {
+      "ticker": "HGLG11",
+      "vp": 166.408892392171,
+      "dy12m": 8.0027,
+      "dyStatus": "OK",
+      "pl": 7056514999
+    },
+    {
+      "ticker": "HGRE11",
+      "vp": 147.630668604314,
+      "dy12m": 13.2868,
+      "dyStatus": "OK",
+      "pl": 1744664843.62
+    },
+    {
+      "ticker": "HGRU11",
+      "vp": 129.265541713013,
+      "dy12m": 9.6591,
+      "dyStatus": "OK",
+      "pl": 3003875760.7
+    },
+    {
+      "ticker": "HSLG11",
+      "vp": 109.834913556145,
+      "dy12m": 7.566799999999999,
+      "dyStatus": "OK",
+      "pl": 1390517364.56
+    },
+    {
+      "ticker": "HSML11",
+      "vp": 103.892609882918,
+      "dy12m": 7.5859,
+      "dyStatus": "OK",
+      "pl": 2216026875.38
+    },
+    {
+      "ticker": "IRDM11",
+      "vp": 78.624686,
       "dy12m": null,
-      "pl": null
+      "dyStatus": "APURACAO",
+      "pl": 2959621783.69
+    },
+    {
+      "ticker": "JSRE11",
+      "vp": 103.700017540051,
+      "dy12m": 5.6307,
+      "dyStatus": "OK",
+      "pl": 2153572277.86
+    },
+    {
+      "ticker": "KNCR11",
+      "vp": 102.267519402043,
+      "dy12m": 14.2626,
+      "dyStatus": "OK",
+      "pl": 10381050207.72
+    },
+    {
+      "ticker": "KNRI11",
+      "vp": 163.894756953142,
+      "dy12m": 7.464899999999999,
+      "dyStatus": "OK",
+      "pl": 4622495428.16
+    },
+    {
+      "ticker": "KNSC11",
+      "vp": 8.79423540840035,
+      "dy12m": 13.015199999999998,
+      "dyStatus": "OK",
+      "pl": 1778215373.83
+    },
+    {
+      "ticker": "LVBI11",
+      "vp": 120.34312,
+      "dy12m": 8.257100000000001,
+      "dyStatus": "OK",
+      "pl": 1939758402.68
+    },
+    {
+      "ticker": "MORE11",
+      "vp": 10.271247,
+      "dy12m": 4.9251,
+      "dyStatus": "OK",
+      "pl": 106690858.48
+    },
+    {
+      "ticker": "MXRF11",
+      "vp": 9.464393,
+      "dy12m": 12.382200000000001,
+      "dyStatus": "OK",
+      "pl": 4356171528.14
+    },
+    {
+      "ticker": "PMLL11",
+      "vp": 118.20924928049,
+      "dy12m": 8.572,
+      "dyStatus": "OK",
+      "pl": 1652812716.9
+    },
+    {
+      "ticker": "PVBI11",
+      "vp": 107.936489,
+      "dy12m": 5.440799999999999,
+      "dyStatus": "OK",
+      "pl": 2928324176.15
+    },
+    {
+      "ticker": "RBED11",
+      "vp": 100.006575012887,
+      "dy12m": null,
+      "dyStatus": "APURACAO",
+      "pl": 235517684.3
+    },
+    {
+      "ticker": "RBRF11",
+      "vp": 8.571181,
+      "dy12m": null,
+      "dyStatus": "APURACAO",
+      "pl": 1172603582.62
+    },
+    {
+      "ticker": "RBRL11",
+      "vp": 102.260657110364,
+      "dy12m": 8.602000000000002,
+      "dyStatus": "OK",
+      "pl": 683820593.22
+    },
+    {
+      "ticker": "RBRR11",
+      "vp": 92.792336,
+      "dy12m": 2.4255,
+      "dyStatus": "OK",
+      "pl": 1512540596.2
+    },
+    {
+      "ticker": "RBVA11",
+      "vp": 10.7273099208706,
+      "dy12m": 10.159499999999998,
+      "dyStatus": "OK",
+      "pl": 1674994889.34
+    },
+    {
+      "ticker": "RCRB11",
+      "vp": 199.409813159852,
+      "dy12m": 5.5360000000000005,
+      "dyStatus": "OK",
+      "pl": 735960800.38
+    },
+    {
+      "ticker": "RECR11",
+      "vp": 88.7482705806937,
+      "dy12m": 12.6256,
+      "dyStatus": "OK",
+      "pl": 2346650708.8
+    },
+    {
+      "ticker": "RECT11",
+      "vp": 89.7260874024243,
+      "dy12m": 4.9238,
+      "dyStatus": "OK",
+      "pl": 766574199.64
+    },
+    {
+      "ticker": "RZTR11",
+      "vp": 93.66868873132,
+      "dy12m": 12.643699999999999,
+      "dyStatus": "OK",
+      "pl": 1765815892.73
+    },
+    {
+      "ticker": "SARE11",
+      "vp": 5.03464706769707,
+      "dy12m": null,
+      "dyStatus": "APURACAO",
+      "pl": 464915874.22
+    },
+    {
+      "ticker": "TORD11",
+      "vp": 36.71829414,
+      "dy12m": 0.403094,
+      "dyStatus": "OK",
+      "pl": 212583174.34
+    },
+    {
+      "ticker": "URPR11",
+      "vp": 103.25573542,
+      "dy12m": 5.806212,
+      "dyStatus": "OK",
+      "pl": 1211591957.57
+    },
+    {
+      "ticker": "VGHF11",
+      "vp": 8.667985,
+      "dy12m": 11.744402,
+      "dyStatus": "OK",
+      "pl": 1427805141.77
+    },
+    {
+      "ticker": "VGIR11",
+      "vp": 9.826544,
+      "dy12m": 1.057,
+      "dyStatus": "OK",
+      "pl": 1435670704.49
     },
     {
       "ticker": "VILG11",
-      "vp": 11311.330707410807,
-      "dy12m": null,
-      "pl": null
+      "vp": 113.113307074108,
+      "dy12m": 7.5752,
+      "dyStatus": "OK",
+      "pl": 1696405059.06
+    },
+    {
+      "ticker": "VINO11",
+      "vp": 9.89416224074734,
+      "dy12m": 6.1861999999999995,
+      "dyStatus": "OK",
+      "pl": 819496800.53
+    },
+    {
+      "ticker": "VISC11",
+      "vp": 118.053507565393,
+      "dy12m": 7.876000000000001,
+      "dyStatus": "OK",
+      "pl": 3403322070.34
+    },
+    {
+      "ticker": "XPLG11",
+      "vp": 105.716792521837,
+      "dy12m": 9.235863,
+      "dyStatus": "OK",
+      "pl": 4230330397.37
+    },
+    {
+      "ticker": "XPML11",
+      "vp": 22266.407454,
+      "dy12m": 0,
+      "dyStatus": "OK",
+      "pl": 5008872889.48
     }
   ]
 }
