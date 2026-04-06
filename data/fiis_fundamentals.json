@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01",
+  "updatedAt": "2026-03-01",
   "source": "CVM - INF_MENSAL FII (geral + complemento via ISIN)",
   "audit": {
     "mappingMethod": "ISIN->ticker + optional overrides",
