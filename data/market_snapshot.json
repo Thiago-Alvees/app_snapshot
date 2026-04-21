@@ -1,0 +1,66 @@
+{
+  "generatedAt": "2026-04-21T00:27:32.298Z",
+  "provider": "brapi",
+  "items": [
+    {
+      "ticker": "ITUB4",
+      "assetClass": "STOCK",
+      "price": 46.37,
+      "priceUpdatedAt": null
+    },
+    {
+      "ticker": "BBAS3",
+      "assetClass": "STOCK",
+      "price": 24.28,
+      "priceUpdatedAt": null
+    },
+    {
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "price": 48.48,
+      "priceUpdatedAt": null
+    },
+    {
+      "ticker": "TAEE11",
+      "assetClass": "STOCK",
+      "price": 45.86,
+      "priceUpdatedAt": null
+    },
+    {
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "price": 47.02,
+      "priceUpdatedAt": null
+    },
+    {
+      "ticker": "B3SA3",
+      "assetClass": "STOCK",
+      "price": 19.25,
+      "priceUpdatedAt": null
+    },
+    {
+      "ticker": "BOVA11",
+      "assetClass": "ETF",
+      "price": 192.64,
+      "priceUpdatedAt": null
+    },
+    {
+      "ticker": "SMAL11",
+      "assetClass": "ETF",
+      "price": 124.06,
+      "priceUpdatedAt": null
+    },
+    {
+      "ticker": "IVVB11",
+      "assetClass": "ETF",
+      "price": 398.1,
+      "priceUpdatedAt": null
+    },
+    {
+      "ticker": "XFIX11",
+      "assetClass": "ETF",
+      "price": 13.9,
+      "priceUpdatedAt": null
+    }
+  ]
+}
