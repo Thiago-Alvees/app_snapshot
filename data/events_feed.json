@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T01:23:22.247Z",
+  "generatedAt": "2026-04-21T03:25:59.314Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -168,21 +168,6 @@
       "protocol": "009512IPE090420260124029043-74"
     },
     {
-      "id": "020257IPE080420260119287697-26:TAEE11",
-      "ticker": "TAEE11",
-      "assetClass": "STOCK",
-      "cvmCode": 20257,
-      "companyName": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "category": "Aviso aos Acionistas",
-      "type": "Outros avisos",
-      "subject": "Alteração na Proposta da Administração e no BVD para AGO 2026",
-      "referenceDate": "2026-04-08T00:00:00.000Z",
-      "deliveredAt": "2026-04-08T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1502580&numSequencia=1027286&numVersao=1",
-      "version": "1",
-      "protocol": "020257IPE080420260119287697-26"
-    },
-    {
       "id": "009512IPE080420260106066375-53:PETR4",
       "ticker": "PETR4",
       "assetClass": "STOCK",
@@ -348,21 +333,6 @@
       "protocol": "001023IPE270320260176776466-58"
     },
     {
-      "id": "020257IPE270320260116978449-34:TAEE11",
-      "ticker": "TAEE11",
-      "assetClass": "STOCK",
-      "cvmCode": 20257,
-      "companyName": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Comunicado ao Mercado - Liquidação da 21ª Emissão de Debêntures da TAESA",
-      "referenceDate": "2026-03-27T00:00:00.000Z",
-      "deliveredAt": "2026-03-27T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1497173&numSequencia=1021879&numVersao=1",
-      "version": "1",
-      "protocol": "020257IPE270320260116978449-34"
-    },
-    {
       "id": "019348IPE270320260162797533-48:ITUB4",
       "ticker": "ITUB4",
       "assetClass": "STOCK",
@@ -423,21 +393,6 @@
       "protocol": "019348IPE260320260123588908-74"
     },
     {
-      "id": "020257IPE290420260110299397-71:TAEE11",
-      "ticker": "TAEE11",
-      "assetClass": "STOCK",
-      "cvmCode": 20257,
-      "companyName": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "category": "Aviso aos Acionistas",
-      "type": "Solicitação de acionista para o Boletim de Voto",
-      "subject": "Solicitação de acionista para o Boletim de Voto",
-      "referenceDate": "2026-04-29T00:00:00.000Z",
-      "deliveredAt": "2026-03-25T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1495319&numSequencia=1020025&numVersao=1",
-      "version": "1",
-      "protocol": "020257IPE290420260110299397-71"
-    },
-    {
       "id": "009512IPE240320260127115730-20:PETR4",
       "ticker": "PETR4",
       "assetClass": "STOCK",
@@ -483,21 +438,6 @@
       "protocol": "009512IPE200320260193506268-22"
     },
     {
-      "id": "020257IPE190320260136553534-45:TAEE11",
-      "ticker": "TAEE11",
-      "assetClass": "STOCK",
-      "cvmCode": 20257,
-      "companyName": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Participação no evento online Temporada de Balanços do canal E-Investidor",
-      "referenceDate": "2026-03-19T00:00:00.000Z",
-      "deliveredAt": "2026-03-19T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1492785&numSequencia=1017491&numVersao=1",
-      "version": "1",
-      "protocol": "020257IPE190320260136553534-45"
-    },
-    {
       "id": "021610IPE190320260161406441-77:B3SA3",
       "ticker": "B3SA3",
       "assetClass": "STOCK",
@@ -541,21 +481,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1492070&numSequencia=1016776&numVersao=1",
       "version": "1",
       "protocol": "009512IPE180320260108261783-61"
-    },
-    {
-      "id": "020257IPE170320260108013139-60:TAEE11",
-      "ticker": "TAEE11",
-      "assetClass": "STOCK",
-      "cvmCode": 20257,
-      "companyName": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Comunicado ao Mercado - Energização parcial em Tangará",
-      "referenceDate": "2026-03-17T00:00:00.000Z",
-      "deliveredAt": "2026-03-17T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1491069&numSequencia=1015775&numVersao=1",
-      "version": "1",
-      "protocol": "020257IPE170320260108013139-60"
     },
     {
       "id": "005410IPE170320260158832246-91:WEGE3",
@@ -663,21 +588,6 @@
       "protocol": "009512IPE120320260148140045-35"
     },
     {
-      "id": "020257IPE110320260180133823-24:TAEE11",
-      "ticker": "TAEE11",
-      "assetClass": "STOCK",
-      "cvmCode": 20257,
-      "companyName": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Comunicado ao Mercado - Entrada em operação do reforço em ATE III",
-      "referenceDate": "2026-03-11T00:00:00.000Z",
-      "deliveredAt": "2026-03-11T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1489164&numSequencia=1013870&numVersao=1",
-      "version": "1",
-      "protocol": "020257IPE110320260180133823-24"
-    },
-    {
       "id": "005410IPE260220260153519649-75:WEGE3",
       "ticker": "WEGE3",
       "assetClass": "STOCK",
@@ -706,21 +616,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1487157&numSequencia=1011863&numVersao=1",
       "version": "1",
       "protocol": "001023IPE090320260140784447-82"
-    },
-    {
-      "id": "020257IPE090320260188030661-80:TAEE11",
-      "ticker": "TAEE11",
-      "assetClass": "STOCK",
-      "cvmCode": 20257,
-      "companyName": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Participação em Evento Online - Encontro ANEFAC Mulheres na Liderança",
-      "referenceDate": "2026-03-09T00:00:00.000Z",
-      "deliveredAt": "2026-03-09T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1487096&numSequencia=1011802&numVersao=1",
-      "version": "1",
-      "protocol": "020257IPE090320260188030661-80"
     },
     {
       "id": "009512IPE060320260132480056-37:PETR4",
@@ -1518,21 +1413,6 @@
       "protocol": "019348IPE120120260159884623-17"
     },
     {
-      "id": "020257IPE090120260162658726-25:TAEE11",
-      "ticker": "TAEE11",
-      "assetClass": "STOCK",
-      "cvmCode": 20257,
-      "companyName": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Comunicado - Energização do Reforço de São Pedro",
-      "referenceDate": "2026-01-09T00:00:00.000Z",
-      "deliveredAt": "2026-01-09T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1465875&numSequencia=990581&numVersao=1",
-      "version": "1",
-      "protocol": "020257IPE090120260162658726-25"
-    },
-    {
       "id": "021610IPE300420260184584663-46:B3SA3",
       "ticker": "B3SA3",
       "assetClass": "STOCK",
@@ -1663,7 +1543,7 @@
       2026,
       2025
     ],
-    "tickersCovered": 6,
-    "itemsGenerated": 110
+    "tickersCovered": 5,
+    "itemsGenerated": 102
   }
 }
