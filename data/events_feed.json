@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T21:52:33.509Z",
+  "generatedAt": "2026-04-22T03:23:55.094Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1471,66 +1471,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1462574&numSequencia=987280&numVersao=1",
       "version": "1",
       "protocol": "021610IPE301220250107903748-49"
-    },
-    {
-      "id": "021610IPE231220250136309169-57:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Revisão de Projeções para 2025",
-      "referenceDate": "2025-12-23T00:00:00.000Z",
-      "deliveredAt": "2025-12-23T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1461187&numSequencia=985893&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE231220250136309169-57"
-    },
-    {
-      "id": "009512IPE231220250123723295-96:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre Braskem",
-      "referenceDate": "2025-12-23T00:00:00.000Z",
-      "deliveredAt": "2025-12-23T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1461287&numSequencia=985993&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE231220250123723295-96"
-    },
-    {
-      "id": "009512IPE231220250142380418-50:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre resgate de títulos globais",
-      "referenceDate": "2025-12-23T00:00:00.000Z",
-      "deliveredAt": "2025-12-23T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1461308&numSequencia=986014&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE231220250142380418-50"
-    },
-    {
-      "id": "005410IPE231220250201929223-93:WEGE3",
-      "ticker": "WEGE3",
-      "assetClass": "STOCK",
-      "cvmCode": 5410,
-      "companyName": "WEG SA",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Conclusão da aquisição da Tupinambá Energia",
-      "referenceDate": "2025-12-23T00:00:00.000Z",
-      "deliveredAt": "2025-12-23T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1461164&numSequencia=985870&numVersao=2",
-      "version": "2",
-      "protocol": "005410IPE231220250201929223-93"
     }
   ],
   "audit": {
@@ -1544,6 +1484,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 102
+    "itemsGenerated": 98
   }
 }
