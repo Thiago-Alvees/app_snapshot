@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T21:54:27.380Z",
+  "generatedAt": "2026-04-27T03:40:29.208Z",
   "provider": "brapi",
   "items": [
     {
@@ -605,7 +605,7 @@
     {
       "ticker": "WEB311",
       "assetClass": "ETF",
-      "price": 15.2,
+      "price": null,
       "priceUpdatedAt": null
     },
     {
