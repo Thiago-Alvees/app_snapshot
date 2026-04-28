@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T22:34:30.942Z",
+  "generatedAt": "2026-04-28T22:52:50.386Z",
   "provider": "brapi (modules: defaultKeyStatistics, financialData) + curated seed",
   "items": [
     {
@@ -1402,10 +1402,10 @@
     {
       "ticker": "ITUB4",
       "assetClass": "STOCK",
-      "name": "ITAUUNIBANCOPN      N1",
+      "name": "ITUB4",
       "category": "Financeiro",
-      "pvp": 2.274834,
-      "pl": null,
+      "pvp": 2.2553515,
+      "pl": 11.242829827915871,
       "dividendYield12m": 8,
       "expenseRatio": 0,
       "expectedAnnualReturn": 13.5
@@ -1424,10 +1424,10 @@
     {
       "ticker": "MGLU3",
       "assetClass": "STOCK",
-      "name": "MAGAZ LUIZA ON      NM",
+      "name": "MGLU3",
       "category": "Ações",
-      "pvp": 0.6006368,
-      "pl": null,
+      "pvp": 0.5868765,
+      "pl": 33.13930927435002,
       "dividendYield12m": null,
       "expenseRatio": 0,
       "expectedAnnualReturn": 12
@@ -1457,10 +1457,10 @@
     {
       "ticker": "PETR4",
       "assetClass": "STOCK",
-      "name": "PETROBRAS   PN  ERJ N2",
+      "name": "PETR4",
       "category": "Petróleo e Gás",
-      "pvp": 1.4555832,
-      "pl": null,
+      "pvp": 1.4620649,
+      "pl": 5.561407204550242,
       "dividendYield12m": 5,
       "expenseRatio": 0,
       "expectedAnnualReturn": 15.3
@@ -1600,10 +1600,10 @@
     {
       "ticker": "VALE3",
       "assetClass": "STOCK",
-      "name": "VALE        ON      NM",
+      "name": "VALE3",
       "category": "Ações",
-      "pvp": 2.0176718,
-      "pl": null,
+      "pvp": 2.0089781,
+      "pl": 26.167441860465114,
       "dividendYield12m": 6,
       "expenseRatio": 0,
       "expectedAnnualReturn": 12
