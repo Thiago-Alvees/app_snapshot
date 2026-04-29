@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T22:05:06.736Z",
+  "generatedAt": "2026-04-29T03:42:49.669Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1591,21 +1591,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1463012&numSequencia=987718&numVersao=1",
       "version": "1",
       "protocol": "009512IPE020120260122180330-75"
-    },
-    {
-      "id": "021610IPE301220250107903748-49:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Aviso aos Acionistas",
-      "type": "Outros avisos",
-      "subject": "Dividendos/Juros sobre Capital Próprio",
-      "referenceDate": "2025-12-30T00:00:00.000Z",
-      "deliveredAt": "2025-12-30T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1462574&numSequencia=987280&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE301220250107903748-49"
     }
   ],
   "audit": {
@@ -1619,6 +1604,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 107
+    "itemsGenerated": 106
   }
 }
