@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T22:04:24.983Z",
+  "generatedAt": "2026-05-07T03:43:12.261Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1756,36 +1756,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1466369&numSequencia=991075&numVersao=1",
       "version": "1",
       "protocol": "019348IPE120120260159884623-17"
-    },
-    {
-      "id": "021610IPE300420260184584663-46:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Aviso aos Acionistas",
-      "type": "Data prevista para a assembleia",
-      "subject": "Data prevista para a assembleia",
-      "referenceDate": "2026-04-30T00:00:00.000Z",
-      "deliveredAt": "2026-01-07T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1464828&numSequencia=989534&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE300420260184584663-46"
-    },
-    {
-      "id": "021610IPE070120260193769442-36:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Comunicado ao Mercado",
-      "type": "Aquisição/Alienação de Participação Acionária (art. 12 da Instr. CVM nº 358)",
-      "subject": "Declaração de Alienação de Participação Acionária Relevante - Art.12, §4º, da Instrução CVM nº358/02",
-      "referenceDate": "2026-01-07T00:00:00.000Z",
-      "deliveredAt": "2026-01-07T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1464563&numSequencia=989269&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE070120260193769442-36"
     }
   ],
   "audit": {
@@ -1799,6 +1769,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 119
+    "itemsGenerated": 117
   }
 }
