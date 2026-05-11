@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T22:06:06.255Z",
+  "generatedAt": "2026-05-11T04:04:08.179Z",
   "provider": "brapi",
   "items": [
     {
@@ -875,7 +875,7 @@
     {
       "ticker": "VALE3",
       "assetClass": "STOCK",
-      "price": 80.8,
+      "price": 81.49,
       "priceUpdatedAt": null
     },
     {
