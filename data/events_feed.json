@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T22:13:27.867Z",
+  "generatedAt": "2026-05-12T03:47:42.223Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1861,21 +1861,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1466684&numSequencia=991390&numVersao=1",
       "version": "1",
       "protocol": "005410IPE280420260192882792-78"
-    },
-    {
-      "id": "019348IPE120120260159884623-17:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Convite Reunião Interativa - Resultados do 4º Trimestre 2025",
-      "referenceDate": "2026-01-12T00:00:00.000Z",
-      "deliveredAt": "2026-01-12T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1466369&numSequencia=991075&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE120120260159884623-17"
     }
   ],
   "audit": {
@@ -1889,6 +1874,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 125
+    "itemsGenerated": 124
   }
 }
