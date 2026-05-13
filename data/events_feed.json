@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T22:17:55.114Z",
+  "generatedAt": "2026-05-13T03:56:36.935Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1816,51 +1816,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1467203&numSequencia=991909&numVersao=1",
       "version": "1",
       "protocol": "021610IPE140120260188197982-61"
-    },
-    {
-      "id": "009512IPE160420260138267565-39:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Aviso aos Acionistas",
-      "type": "Data prevista para a assembleia",
-      "subject": "Petrobras sobre Assembleia Geral Ordinária de 2026",
-      "referenceDate": "2026-04-16T00:00:00.000Z",
-      "deliveredAt": "2026-01-13T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1466937&numSequencia=991643&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE160420260138267565-39"
-    },
-    {
-      "id": "019348IPE280420260126452165-80:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Aviso aos Acionistas",
-      "type": "Data prevista para a assembleia",
-      "subject": "Data da realização da Assembleia Geral Ordinária",
-      "referenceDate": "2026-04-28T00:00:00.000Z",
-      "deliveredAt": "2026-01-13T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1466658&numSequencia=991364&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE280420260126452165-80"
-    },
-    {
-      "id": "005410IPE280420260192882792-78:WEGE3",
-      "ticker": "WEGE3",
-      "assetClass": "STOCK",
-      "cvmCode": 5410,
-      "companyName": "WEG SA",
-      "category": "Aviso aos Acionistas",
-      "type": "Data prevista para a assembleia",
-      "subject": "Data prevista para a assembleia - 28/04/2026",
-      "referenceDate": "2026-04-28T00:00:00.000Z",
-      "deliveredAt": "2026-01-13T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1466684&numSequencia=991390&numVersao=1",
-      "version": "1",
-      "protocol": "005410IPE280420260192882792-78"
     }
   ],
   "audit": {
@@ -1874,6 +1829,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 124
+    "itemsGenerated": 121
   }
 }
