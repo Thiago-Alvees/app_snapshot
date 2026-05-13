@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T11:34:34.565Z",
+  "generatedAt": "2026-05-13T14:49:19.431Z",
   "provider": "brapi",
   "items": [
     {
@@ -11,7 +11,7 @@
     {
       "ticker": "ACWI11",
       "assetClass": "ETF",
-      "price": 15.9,
+      "price": 16.03,
       "priceUpdatedAt": null
     },
     {
@@ -29,7 +29,7 @@
     {
       "ticker": "AUVP11",
       "assetClass": "ETF",
-      "price": 122.77,
+      "price": 122.4,
       "priceUpdatedAt": null
     },
     {
@@ -83,7 +83,7 @@
     {
       "ticker": "BIEM39",
       "assetClass": "ETF",
-      "price": 65.53,
+      "price": 66.99,
       "priceUpdatedAt": null
     },
     {
@@ -101,7 +101,7 @@
     {
       "ticker": "BIVB39",
       "assetClass": "ETF",
-      "price": 91.5,
+      "price": 91.2,
       "priceUpdatedAt": null
     },
     {
@@ -137,7 +137,7 @@
     {
       "ticker": "BOVV11",
       "assetClass": "ETF",
-      "price": 185.89,
+      "price": 185.65,
       "priceUpdatedAt": null
     },
     {
@@ -155,7 +155,7 @@
     {
       "ticker": "BSHV39",
       "assetClass": "ETF",
-      "price": 54.04,
+      "price": 54.1,
       "priceUpdatedAt": null
     },
     {
@@ -173,7 +173,7 @@
     {
       "ticker": "BTLT39",
       "assetClass": "ETF",
-      "price": 27.78,
+      "price": 27.94,
       "priceUpdatedAt": null
     },
     {
@@ -191,7 +191,7 @@
     {
       "ticker": "COIN11",
       "assetClass": "ETF",
-      "price": 48.5,
+      "price": 48.36,
       "priceUpdatedAt": null
     },
     {
@@ -209,7 +209,7 @@
     {
       "ticker": "DEFI11",
       "assetClass": "ETF",
-      "price": 13.5,
+      "price": 13.77,
       "priceUpdatedAt": null
     },
     {
@@ -227,7 +227,7 @@
     {
       "ticker": "DOLA11",
       "assetClass": "ETF",
-      "price": 9.58,
+      "price": 9.62,
       "priceUpdatedAt": null
     },
     {
@@ -245,7 +245,7 @@
     {
       "ticker": "ETHY11",
       "assetClass": "ETF",
-      "price": 63.32,
+      "price": 63.48,
       "priceUpdatedAt": null
     },
     {
@@ -263,7 +263,7 @@
     {
       "ticker": "GDIV11",
       "assetClass": "ETF",
-      "price": 92.45,
+      "price": 93.21,
       "priceUpdatedAt": null
     },
     {
@@ -281,7 +281,7 @@
     {
       "ticker": "GOLD11",
       "assetClass": "ETF",
-      "price": 23.99,
+      "price": 23.96,
       "priceUpdatedAt": null
     },
     {
@@ -299,7 +299,7 @@
     {
       "ticker": "GPUS11",
       "assetClass": "ETF",
-      "price": 109.34,
+      "price": 109.98,
       "priceUpdatedAt": null
     },
     {
@@ -317,7 +317,7 @@
     {
       "ticker": "HIGH11",
       "assetClass": "ETF",
-      "price": 92.23,
+      "price": 92.58,
       "priceUpdatedAt": null
     },
     {
@@ -335,7 +335,7 @@
     {
       "ticker": "HYBR11",
       "assetClass": "ETF",
-      "price": 53.88,
+      "price": 53.9,
       "priceUpdatedAt": null
     },
     {
@@ -353,7 +353,7 @@
     {
       "ticker": "IBOB11",
       "assetClass": "ETF",
-      "price": 148.25,
+      "price": 147.79,
       "priceUpdatedAt": null
     },
     {
@@ -371,7 +371,7 @@
     {
       "ticker": "IRFM11",
       "assetClass": "ETF",
-      "price": 100.36,
+      "price": 100.33,
       "priceUpdatedAt": null
     },
     {
@@ -389,7 +389,7 @@
     {
       "ticker": "LFTB11",
       "assetClass": "ETF",
-      "price": 121.38,
+      "price": 121.41,
       "priceUpdatedAt": null
     },
     {
@@ -407,7 +407,7 @@
     {
       "ticker": "MARG11",
       "assetClass": "ETF",
-      "price": 117.46,
+      "price": 117.62,
       "priceUpdatedAt": null
     },
     {
@@ -425,7 +425,7 @@
     {
       "ticker": "NDIV11",
       "assetClass": "ETF",
-      "price": 124.65,
+      "price": 124.96,
       "priceUpdatedAt": null
     },
     {
@@ -443,7 +443,7 @@
     {
       "ticker": "OURO11",
       "assetClass": "ETF",
-      "price": 104.16,
+      "price": 103.46,
       "priceUpdatedAt": null
     },
     {
@@ -461,7 +461,7 @@
     {
       "ticker": "PACL11",
       "assetClass": "ETF",
-      "price": 109.9,
+      "price": 110.01,
       "priceUpdatedAt": null
     },
     {
@@ -479,7 +479,7 @@
     {
       "ticker": "QDFI11",
       "assetClass": "ETF",
-      "price": 1.52,
+      "price": 1.47,
       "priceUpdatedAt": null
     },
     {
@@ -497,7 +497,7 @@
     {
       "ticker": "QQQI11",
       "assetClass": "ETF",
-      "price": 94.28,
+      "price": 95.13,
       "priceUpdatedAt": null
     },
     {
@@ -533,7 +533,7 @@
     {
       "ticker": "SPXB11",
       "assetClass": "ETF",
-      "price": 15.91,
+      "price": 15.99,
       "priceUpdatedAt": null
     },
     {
@@ -551,7 +551,7 @@
     {
       "ticker": "SPYI11",
       "assetClass": "ETF",
-      "price": 103.71,
+      "price": 103.9,
       "priceUpdatedAt": null
     },
     {
@@ -569,7 +569,7 @@
     {
       "ticker": "USAL11",
       "assetClass": "ETF",
-      "price": 15.51,
+      "price": 15.55,
       "priceUpdatedAt": null
     },
     {
@@ -605,7 +605,7 @@
     {
       "ticker": "WEB311",
       "assetClass": "ETF",
-      "price": 15.68,
+      "price": 15.6,
       "priceUpdatedAt": null
     },
     {
@@ -623,7 +623,7 @@
     {
       "ticker": "XINA11",
       "assetClass": "ETF",
-      "price": 7.38,
+      "price": 7.58,
       "priceUpdatedAt": null
     },
     {
@@ -641,7 +641,7 @@
     {
       "ticker": "ALOS3",
       "assetClass": "STOCK",
-      "price": 29.4,
+      "price": 28.98,
       "priceUpdatedAt": null
     },
     {
@@ -659,7 +659,7 @@
     {
       "ticker": "AXIA7",
       "assetClass": "STOCK",
-      "price": 55.4,
+      "price": 54.28,
       "priceUpdatedAt": null
     },
     {
@@ -677,7 +677,7 @@
     {
       "ticker": "BBDC4",
       "assetClass": "STOCK",
-      "price": 17.96,
+      "price": 18.1,
       "priceUpdatedAt": null
     },
     {
@@ -695,7 +695,7 @@
     {
       "ticker": "BRAV3",
       "assetClass": "STOCK",
-      "price": 17.65,
+      "price": 17.72,
       "priceUpdatedAt": null
     },
     {
@@ -713,7 +713,7 @@
     {
       "ticker": "CPLE3",
       "assetClass": "STOCK",
-      "price": 15,
+      "price": 14.82,
       "priceUpdatedAt": null
     },
     {
@@ -749,7 +749,7 @@
     {
       "ticker": "EQTL3",
       "assetClass": "STOCK",
-      "price": 40.9,
+      "price": 40.2,
       "priceUpdatedAt": null
     },
     {
@@ -767,7 +767,7 @@
     {
       "ticker": "ITUB4",
       "assetClass": "STOCK",
-      "price": 39.87,
+      "price": 40.26,
       "priceUpdatedAt": null
     },
     {
@@ -821,7 +821,7 @@
     {
       "ticker": "RDOR3",
       "assetClass": "STOCK",
-      "price": 35.98,
+      "price": 35.46,
       "priceUpdatedAt": null
     },
     {
@@ -839,7 +839,7 @@
     {
       "ticker": "SANB11",
       "assetClass": "STOCK",
-      "price": 27.65,
+      "price": 27.68,
       "priceUpdatedAt": null
     },
     {
@@ -857,7 +857,7 @@
     {
       "ticker": "SMFT3",
       "assetClass": "STOCK",
-      "price": 19.74,
+      "price": 19.42,
       "priceUpdatedAt": null
     },
     {
@@ -875,7 +875,7 @@
     {
       "ticker": "VALE3",
       "assetClass": "STOCK",
-      "price": 83.25,
+      "price": 84.9,
       "priceUpdatedAt": null
     },
     {
@@ -893,7 +893,7 @@
     {
       "ticker": "VIVT3",
       "assetClass": "STOCK",
-      "price": 36.33,
+      "price": 36.14,
       "priceUpdatedAt": null
     },
     {
