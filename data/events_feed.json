@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T22:20:18.325Z",
+  "generatedAt": "2026-05-14T03:56:07.303Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1801,21 +1801,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1467749&numSequencia=992455&numVersao=1",
       "version": "1",
       "protocol": "009512IPE150120260102191502-83"
-    },
-    {
-      "id": "021610IPE140120260188197982-61:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Dados Operacionais - Dezembro 2025",
-      "referenceDate": "2026-01-14T00:00:00.000Z",
-      "deliveredAt": "2026-01-14T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1467203&numSequencia=991909&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE140120260188197982-61"
     }
   ],
   "audit": {
@@ -1829,6 +1814,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 121
+    "itemsGenerated": 120
   }
 }
