@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T22:16:30.462Z",
+  "generatedAt": "2026-05-15T04:00:06.141Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1786,21 +1786,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1468338&numSequencia=993044&numVersao=1",
       "version": "1",
       "protocol": "001023IPE190120260180917778-84"
-    },
-    {
-      "id": "009512IPE150120260102191502-83:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras supera metas de produção de 2025",
-      "referenceDate": "2026-01-15T00:00:00.000Z",
-      "deliveredAt": "2026-01-15T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1467749&numSequencia=992455&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE150120260102191502-83"
     }
   ],
   "audit": {
@@ -1814,6 +1799,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 120
+    "itemsGenerated": 119
   }
 }
