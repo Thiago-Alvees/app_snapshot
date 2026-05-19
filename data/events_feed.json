@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T22:08:28.302Z",
+  "generatedAt": "2026-05-19T04:07:06.106Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1936,21 +1936,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1470033&numSequencia=994739&numVersao=1",
       "version": "1",
       "protocol": "019348IPE260120260162664732-30"
-    },
-    {
-      "id": "001023IPE190120260180917778-84:BBAS3",
-      "ticker": "BBAS3",
-      "assetClass": "STOCK",
-      "cvmCode": 1023,
-      "companyName": "BANCO DO BRASIL S.A.",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Fato Relevante Payout 2026 e Datas de Pagamento",
-      "referenceDate": "2026-01-19T00:00:00.000Z",
-      "deliveredAt": "2026-01-19T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1468338&numSequencia=993044&numVersao=1",
-      "version": "1",
-      "protocol": "001023IPE190120260180917778-84"
     }
   ],
   "audit": {
@@ -1964,6 +1949,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 130
+    "itemsGenerated": 129
   }
 }
