@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T20:32:58.149Z",
+  "generatedAt": "2026-05-28T22:43:33.106Z",
   "provider": "brapi",
   "items": [
     {
@@ -168,7 +168,7 @@
     },
     {
       "ticker": "RBRF11",
-      "price": null
+      "price": 6.65
     },
     {
       "ticker": "HGRU11",
