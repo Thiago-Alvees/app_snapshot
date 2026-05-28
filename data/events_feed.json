@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T22:46:06.680Z",
+  "generatedAt": "2026-05-28T04:10:55.443Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -2026,21 +2026,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1471705&numSequencia=996411&numVersao=1",
       "version": "1",
       "protocol": "005410IPE300120260148819770-12"
-    },
-    {
-      "id": "009512IPE280120260137027168-94:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Petrobras aumenta Reservas Provadas em 2025",
-      "referenceDate": "2026-01-28T00:00:00.000Z",
-      "deliveredAt": "2026-01-28T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1470713&numSequencia=995419&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE280120260137027168-94"
     }
   ],
   "audit": {
@@ -2054,6 +2039,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 136
+    "itemsGenerated": 135
   }
 }
