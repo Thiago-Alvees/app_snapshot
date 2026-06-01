@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-05-29T22:40:49.574Z",
+  "generatedAt": "2026-06-01T04:53:07.220Z",
   "provider": "CVM IPE",
   "items": [
+    {
+      "id": "009512IPE290520260179986167-84:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras assina contratos para dois FPSOs do projeto Sergipe Águas Profundas",
+      "referenceDate": "2026-05-29T00:00:00.000Z",
+      "deliveredAt": "2026-05-29T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1528394&numSequencia=1053100&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE290520260179986167-84"
+    },
+    {
+      "id": "001023IPE280520260108134349-54:BBAS3",
+      "ticker": "BBAS3",
+      "assetClass": "STOCK",
+      "cvmCode": 1023,
+      "companyName": "BANCO DO BRASIL S.A.",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Comunicado ao Mercado - Relatório Anual 2025",
+      "referenceDate": "2026-05-28T00:00:00.000Z",
+      "deliveredAt": "2026-05-28T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1528046&numSequencia=1052752&numVersao=1",
+      "version": "1",
+      "protocol": "001023IPE280520260108134349-54"
+    },
+    {
+      "id": "009512IPE280520260184273181-47:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras informa sobre resgate de títulos globais",
+      "referenceDate": "2026-05-28T00:00:00.000Z",
+      "deliveredAt": "2026-05-28T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1527707&numSequencia=1052413&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE280520260184273181-47"
+    },
+    {
+      "id": "019348IPE280520260157511421-74:ITUB4",
+      "ticker": "ITUB4",
+      "assetClass": "STOCK",
+      "cvmCode": 19348,
+      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
+      "category": "Fato Relevante",
+      "type": "",
+      "subject": "Pagamento de Juros sobre o Capital Próprio",
+      "referenceDate": "2026-05-28T00:00:00.000Z",
+      "deliveredAt": "2026-05-28T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1528166&numSequencia=1052872&numVersao=1",
+      "version": "1",
+      "protocol": "019348IPE280520260157511421-74"
+    },
+    {
+      "id": "009512IPE260520260163911999-83:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Esclarecimentos sobre questionamentos da CVM/B3",
+      "subject": "Notícia Divulgada na Mídia",
+      "referenceDate": "2026-05-26T00:00:00.000Z",
+      "deliveredAt": "2026-05-26T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1527092&numSequencia=1051798&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE260520260163911999-83"
+    },
+    {
+      "id": "009512IPE250520260162695766-95:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Instalação, mudança ou dissolução do Comitê de Auditoria Estatutário",
+      "subject": "Mudança na composição do comitê de auditoria estatutário",
+      "referenceDate": "2026-05-25T00:00:00.000Z",
+      "deliveredAt": "2026-05-25T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1526639&numSequencia=1051345&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE250520260162695766-95"
+    },
     {
       "id": "009512IPE220520260133934875-90:PETR4",
       "ticker": "PETR4",
@@ -2011,21 +2101,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1472150&numSequencia=996856&numVersao=1",
       "version": "1",
       "protocol": "021610IPE020220260146381885-52"
-    },
-    {
-      "id": "005410IPE300120260148819770-12:WEGE3",
-      "ticker": "WEGE3",
-      "assetClass": "STOCK",
-      "cvmCode": 5410,
-      "companyName": "WEG SA",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Conclusão da aquisição da Sanelec",
-      "referenceDate": "2026-01-30T00:00:00.000Z",
-      "deliveredAt": "2026-01-30T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1471705&numSequencia=996411&numVersao=1",
-      "version": "1",
-      "protocol": "005410IPE300120260148819770-12"
     }
   ],
   "audit": {
@@ -2039,6 +2114,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 135
+    "itemsGenerated": 140
   }
 }
