@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T21:40:33.648Z",
+  "generatedAt": "2026-06-02T04:41:38.580Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -2086,21 +2086,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473213&numSequencia=997919&numVersao=1",
       "version": "1",
       "protocol": "005410IPE040220260125265293-83"
-    },
-    {
-      "id": "021610IPE020220260146381885-52:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Comunicado ao Mercado - Venda de Participação Minoritária",
-      "referenceDate": "2026-02-02T00:00:00.000Z",
-      "deliveredAt": "2026-02-02T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1472150&numSequencia=996856&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE020220260146381885-52"
     }
   ],
   "audit": {
@@ -2114,6 +2099,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 140
+    "itemsGenerated": 139
   }
 }
