@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T04:50:20.714Z",
+  "generatedAt": "2026-06-03T11:12:13.780Z",
   "provider": "brapi",
   "items": [
     {
@@ -725,7 +725,7 @@
     {
       "ticker": "CSMG3",
       "assetClass": "STOCK",
-      "price": 52.9,
+      "price": 52.94,
       "priceUpdatedAt": null
     },
     {
