@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T21:22:42.867Z",
+  "generatedAt": "2026-06-04T04:44:49.135Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1936,156 +1936,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473424&numSequencia=998130&numVersao=2",
       "version": "2",
       "protocol": "019348IPE040220260286671025-42"
-    },
-    {
-      "id": "009512IPE040220260141722394-36:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre resultado do 4º trimestre de 2025",
-      "referenceDate": "2026-02-04T00:00:00.000Z",
-      "deliveredAt": "2026-02-04T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473161&numSequencia=997867&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE040220260141722394-36"
-    },
-    {
-      "id": "019348IPE040220260187607966-08:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Aviso aos Acionistas",
-      "type": "Outros avisos",
-      "subject": "Data de Pagamento de Juros sobre o Capital Próprio",
-      "referenceDate": "2026-02-04T00:00:00.000Z",
-      "deliveredAt": "2026-02-04T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473196&numSequencia=997902&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE040220260187607966-08"
-    },
-    {
-      "id": "019348IPE040220260167300827-03:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Apresentações a analistas/agentes do mercado",
-      "subject": "Informações sobre o Resultado do 4º Trimestre de 2025",
-      "referenceDate": "2026-02-04T00:00:00.000Z",
-      "deliveredAt": "2026-02-04T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473211&numSequencia=997917&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE040220260167300827-03"
-    },
-    {
-      "id": "019348IPE040220260152142974-54:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Indicadores financeiros selecionados sobre o resultado trimestral.",
-      "referenceDate": "2026-02-04T00:00:00.000Z",
-      "deliveredAt": "2026-02-04T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473190&numSequencia=997896&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE040220260152142974-54"
-    },
-    {
-      "id": "019348IPE040220260155660427-15:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Press Release",
-      "referenceDate": "2026-02-04T00:00:00.000Z",
-      "deliveredAt": "2026-02-04T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473191&numSequencia=997897&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE040220260155660427-15"
-    },
-    {
-      "id": "019348IPE040220260186208494-61:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Gerenciamento de Riscos e Capital - Pilar 3 (4T25)",
-      "referenceDate": "2026-02-04T00:00:00.000Z",
-      "deliveredAt": "2026-02-04T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473192&numSequencia=997898&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE040220260186208494-61"
-    },
-    {
-      "id": "019348IPE040220260142796481-15:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Programa de Recompra de Ações",
-      "referenceDate": "2026-02-04T00:00:00.000Z",
-      "deliveredAt": "2026-02-04T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473197&numSequencia=997903&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE040220260142796481-15"
-    },
-    {
-      "id": "019348IPE040220260134255487-62:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Projeções 2026",
-      "referenceDate": "2026-02-04T00:00:00.000Z",
-      "deliveredAt": "2026-02-04T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473323&numSequencia=998029&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE040220260134255487-62"
-    },
-    {
-      "id": "005410IPE040220260145289179-04:WEGE3",
-      "ticker": "WEGE3",
-      "assetClass": "STOCK",
-      "cvmCode": 5410,
-      "companyName": "WEG SA",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Investimento em nova fábrica de sistemas de armazenamento de energia em baterias (BESS) no Brasil",
-      "referenceDate": "2026-02-04T00:00:00.000Z",
-      "deliveredAt": "2026-02-04T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1472945&numSequencia=997651&numVersao=1",
-      "version": "1",
-      "protocol": "005410IPE040220260145289179-04"
-    },
-    {
-      "id": "005410IPE040220260125265293-83:WEGE3",
-      "ticker": "WEGE3",
-      "assetClass": "STOCK",
-      "cvmCode": 5410,
-      "companyName": "WEG SA",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Diretoria Executiva",
-      "referenceDate": "2026-02-04T00:00:00.000Z",
-      "deliveredAt": "2026-02-04T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473213&numSequencia=997919&numVersao=1",
-      "version": "1",
-      "protocol": "005410IPE040220260125265293-83"
     }
   ],
   "audit": {
@@ -2099,6 +1949,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 139
+    "itemsGenerated": 129
   }
 }
