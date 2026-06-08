@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T22:20:45.478Z",
+  "generatedAt": "2026-06-08T04:43:54.202Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1891,36 +1891,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1475109&numSequencia=999815&numVersao=1",
       "version": "1",
       "protocol": "005410IPE090220260113991868-52"
-    },
-    {
-      "id": "009512IPE060220260108514441-12:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras adquire participação em bloco exploratório na República da Namíbia",
-      "referenceDate": "2026-02-06T00:00:00.000Z",
-      "deliveredAt": "2026-02-06T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1474064&numSequencia=998770&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE060220260108514441-12"
-    },
-    {
-      "id": "009512IPE060220260119203824-29:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre recebimento do earnout de Sépia e Atapu",
-      "referenceDate": "2026-02-06T00:00:00.000Z",
-      "deliveredAt": "2026-02-06T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1474070&numSequencia=998776&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE060220260119203824-29"
     }
   ],
   "audit": {
@@ -1934,6 +1904,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 128
+    "itemsGenerated": 126
   }
 }
