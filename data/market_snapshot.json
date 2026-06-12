@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T04:41:40.951Z",
+  "generatedAt": "2026-06-12T10:23:47.414Z",
   "provider": "brapi",
   "items": [
     {
@@ -23,7 +23,7 @@
     {
       "ticker": "AUPO11",
       "assetClass": "ETF",
-      "price": 106.56,
+      "price": 106.54,
       "priceUpdatedAt": null
     },
     {
@@ -95,7 +95,7 @@
     {
       "ticker": "BITI11",
       "assetClass": "ETF",
-      "price": 29.06,
+      "price": 28.68,
       "priceUpdatedAt": null
     },
     {
@@ -131,7 +131,7 @@
     {
       "ticker": "BOVB11",
       "assetClass": "ETF",
-      "price": 175.7,
+      "price": 175.61,
       "priceUpdatedAt": null
     },
     {
@@ -149,7 +149,7 @@
     {
       "ticker": "BRAX11",
       "assetClass": "ETF",
-      "price": 143.79,
+      "price": 143.83,
       "priceUpdatedAt": null
     },
     {
@@ -185,7 +185,7 @@
     {
       "ticker": "CHIP11",
       "assetClass": "ETF",
-      "price": 38.2,
+      "price": 38.26,
       "priceUpdatedAt": null
     },
     {
@@ -203,7 +203,7 @@
     {
       "ticker": "DEBB11",
       "assetClass": "ETF",
-      "price": 16.56,
+      "price": 16.53,
       "priceUpdatedAt": null
     },
     {
@@ -221,7 +221,7 @@
     {
       "ticker": "DIVO11",
       "assetClass": "ETF",
-      "price": 123.92,
+      "price": 123.66,
       "priceUpdatedAt": null
     },
     {
@@ -293,7 +293,7 @@
     {
       "ticker": "GOLX11",
       "assetClass": "ETF",
-      "price": 49.8,
+      "price": 49.08,
       "priceUpdatedAt": null
     },
     {
@@ -311,7 +311,7 @@
     {
       "ticker": "HGBR11",
       "assetClass": "ETF",
-      "price": 54.53,
+      "price": 54.51,
       "priceUpdatedAt": null
     },
     {
@@ -329,7 +329,7 @@
     {
       "ticker": "HTEK11",
       "assetClass": "ETF",
-      "price": 56.65,
+      "price": 56.41,
       "priceUpdatedAt": null
     },
     {
@@ -365,7 +365,7 @@
     {
       "ticker": "IMAB11",
       "assetClass": "ETF",
-      "price": 112.9,
+      "price": 113,
       "priceUpdatedAt": null
     },
     {
@@ -383,7 +383,7 @@
     {
       "ticker": "LFIN11",
       "assetClass": "ETF",
-      "price": 109.83,
+      "price": 110.15,
       "priceUpdatedAt": null
     },
     {
@@ -401,7 +401,7 @@
     {
       "ticker": "LVOL11",
       "assetClass": "ETF",
-      "price": 135.76,
+      "price": 136.02,
       "priceUpdatedAt": null
     },
     {
@@ -419,7 +419,7 @@
     {
       "ticker": "NASD11",
       "assetClass": "ETF",
-      "price": 20.96,
+      "price": 20.94,
       "priceUpdatedAt": null
     },
     {
@@ -437,7 +437,7 @@
     {
       "ticker": "NTNS11",
       "assetClass": "ETF",
-      "price": 65.29,
+      "price": 65.35,
       "priceUpdatedAt": null
     },
     {
@@ -455,7 +455,7 @@
     {
       "ticker": "PACG11",
       "assetClass": "ETF",
-      "price": 114.39,
+      "price": 114.76,
       "priceUpdatedAt": null
     },
     {
@@ -473,7 +473,7 @@
     {
       "ticker": "QBTC11",
       "assetClass": "ETF",
-      "price": 19.73,
+      "price": 19.7,
       "priceUpdatedAt": null
     },
     {
@@ -491,7 +491,7 @@
     {
       "ticker": "QLBR11",
       "assetClass": "ETF",
-      "price": 113.85,
+      "price": 113.56,
       "priceUpdatedAt": null
     },
     {
@@ -509,7 +509,7 @@
     {
       "ticker": "REVE11",
       "assetClass": "ETF",
-      "price": 75.2,
+      "price": 75.05,
       "priceUpdatedAt": null
     },
     {
@@ -527,7 +527,7 @@
     {
       "ticker": "SOLH11",
       "assetClass": "ETF",
-      "price": 9.56,
+      "price": 9.55,
       "priceUpdatedAt": null
     },
     {
@@ -545,7 +545,7 @@
     {
       "ticker": "SPXR11",
       "assetClass": "ETF",
-      "price": 70.88,
+      "price": 70.83,
       "priceUpdatedAt": null
     },
     {
@@ -581,7 +581,7 @@
     {
       "ticker": "USTK11",
       "assetClass": "ETF",
-      "price": 21.15,
+      "price": 21.17,
       "priceUpdatedAt": null
     },
     {
@@ -617,7 +617,7 @@
     {
       "ticker": "XFIX11",
       "assetClass": "ETF",
-      "price": 13.46,
+      "price": 13.44,
       "priceUpdatedAt": null
     },
     {
