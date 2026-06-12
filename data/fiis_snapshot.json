@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-12T20:19:57.844Z",
+  "generatedAt": "2026-06-12T22:41:50.489Z",
   "provider": "brapi",
   "items": [
     {
       "ticker": "HGLG11",
-      "price": 151.5
+      "price": 151.4
     },
     {
       "ticker": "XPLG11",
@@ -12,15 +12,15 @@
     },
     {
       "ticker": "VILG11",
-      "price": 95.06
+      "price": 94.99
     },
     {
       "ticker": "BTLG11",
-      "price": 103.01
+      "price": 102.95
     },
     {
       "ticker": "GGRC11",
-      "price": 9.98
+      "price": 9.97
     },
     {
       "ticker": "GARE11",
@@ -32,7 +32,7 @@
     },
     {
       "ticker": "HSLG11",
-      "price": 89.14
+      "price": 88.36
     },
     {
       "ticker": "SARE11",
@@ -40,11 +40,11 @@
     },
     {
       "ticker": "BRCO11",
-      "price": 114.6
+      "price": 114.78
     },
     {
       "ticker": "GLOG11",
-      "price": 74.1
+      "price": 75
     },
     {
       "ticker": "RBRL11",
@@ -56,7 +56,7 @@
     },
     {
       "ticker": "XPML11",
-      "price": 104.53
+      "price": 104.49
     },
     {
       "ticker": "HSML11",
@@ -116,7 +116,7 @@
     },
     {
       "ticker": "MXRF11",
-      "price": 9.67
+      "price": 9.66
     },
     {
       "ticker": "CPTS11",
@@ -160,7 +160,7 @@
     },
     {
       "ticker": "VGHF11",
-      "price": 5.96
+      "price": 5.97
     },
     {
       "ticker": "BTHF11",
