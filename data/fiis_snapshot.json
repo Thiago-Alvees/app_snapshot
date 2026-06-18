@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T20:38:33.206Z",
+  "generatedAt": "2026-06-18T22:59:14.601Z",
   "provider": "brapi",
   "items": [
     {
@@ -100,7 +100,7 @@
     },
     {
       "ticker": "BRCR11",
-      "price": 42.75
+      "price": 42.56
     },
     {
       "ticker": "PVBI11",
