@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T22:56:58.715Z",
+  "generatedAt": "2026-06-18T23:17:40.881Z",
   "provider": "brapi (modules: defaultKeyStatistics, financialData) + curated seed",
   "items": [
     {
@@ -1404,9 +1404,9 @@
       "assetClass": "STOCK",
       "name": "ITUB4",
       "category": "Financeiro",
-      "pvp": 2.1269727,
-      "pl": 10.280185446482564,
-      "dividendYield12m": 8,
+      "pvp": 2.1453767,
+      "pl": 10.202076194315662,
+      "dividendYield12m": 9,
       "expenseRatio": 0,
       "expectedAnnualReturn": 13.5
     },
@@ -1426,8 +1426,8 @@
       "assetClass": "STOCK",
       "name": "MGLU3",
       "category": "Ações",
-      "pvp": 0.3442174,
-      "pl": 27.88235294117647,
+      "pvp": 0.3263181,
+      "pl": 26.470588235294116,
       "dividendYield12m": 2,
       "expenseRatio": 0,
       "expectedAnnualReturn": 12
@@ -1459,8 +1459,8 @@
       "assetClass": "STOCK",
       "name": "PETR4",
       "category": "Petróleo e Gás",
-      "pvp": 1.1157773,
-      "pl": 4.620766493752321,
+      "pvp": 1.1166458,
+      "pl": 4.654311078098981,
       "dividendYield12m": 6,
       "expenseRatio": 0,
       "expectedAnnualReturn": 15.3
@@ -1602,8 +1602,8 @@
       "assetClass": "STOCK",
       "name": "VALE3",
       "category": "Ações",
-      "pvp": 1.8906639,
-      "pl": 21.898932228047542,
+      "pvp": 1.8521262,
+      "pl": 21.94285086876561,
       "dividendYield12m": 7.000000000000001,
       "expenseRatio": 0,
       "expectedAnnualReturn": 12
