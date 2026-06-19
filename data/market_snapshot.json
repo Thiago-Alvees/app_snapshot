@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T05:00:05.440Z",
+  "generatedAt": "2026-06-19T10:47:41.100Z",
   "provider": "brapi",
   "items": [
     {
@@ -815,7 +815,7 @@
     {
       "ticker": "RADL3",
       "assetClass": "STOCK",
-      "price": 16.54,
+      "price": 16.55,
       "priceUpdatedAt": null
     },
     {
