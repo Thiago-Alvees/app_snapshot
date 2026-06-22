@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-06-19T22:10:56.106Z",
+  "generatedAt": "2026-06-22T05:04:28.582Z",
   "provider": "CVM IPE",
   "items": [
+    {
+      "id": "009512IPE190620260150018960-96:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras aprova investimento em planta de BioQAV e diesel renovável na RPBC",
+      "referenceDate": "2026-06-19T00:00:00.000Z",
+      "deliveredAt": "2026-06-19T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1536511&numSequencia=1061217&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE190620260150018960-96"
+    },
+    {
+      "id": "021610IPE180620260119934012-59:B3SA3",
+      "ticker": "B3SA3",
+      "assetClass": "STOCK",
+      "cvmCode": 21610,
+      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Alteração na Vice-Presidência de Tecnologia",
+      "referenceDate": "2026-06-18T00:00:00.000Z",
+      "deliveredAt": "2026-06-18T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1536319&numSequencia=1061025&numVersao=1",
+      "version": "1",
+      "protocol": "021610IPE180620260119934012-59"
+    },
+    {
+      "id": "009512IPE170620260175316572-14:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras recebe pagamento da primeira parcela do Programa de subvenção econômica do diesel",
+      "referenceDate": "2026-06-17T00:00:00.000Z",
+      "deliveredAt": "2026-06-17T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1535844&numSequencia=1060550&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE170620260175316572-14"
+    },
+    {
+      "id": "021610IPE160620260138720467-09:B3SA3",
+      "ticker": "B3SA3",
+      "assetClass": "STOCK",
+      "cvmCode": 21610,
+      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Dados Operacionais - maio 2026",
+      "referenceDate": "2026-06-16T00:00:00.000Z",
+      "deliveredAt": "2026-06-16T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1535185&numSequencia=1059891&numVersao=1",
+      "version": "1",
+      "protocol": "021610IPE160620260138720467-09"
+    },
+    {
+      "id": "009512IPE160620260156557815-03:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras informa sobre atualização monetária da remuneração aos acionistas relativa ao Exercício Social de 2025",
+      "referenceDate": "2026-06-16T00:00:00.000Z",
+      "deliveredAt": "2026-06-16T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1534895&numSequencia=1059601&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE160620260156557815-03"
+    },
+    {
+      "id": "005410IPE160620260186799241-39:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Aviso aos Acionistas",
+      "type": "Outros avisos",
+      "subject": "Dividendos/Juros sobre Capital Próprio",
+      "referenceDate": "2026-06-16T00:00:00.000Z",
+      "deliveredAt": "2026-06-16T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1535095&numSequencia=1059801&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE160620260186799241-39"
+    },
     {
       "id": "009512IPE100620260168989553-60:PETR4",
       "ticker": "PETR4",
@@ -1799,6 +1889,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 119
+    "itemsGenerated": 125
   }
 }
