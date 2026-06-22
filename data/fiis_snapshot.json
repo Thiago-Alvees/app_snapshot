@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-06-22T05:04:01.739Z",
+  "generatedAt": "2026-06-22T22:53:30.874Z",
   "provider": "brapi",
   "items": [
     {
       "ticker": "HGLG11",
-      "price": 150.5
+      "price": 150.41
     },
     {
       "ticker": "XPLG11",
-      "price": 89.05
+      "price": 90.19
     },
     {
       "ticker": "VILG11",
-      "price": 96.69
+      "price": 94.31
     },
     {
       "ticker": "BTLG11",
-      "price": 102.74
+      "price": 101.8
     },
     {
       "ticker": "GGRC11",
-      "price": 9.85
+      "price": 9.87
     },
     {
       "ticker": "GARE11",
-      "price": 8.15
+      "price": 8.13
     },
     {
       "ticker": "LVBI11",
-      "price": 103.87
+      "price": 104.73
     },
     {
       "ticker": "HSLG11",
-      "price": 86.81
+      "price": 86.77
     },
     {
       "ticker": "SARE11",
@@ -40,7 +40,7 @@
     },
     {
       "ticker": "BRCO11",
-      "price": 112.69
+      "price": 113.24
     },
     {
       "ticker": "GLOG11",
@@ -52,31 +52,31 @@
     },
     {
       "ticker": "VISC11",
-      "price": 104.73
+      "price": 103.7
     },
     {
       "ticker": "XPML11",
-      "price": 103.01
-    },
-    {
-      "ticker": "HSML11",
-      "price": 86.5
-    },
-    {
-      "ticker": "PMLL11",
       "price": 103.99
     },
     {
+      "ticker": "HSML11",
+      "price": 85.98
+    },
+    {
+      "ticker": "PMLL11",
+      "price": 103.76
+    },
+    {
       "ticker": "FLRP11",
-      "price": 20.35
+      "price": 20.69
     },
     {
       "ticker": "HGBS11",
-      "price": 19.35
+      "price": 19.4
     },
     {
       "ticker": "TORD11",
-      "price": 1.06
+      "price": 1.03
     },
     {
       "ticker": "ABCP11",
@@ -84,15 +84,15 @@
     },
     {
       "ticker": "KNRI11",
-      "price": 149.4
+      "price": 149.31
     },
     {
       "ticker": "HGRE11",
-      "price": 126.45
+      "price": 125.41
     },
     {
       "ticker": "RCRB11",
-      "price": 136.99
+      "price": 136.9
     },
     {
       "ticker": "VINO11",
@@ -100,39 +100,39 @@
     },
     {
       "ticker": "BRCR11",
-      "price": 42.57
+      "price": 42.45
     },
     {
       "ticker": "PVBI11",
-      "price": 73.7
+      "price": 72.72
     },
     {
       "ticker": "JSRE11",
-      "price": 60.14
+      "price": 60.06
     },
     {
       "ticker": "AIEC11",
-      "price": 60.8
+      "price": 60.81
     },
     {
       "ticker": "MXRF11",
-      "price": 9.75
+      "price": 9.67
     },
     {
       "ticker": "CPTS11",
-      "price": 7.3
+      "price": 7.27
     },
     {
       "ticker": "KNCR11",
-      "price": 107.06
+      "price": 107.11
     },
     {
       "ticker": "KNSC11",
-      "price": 9.01
+      "price": 9.05
     },
     {
       "ticker": "RECR11",
-      "price": 80.99
+      "price": 80.56
     },
     {
       "ticker": "VGIR11",
@@ -140,7 +140,7 @@
     },
     {
       "ticker": "RBRR11",
-      "price": 78.53
+      "price": 78.66
     },
     {
       "ticker": "IRDM11",
@@ -148,23 +148,23 @@
     },
     {
       "ticker": "HCTR11",
-      "price": 15.76
+      "price": 15.94
     },
     {
       "ticker": "DEVA11",
-      "price": 17.7
+      "price": 17.63
     },
     {
       "ticker": "URPR11",
-      "price": 22.25
+      "price": 22.35
     },
     {
       "ticker": "VGHF11",
-      "price": 5.96
+      "price": 5.98
     },
     {
       "ticker": "BTHF11",
-      "price": 9.13
+      "price": 9.05
     },
     {
       "ticker": "RBRF11",
@@ -172,7 +172,7 @@
     },
     {
       "ticker": "HGRU11",
-      "price": 130.5
+      "price": 129.39
     },
     {
       "ticker": "RBVA11",
@@ -180,11 +180,11 @@
     },
     {
       "ticker": "RECT11",
-      "price": 34.8
+      "price": 34.77
     },
     {
       "ticker": "ALZR11",
-      "price": 9.82
+      "price": 9.77
     },
     {
       "ticker": "RBED11",
@@ -192,11 +192,11 @@
     },
     {
       "ticker": "FIIB11",
-      "price": 444.2
+      "price": 443.5
     },
     {
       "ticker": "RZTR11",
-      "price": 89.79
+      "price": 89.34
     },
     {
       "ticker": "MORE11",
