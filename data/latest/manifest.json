@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "runDate": "2026-07-02",
+  "timezone": "America/Fortaleza",
+  "startedAt": "2026-07-02T22:14:01.187Z",
+  "finishedAt": "2026-07-02T22:16:22.633Z",
+  "durationMs": 141446,
+  "budget": {
+    "plannedRequests": 177,
+    "maxRequests": 220,
+    "usedRequests": 188
+  },
+  "totals": {
+    "processed": 177,
+    "succeeded": 164,
+    "failed": 13,
+    "fallback": 0
+  },
+  "filters": {
+    "dryRun": false,
+    "fallbackEnabled": true
+  },
+  "outputs": {
+    "marketSnapshotPath": "data/latest/market-snapshot.json",
+    "benchmarksPath": "data/latest/benchmarks.json",
+    "manifestPath": "data/latest/manifest.json",
+    "logsPath": "data/logs/2026-07-02/update-market-snapshot.log.jsonl"
+  },
+  "errors": [
+    {
+      "symbol": "RBED11",
+      "category": "fii",
+      "message": "Error: BRAPI: symbol not found (RBED11)",
+      "status": 404
+    },
+    {
+      "symbol": "MRFG3",
+      "category": "acao",
+      "message": "Error: BRAPI: symbol not found (MRFG3)",
+      "status": 404
+    },
+    {
+      "symbol": "PORT3",
+      "category": "acao",
+      "message": "Error: BRAPI: symbol not found (PORT3)",
+      "status": 404
+    },
+    {
+      "symbol": "GOLD11T",
+      "category": "etf",
+      "message": "Error: BRAPI: symbol not found (GOLD11T)",
+      "status": 404
+    },
+    {
+      "symbol": "META34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (META34)",
+      "status": 404
+    },
+    {
+      "symbol": "INTC34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (INTC34)",
+      "status": 404
+    },
+    {
+      "symbol": "PFGC34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (PFGC34)",
+      "status": 404
+    },
+    {
+      "symbol": "KOCA34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (KOCA34)",
+      "status": 404
+    },
+    {
+      "symbol": "N1KE34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (N1KE34)",
+      "status": 404
+    },
+    {
+      "symbol": "IBBR",
+      "category": "benchmark",
+      "kind": "index",
+      "message": "Error: BRAPI: index not found (IBBR)",
+      "status": 404
+    },
+    {
+      "symbol": "CDI",
+      "category": "benchmark",
+      "kind": "primeRate",
+      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
+      "status": 403
+    },
+    {
+      "symbol": "USDBRL",
+      "category": "benchmark",
+      "kind": "currency",
+      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
+      "status": 403
+    },
+    {
+      "symbol": "IPCA",
+      "category": "benchmark",
+      "kind": "inflation",
+      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
+      "status": 403
+    }
+  ]
+}
