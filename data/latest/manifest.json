@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "runDate": "2026-07-03",
+  "runDate": "2026-07-06",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-07-03T22:10:57.171Z",
-  "finishedAt": "2026-07-03T22:13:22.862Z",
-  "durationMs": 145691,
+  "startedAt": "2026-07-06T22:20:12.222Z",
+  "finishedAt": "2026-07-06T22:22:29.758Z",
+  "durationMs": 137536,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 189
+    "usedRequests": 188
   },
   "totals": {
     "processed": 177,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-07-03/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-07-06/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -82,20 +82,6 @@
       "status": 404
     },
     {
-      "symbol": "CDI",
-      "category": "benchmark",
-      "kind": "primeRate",
-      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
-      "status": 403
-    },
-    {
-      "symbol": "IPCA",
-      "category": "benchmark",
-      "kind": "inflation",
-      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
-      "status": 403
-    },
-    {
       "symbol": "IBBR",
       "category": "benchmark",
       "kind": "index",
@@ -103,9 +89,23 @@
       "status": 404
     },
     {
+      "symbol": "CDI",
+      "category": "benchmark",
+      "kind": "primeRate",
+      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
+      "status": 403
+    },
+    {
       "symbol": "USDBRL",
       "category": "benchmark",
       "kind": "currency",
+      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
+      "status": 403
+    },
+    {
+      "symbol": "IPCA",
+      "category": "benchmark",
+      "kind": "inflation",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
       "status": 403
     }

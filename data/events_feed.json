@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-07-03T22:13:26.263Z",
+  "generatedAt": "2026-07-06T22:22:33.285Z",
   "provider": "CVM IPE",
   "items": [
+    {
+      "id": "019348IPE010720260180495356-14:ITUB4",
+      "ticker": "ITUB4",
+      "assetClass": "STOCK",
+      "cvmCode": 19348,
+      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Itaú vence licitação promovida por Minas Gerais para a gestão de folha de pagamentos",
+      "referenceDate": "2026-07-01T00:00:00.000Z",
+      "deliveredAt": "2026-07-01T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1540722&numSequencia=1065428&numVersao=1",
+      "version": "1",
+      "protocol": "019348IPE010720260180495356-14"
+    },
+    {
+      "id": "009512IPE300620260162346114-87:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras recebe pagamento de nova parcela do Programa de Subvenção Econômica do diesel",
+      "referenceDate": "2026-06-30T00:00:00.000Z",
+      "deliveredAt": "2026-06-30T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1540157&numSequencia=1064863&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE300620260162346114-87"
+    },
     {
       "id": "001023IPE260620260123747727-61:BBAS3",
       "ticker": "BBAS3",
@@ -1711,21 +1741,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1487157&numSequencia=1011863&numVersao=1",
       "version": "1",
       "protocol": "001023IPE090320260140784447-82"
-    },
-    {
-      "id": "009512IPE060320260132480056-37:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre indicações do acionista controlador e de acionistas minoritários para o Conselho de Administração e Conselho Fiscal",
-      "referenceDate": "2026-03-06T00:00:00.000Z",
-      "deliveredAt": "2026-03-06T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1486947&numSequencia=1011653&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE060320260132480056-37"
     }
   ],
   "audit": {
@@ -1739,6 +1754,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 115
+    "itemsGenerated": 116
   }
 }
