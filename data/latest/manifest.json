@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "runDate": "2026-07-08",
+  "runDate": "2026-07-09",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-07-08T22:13:38.405Z",
-  "finishedAt": "2026-07-08T22:15:13.067Z",
-  "durationMs": 94662,
+  "startedAt": "2026-07-09T22:37:42.506Z",
+  "finishedAt": "2026-07-09T22:38:26.423Z",
+  "durationMs": 43917,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-07-08/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-07-09/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -89,16 +89,16 @@
       "status": 404
     },
     {
-      "symbol": "IPCA",
+      "symbol": "CDI",
       "category": "benchmark",
-      "kind": "inflation",
+      "kind": "primeRate",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
       "status": 403
     },
     {
-      "symbol": "CDI",
+      "symbol": "IPCA",
       "category": "benchmark",
-      "kind": "primeRate",
+      "kind": "inflation",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
       "status": 403
     },
