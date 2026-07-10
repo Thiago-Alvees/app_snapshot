@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "runDate": "2026-07-09",
+  "runDate": "2026-07-10",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-07-09T22:37:42.506Z",
-  "finishedAt": "2026-07-09T22:38:26.423Z",
-  "durationMs": 43917,
+  "startedAt": "2026-07-10T22:11:30.590Z",
+  "finishedAt": "2026-07-10T22:24:57.933Z",
+  "durationMs": 807343,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 188
+    "usedRequests": 220
   },
   "totals": {
     "processed": 177,
-    "succeeded": 164,
-    "failed": 13,
+    "succeeded": 151,
+    "failed": 26,
     "fallback": 0
   },
   "filters": {
@@ -24,9 +24,15 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-07-09/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-07-10/update-market-snapshot.log.jsonl"
   },
   "errors": [
+    {
+      "symbol": "FLRP11",
+      "category": "fii",
+      "message": "AbortError: This operation was aborted",
+      "status": null
+    },
     {
       "symbol": "RBED11",
       "category": "fii",
@@ -54,60 +60,135 @@
     {
       "symbol": "META34",
       "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (META34)",
-      "status": 404
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
+    },
+    {
+      "symbol": "NFLX34",
+      "category": "bdr",
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
+    },
+    {
+      "symbol": "DISB34",
+      "category": "bdr",
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
     },
     {
       "symbol": "INTC34",
       "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (INTC34)",
-      "status": 404
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
+    },
+    {
+      "symbol": "ORCL34",
+      "category": "bdr",
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
+    },
+    {
+      "symbol": "PYPL34",
+      "category": "bdr",
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
+    },
+    {
+      "symbol": "MCDC34",
+      "category": "bdr",
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
+    },
+    {
+      "symbol": "VISA34",
+      "category": "bdr",
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
+    },
+    {
+      "symbol": "JNJB34",
+      "category": "bdr",
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
     },
     {
       "symbol": "PFGC34",
       "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (PFGC34)",
-      "status": 404
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
+    },
+    {
+      "symbol": "BABA34",
+      "category": "bdr",
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
     },
     {
       "symbol": "KOCA34",
       "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (KOCA34)",
-      "status": 404
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
     },
     {
       "symbol": "N1KE34",
       "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (N1KE34)",
-      "status": 404
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
+    },
+    {
+      "symbol": "WALM34",
+      "category": "bdr",
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
+    },
+    {
+      "symbol": "IFIX",
+      "category": "benchmark",
+      "kind": "index",
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
+    },
+    {
+      "symbol": "IBOV",
+      "category": "benchmark",
+      "kind": "index",
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
     },
     {
       "symbol": "IBBR",
       "category": "benchmark",
       "kind": "index",
-      "message": "Error: BRAPI: index not found (IBBR)",
-      "status": 404
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
+    },
+    {
+      "symbol": "IDIV",
+      "category": "benchmark",
+      "kind": "index",
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
     },
     {
       "symbol": "CDI",
       "category": "benchmark",
       "kind": "primeRate",
-      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
-      "status": 403
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
     },
     {
       "symbol": "IPCA",
       "category": "benchmark",
       "kind": "inflation",
-      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
-      "status": 403
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
     },
     {
       "symbol": "USDBRL",
       "category": "benchmark",
       "kind": "currency",
-      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
-      "status": 403
+      "message": "BudgetExceededError: request budget exceeded: used=220, amount=1, max=220",
+      "status": null
     }
   ]
 }

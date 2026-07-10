@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T22:38:28.992Z",
+  "generatedAt": "2026-07-10T22:25:01.656Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1681,36 +1681,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1490859&numSequencia=1015565&numVersao=1",
       "version": "1",
       "protocol": "009512IPE160320260190313714-69"
-    },
-    {
-      "id": "009512IPE120320260181435961-48:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Relatório Fiscal 2025",
-      "referenceDate": "2026-03-12T00:00:00.000Z",
-      "deliveredAt": "2026-03-12T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1489380&numSequencia=1014086&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE120320260181435961-48"
-    },
-    {
-      "id": "009512IPE120320260148140045-35:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Petrobras informa sobre adesão à subvenção econômica à comercialização de óleo diesel",
-      "referenceDate": "2026-03-12T00:00:00.000Z",
-      "deliveredAt": "2026-03-12T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1489893&numSequencia=1014599&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE120320260148140045-35"
     }
   ],
   "audit": {
@@ -1724,6 +1694,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 114
+    "itemsGenerated": 112
   }
 }
