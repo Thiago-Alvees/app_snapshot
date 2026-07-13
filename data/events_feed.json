@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-07-10T22:25:01.656Z",
+  "generatedAt": "2026-07-13T22:02:28.864Z",
   "provider": "CVM IPE",
   "items": [
+    {
+      "id": "009512IPE090720260180061918-60:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras conclui aquisição de bloco exploratório em São Tomé e Príncipe",
+      "referenceDate": "2026-07-09T00:00:00.000Z",
+      "deliveredAt": "2026-07-09T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1543516&numSequencia=1068222&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE090720260180061918-60"
+    },
+    {
+      "id": "009512IPE070720260159679922-55:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras informa sobre resultado do 2º trimestre de 2026",
+      "referenceDate": "2026-07-07T00:00:00.000Z",
+      "deliveredAt": "2026-07-07T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1542688&numSequencia=1067394&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE070720260159679922-55"
+    },
+    {
+      "id": "009512IPE060720260127587975-02:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras recebe pagamento de novas parcelas do Programa de Subvenção Econômica do diesel",
+      "referenceDate": "2026-07-06T00:00:00.000Z",
+      "deliveredAt": "2026-07-06T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1542194&numSequencia=1066900&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE060720260127587975-02"
+    },
+    {
+      "id": "005410IPE060720260147756994-62:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Agenda de Divulgação de Resultados 2T26",
+      "referenceDate": "2026-07-06T00:00:00.000Z",
+      "deliveredAt": "2026-07-06T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1542018&numSequencia=1066724&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE060720260147756994-62"
+    },
     {
       "id": "019348IPE010720260180495356-14:ITUB4",
       "ticker": "ITUB4",
@@ -1694,6 +1754,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 112
+    "itemsGenerated": 116
   }
 }
