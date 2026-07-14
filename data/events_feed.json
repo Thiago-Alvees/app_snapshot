@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T22:02:28.864Z",
+  "generatedAt": "2026-07-14T22:05:54.034Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1681,66 +1681,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1491274&numSequencia=1015980&numVersao=1",
       "version": "1",
       "protocol": "005410IPE170320260158832246-91"
-    },
-    {
-      "id": "021610IPE160320260108652553-22:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Dados Operacionais - fevereiro 2026",
-      "referenceDate": "2026-03-16T00:00:00.000Z",
-      "deliveredAt": "2026-03-16T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1490847&numSequencia=1015553&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE160320260108652553-22"
-    },
-    {
-      "id": "009512IPE160320260194032716-47:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre atualização monetária da remuneração aos acionistas relativa ao 3T25",
-      "referenceDate": "2026-03-16T00:00:00.000Z",
-      "deliveredAt": "2026-03-16T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1490561&numSequencia=1015267&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE160320260194032716-47"
-    },
-    {
-      "id": "009512IPE160320260195365654-83:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre participação no campo de Tartaruga Verde e no Módulo III do campo de Espadarte",
-      "referenceDate": "2026-03-16T00:00:00.000Z",
-      "deliveredAt": "2026-03-16T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1490832&numSequencia=1015538&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE160320260195365654-83"
-    },
-    {
-      "id": "009512IPE160320260190313714-69:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre indicações do acionista controlador e de acionistas minoritários para o Conselho de Administração e Conselho Fiscal",
-      "referenceDate": "2026-03-16T00:00:00.000Z",
-      "deliveredAt": "2026-03-16T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1490859&numSequencia=1015565&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE160320260190313714-69"
     }
   ],
   "audit": {
@@ -1754,6 +1694,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 116
+    "itemsGenerated": 112
   }
 }
