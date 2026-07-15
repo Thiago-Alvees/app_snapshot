@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T22:05:54.034Z",
+  "generatedAt": "2026-07-15T22:08:36.575Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1666,21 +1666,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1492070&numSequencia=1016776&numVersao=1",
       "version": "1",
       "protocol": "009512IPE180320260108261783-61"
-    },
-    {
-      "id": "005410IPE170320260158832246-91:WEGE3",
-      "ticker": "WEGE3",
-      "assetClass": "STOCK",
-      "cvmCode": 5410,
-      "companyName": "WEG SA",
-      "category": "Aviso aos Acionistas",
-      "type": "Outros avisos",
-      "subject": "Dividendos/Juros sobre Capital Próprio",
-      "referenceDate": "2026-03-17T00:00:00.000Z",
-      "deliveredAt": "2026-03-17T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1491274&numSequencia=1015980&numVersao=1",
-      "version": "1",
-      "protocol": "005410IPE170320260158832246-91"
     }
   ],
   "audit": {
@@ -1694,6 +1679,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 112
+    "itemsGenerated": 111
   }
 }
