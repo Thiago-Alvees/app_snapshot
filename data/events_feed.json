@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T22:08:36.575Z",
+  "generatedAt": "2026-07-16T22:10:10.585Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1636,36 +1636,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1492775&numSequencia=1017481&numVersao=1",
       "version": "1",
       "protocol": "021610IPE190320260161406441-77"
-    },
-    {
-      "id": "009512IPE180320260134172927-42:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras confirma nova descoberta de gás na Colômbia",
-      "referenceDate": "2026-03-18T00:00:00.000Z",
-      "deliveredAt": "2026-03-18T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1491644&numSequencia=1016350&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE180320260134172927-42"
-    },
-    {
-      "id": "009512IPE180320260108261783-61:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO  S.A.  - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre resultado no Leilão de Reserva de Capacidade",
-      "referenceDate": "2026-03-18T00:00:00.000Z",
-      "deliveredAt": "2026-03-18T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1492070&numSequencia=1016776&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE180320260108261783-61"
     }
   ],
   "audit": {
@@ -1679,6 +1649,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 111
+    "itemsGenerated": 109
   }
 }
