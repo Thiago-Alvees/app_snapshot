@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T22:10:10.585Z",
+  "generatedAt": "2026-07-17T22:00:21.519Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1621,21 +1621,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1493130&numSequencia=1017836&numVersao=1",
       "version": "1",
       "protocol": "009512IPE200320260193506268-22"
-    },
-    {
-      "id": "021610IPE190320260161406441-77:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Alteração na Administração da B3",
-      "referenceDate": "2026-03-19T00:00:00.000Z",
-      "deliveredAt": "2026-03-19T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1492775&numSequencia=1017481&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE190320260161406441-77"
     }
   ],
   "audit": {
@@ -1649,6 +1634,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 109
+    "itemsGenerated": 108
   }
 }
