@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-07-20T22:07:09.411Z",
+  "generatedAt": "2026-07-21T22:08:21.851Z",
   "provider": "brapi",
   "items": [
     {
       "ticker": "ABCP11",
-      "price": 74.73
+      "price": 74.68
     },
     {
       "ticker": "AIEC11",
-      "price": 61.1
+      "price": 60.8
     },
     {
       "ticker": "ALZR11",
-      "price": 9.95
+      "price": 9.91
     },
     {
       "ticker": "BRCO11",
-      "price": 113.49
+      "price": 113.6
     },
     {
       "ticker": "BRCR11",
-      "price": 40.4
+      "price": 40.33
     },
     {
       "ticker": "BTHF11",
-      "price": 9.01
+      "price": 8.94
     },
     {
       "ticker": "BTLG11",
-      "price": 102.56
+      "price": 102.39
     },
     {
       "ticker": "CPTS11",
-      "price": 7.52
+      "price": 7.41
     },
     {
       "ticker": "DEVA11",
-      "price": 18.23
+      "price": 18.25
     },
     {
       "ticker": "FIIB11",
-      "price": 437.02
+      "price": 437.99
     },
     {
       "ticker": "FLRP11",
-      "price": 20.39
+      "price": 20.4
     },
     {
       "ticker": "GARE11",
-      "price": 8.13
+      "price": 8.17
     },
     {
       "ticker": "GGRC11",
@@ -60,31 +60,31 @@
     },
     {
       "ticker": "HCTR11",
-      "price": 16.2
+      "price": 16.17
     },
     {
       "ticker": "HGBS11",
-      "price": 19.31
+      "price": 19.25
     },
     {
       "ticker": "HGLG11",
-      "price": 148.5
+      "price": 149.01
     },
     {
       "ticker": "HGRE11",
-      "price": 122.82
+      "price": 121.84
     },
     {
       "ticker": "HGRU11",
-      "price": 126.45
+      "price": 126
     },
     {
       "ticker": "HSLG11",
-      "price": 91.84
+      "price": 91.83
     },
     {
       "ticker": "HSML11",
-      "price": 87.37
+      "price": 87.58
     },
     {
       "ticker": "IRDM11",
@@ -92,23 +92,23 @@
     },
     {
       "ticker": "JSRE11",
-      "price": 60.41
+      "price": 60.45
     },
     {
       "ticker": "KNCR11",
-      "price": 108.08
+      "price": 107.58
     },
     {
       "ticker": "KNRI11",
-      "price": 156.27
+      "price": 156.29
     },
     {
       "ticker": "KNSC11",
-      "price": 9.2
+      "price": 9.15
     },
     {
       "ticker": "LVBI11",
-      "price": 103.75
+      "price": 103.96
     },
     {
       "ticker": "MORE11",
@@ -116,15 +116,15 @@
     },
     {
       "ticker": "MXRF11",
-      "price": 9.73
+      "price": 9.67
     },
     {
       "ticker": "PMLL11",
-      "price": 100.4
+      "price": 100.6
     },
     {
       "ticker": "PVBI11",
-      "price": 72.5
+      "price": 72.39
     },
     {
       "ticker": "RBRF11",
@@ -132,19 +132,19 @@
     },
     {
       "ticker": "RBRL11",
-      "price": 72.5
+      "price": 71.4
     },
     {
       "ticker": "RBRR11",
-      "price": 76.91
+      "price": 76.59
     },
     {
       "ticker": "RBVA11",
-      "price": 9.05
+      "price": 9
     },
     {
       "ticker": "RCRB11",
-      "price": 139.02
+      "price": 138.98
     },
     {
       "ticker": "RECR11",
@@ -152,11 +152,11 @@
     },
     {
       "ticker": "RECT11",
-      "price": 35.31
+      "price": 35.36
     },
     {
       "ticker": "RZTR11",
-      "price": 87
+      "price": 86.75
     },
     {
       "ticker": "SARE11",
@@ -164,19 +164,19 @@
     },
     {
       "ticker": "TORD11",
-      "price": 1.18
+      "price": 1.28
     },
     {
       "ticker": "URPR11",
-      "price": 19.29
+      "price": 19.2
     },
     {
       "ticker": "VGHF11",
-      "price": 5.92
+      "price": 5.87
     },
     {
       "ticker": "VGIR11",
-      "price": 9.66
+      "price": 9.6
     },
     {
       "ticker": "VILG11",
@@ -184,19 +184,19 @@
     },
     {
       "ticker": "VINO11",
-      "price": 4.64
+      "price": 4.55
     },
     {
       "ticker": "VISC11",
-      "price": 105.24
+      "price": 105.1
     },
     {
       "ticker": "XPLG11",
-      "price": 90.8
+      "price": 91
     },
     {
       "ticker": "XPML11",
-      "price": 105.35
+      "price": 104.5
     }
   ]
 }

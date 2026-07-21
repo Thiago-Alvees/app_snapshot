@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T22:07:41.728Z",
+  "generatedAt": "2026-07-21T22:08:56.579Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1651,21 +1651,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1494723&numSequencia=1019429&numVersao=1",
       "version": "1",
       "protocol": "009512IPE240320260127115730-20"
-    },
-    {
-      "id": "009512IPE230320260160911866-07:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre indicações do acionista controlador e de acionistas minoritários para o Conselho de Administração e Conselho Fiscal",
-      "referenceDate": "2026-03-23T00:00:00.000Z",
-      "deliveredAt": "2026-03-23T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1494045&numSequencia=1018751&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE230320260160911866-07"
     }
   ],
   "audit": {
@@ -1679,6 +1664,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 111
+    "itemsGenerated": 110
   }
 }
