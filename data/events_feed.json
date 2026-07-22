@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T22:08:56.579Z",
+  "generatedAt": "2026-07-22T22:11:53.651Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1636,21 +1636,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1495954&numSequencia=1020660&numVersao=1",
       "version": "1",
       "protocol": "019348IPE260320260123588908-74"
-    },
-    {
-      "id": "009512IPE240320260127115730-20:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Esclarecimentos sobre questionamentos da CVM/B3",
-      "subject": "Notícia Divulgada na Mídia",
-      "referenceDate": "2026-03-24T00:00:00.000Z",
-      "deliveredAt": "2026-03-24T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1494723&numSequencia=1019429&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE240320260127115730-20"
     }
   ],
   "audit": {
@@ -1664,6 +1649,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 110
+    "itemsGenerated": 109
   }
 }
