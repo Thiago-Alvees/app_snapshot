@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T22:10:18.089Z",
+  "generatedAt": "2026-07-24T22:12:04.250Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1591,51 +1591,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1497488&numSequencia=1022194&numVersao=1",
       "version": "1",
       "protocol": "019348IPE270320260162797533-48"
-    },
-    {
-      "id": "009512IPE260320260155654902-64:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Esclarecimentos sobre questionamentos da CVM/B3",
-      "subject": "Notícia divulgada na mídia",
-      "referenceDate": "2026-03-26T00:00:00.000Z",
-      "deliveredAt": "2026-03-26T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1496208&numSequencia=1020914&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE260320260155654902-64"
-    },
-    {
-      "id": "009512IPE260320260164780084-60:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Nova descoberta de petróleo no pré-sal da Bacia de Campos",
-      "referenceDate": "2026-03-26T00:00:00.000Z",
-      "deliveredAt": "2026-03-26T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1495407&numSequencia=1020113&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE260320260164780084-60"
-    },
-    {
-      "id": "019348IPE260320260123588908-74:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Letras Financeiras Subordinadas Nível 2",
-      "referenceDate": "2026-03-26T00:00:00.000Z",
-      "deliveredAt": "2026-03-26T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1495954&numSequencia=1020660&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE260320260123588908-74"
     }
   ],
   "audit": {
@@ -1649,6 +1604,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 109
+    "itemsGenerated": 106
   }
 }
