@@ -1,7 +1,127 @@
 {
-  "generatedAt": "2026-07-24T22:12:04.250Z",
+  "generatedAt": "2026-07-27T22:13:16.703Z",
   "provider": "CVM IPE",
   "items": [
+    {
+      "id": "021610IPE240720260177746960-44:B3SA3",
+      "ticker": "B3SA3",
+      "assetClass": "STOCK",
+      "cvmCode": 21610,
+      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Cronograma de divulgação dos resultados do 2T26",
+      "referenceDate": "2026-07-24T00:00:00.000Z",
+      "deliveredAt": "2026-07-24T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547947&numSequencia=1072653&numVersao=1",
+      "version": "1",
+      "protocol": "021610IPE240720260177746960-44"
+    },
+    {
+      "id": "009512IPE240720260100662805-57:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Eleição do Diretor Executivo Interino de Transição Energética e Sustentabilidade",
+      "referenceDate": "2026-07-24T00:00:00.000Z",
+      "deliveredAt": "2026-07-24T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547951&numSequencia=1072657&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE240720260100662805-57"
+    },
+    {
+      "id": "005410IPE240720260149024348-61:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Comunicado ao Mercado",
+      "type": "Apresentações a analistas/agentes do mercado",
+      "subject": "Apresentação para Investidores",
+      "referenceDate": "2026-07-24T00:00:00.000Z",
+      "deliveredAt": "2026-07-24T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1548004&numSequencia=1072710&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE240720260149024348-61"
+    },
+    {
+      "id": "005410IPE230720260102316429-20:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Comunicado ao Mercado",
+      "type": "Apresentações a analistas/agentes do mercado",
+      "subject": "Apresentação da Teleconferência de Resultados do 2T26",
+      "referenceDate": "2026-07-23T00:00:00.000Z",
+      "deliveredAt": "2026-07-23T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547199&numSequencia=1071905&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE230720260102316429-20"
+    },
+    {
+      "id": "001023IPE220720260177813106-58:BBAS3",
+      "ticker": "BBAS3",
+      "assetClass": "STOCK",
+      "cvmCode": 1023,
+      "companyName": "BANCO DO BRASIL S.A.",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Medida Provisória 1376",
+      "referenceDate": "2026-07-22T00:00:00.000Z",
+      "deliveredAt": "2026-07-22T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547127&numSequencia=1071833&numVersao=1",
+      "version": "1",
+      "protocol": "001023IPE220720260177813106-58"
+    },
+    {
+      "id": "021610IPE220720260196189469-75:B3SA3",
+      "ticker": "B3SA3",
+      "assetClass": "STOCK",
+      "cvmCode": 21610,
+      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Nomeação de Vice-Presidente de Tecnologia",
+      "referenceDate": "2026-07-22T00:00:00.000Z",
+      "deliveredAt": "2026-07-22T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547132&numSequencia=1071838&numVersao=1",
+      "version": "1",
+      "protocol": "021610IPE220720260196189469-75"
+    },
+    {
+      "id": "009512IPE220720260183384595-88:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras recebe pagamento de nova parcela do Programa de Subvenção Econômica do diesel",
+      "referenceDate": "2026-07-22T00:00:00.000Z",
+      "deliveredAt": "2026-07-22T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547056&numSequencia=1071762&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE220720260183384595-88"
+    },
+    {
+      "id": "021610IPE200720260117463262-42:B3SA3",
+      "ticker": "B3SA3",
+      "assetClass": "STOCK",
+      "cvmCode": 21610,
+      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+      "category": "Comunicado ao Mercado",
+      "type": "Aquisição/Alienação de Participação Acionária (art. 12 da Instr. CVM nº 358)",
+      "subject": "Declaração de Aquisição de Participação Acionária Relevante - Art.12 da Instrução CVM nº358/02",
+      "referenceDate": "2026-07-20T00:00:00.000Z",
+      "deliveredAt": "2026-07-20T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1546431&numSequencia=1071137&numVersao=1",
+      "version": "1",
+      "protocol": "021610IPE200720260117463262-42"
+    },
     {
       "id": "021610IPE150720260102448081-30:B3SA3",
       "ticker": "B3SA3",
@@ -1561,36 +1681,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1499085&numSequencia=1023791&numVersao=2",
       "version": "2",
       "protocol": "019348IPE040220260286195188-94"
-    },
-    {
-      "id": "001023IPE270320260176776466-58:BBAS3",
-      "ticker": "BBAS3",
-      "assetClass": "STOCK",
-      "cvmCode": 1023,
-      "companyName": "BANCO DO BRASIL S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Movimentações Diretoria Executiva",
-      "referenceDate": "2026-03-27T00:00:00.000Z",
-      "deliveredAt": "2026-03-27T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1497414&numSequencia=1022120&numVersao=1",
-      "version": "1",
-      "protocol": "001023IPE270320260176776466-58"
-    },
-    {
-      "id": "019348IPE270320260162797533-48:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Proposta de reorganização societária com a incorporação do Banco Itaucard S.A. pelo Itaú Unibanco Holding S.A.",
-      "referenceDate": "2026-03-27T00:00:00.000Z",
-      "deliveredAt": "2026-03-27T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1497488&numSequencia=1022194&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE270320260162797533-48"
     }
   ],
   "audit": {
@@ -1604,6 +1694,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 106
+    "itemsGenerated": 112
   }
 }
