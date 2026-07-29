@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T22:12:14.621Z",
+  "generatedAt": "2026-07-29T22:06:35.131Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1636,51 +1636,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1500339&numSequencia=1025045&numVersao=1",
       "version": "1",
       "protocol": "009512IPE020420260123411156-20"
-    },
-    {
-      "id": "021610IPE310320260112971913-15:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Aviso aos Acionistas",
-      "type": "Outros avisos",
-      "subject": "Dividendos/Juros sobre Capital Próprio",
-      "referenceDate": "2026-03-31T00:00:00.000Z",
-      "deliveredAt": "2026-03-31T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1498976&numSequencia=1023682&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE310320260112971913-15"
-    },
-    {
-      "id": "009512IPE310320260198452602-06:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Petrobras informa sobre Presidente do Conselho de Administração",
-      "referenceDate": "2026-03-31T00:00:00.000Z",
-      "deliveredAt": "2026-03-31T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1499371&numSequencia=1024077&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE310320260198452602-06"
-    },
-    {
-      "id": "019348IPE040220260286195188-94:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Gerenciamento de Riscos e Capital - Pilar 3 (4T25)",
-      "referenceDate": "2026-02-04T00:00:00.000Z",
-      "deliveredAt": "2026-03-31T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1499085&numSequencia=1023791&numVersao=2",
-      "version": "2",
-      "protocol": "019348IPE040220260286195188-94"
     }
   ],
   "audit": {
@@ -1694,6 +1649,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 112
+    "itemsGenerated": 109
   }
 }
