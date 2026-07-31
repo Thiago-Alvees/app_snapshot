@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T22:14:24.952Z",
+  "generatedAt": "2026-07-31T22:11:53.967Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1591,51 +1591,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1501704&numSequencia=1026410&numVersao=1",
       "version": "1",
       "protocol": "009512IPE060420260171844766-08"
-    },
-    {
-      "id": "009512IPE020420260179085645-39:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Aviso aos Acionistas",
-      "type": "Outros avisos",
-      "subject": "Petrobras informa sobre divulgação dos currículos e demais informações dos candidatos ao C.A e C.F.",
-      "referenceDate": "2026-04-02T00:00:00.000Z",
-      "deliveredAt": "2026-04-02T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1500762&numSequencia=1025468&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE020420260179085645-39"
-    },
-    {
-      "id": "009512IPE020420260115659946-57:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Esclarecimentos sobre questionamentos da CVM/B3",
-      "subject": "Notícia Divulgada na Mídia",
-      "referenceDate": "2026-04-02T00:00:00.000Z",
-      "deliveredAt": "2026-04-02T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1501022&numSequencia=1025728&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE020420260115659946-57"
-    },
-    {
-      "id": "009512IPE020420260123411156-20:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre liquidação financeira referente à redeterminação da Jazida Compartilhada de Tupi",
-      "referenceDate": "2026-04-02T00:00:00.000Z",
-      "deliveredAt": "2026-04-02T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1500339&numSequencia=1025045&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE020420260123411156-20"
     }
   ],
   "audit": {
@@ -1649,6 +1604,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 109
+    "itemsGenerated": 106
   }
 }
