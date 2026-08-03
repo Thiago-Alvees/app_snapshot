@@ -1,7 +1,112 @@
 {
-  "generatedAt": "2026-07-31T22:11:53.967Z",
+  "generatedAt": "2026-08-03T22:13:42.087Z",
   "provider": "CVM IPE",
   "items": [
+    {
+      "id": "009512IPE280720260274877668-50:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Fato Relevante",
+      "type": "",
+      "subject": "Relatório de Produção e Vendas 2T26",
+      "referenceDate": "2026-07-28T00:00:00.000Z",
+      "deliveredAt": "2026-07-31T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550775&numSequencia=1075481&numVersao=2",
+      "version": "2",
+      "protocol": "009512IPE280720260274877668-50"
+    },
+    {
+      "id": "019348IPE310720260103578150-83:ITUB4",
+      "ticker": "ITUB4",
+      "assetClass": "STOCK",
+      "cvmCode": 19348,
+      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Itaú Colômbia",
+      "referenceDate": "2026-07-31T00:00:00.000Z",
+      "deliveredAt": "2026-07-31T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550771&numSequencia=1075477&numVersao=1",
+      "version": "1",
+      "protocol": "019348IPE310720260103578150-83"
+    },
+    {
+      "id": "005410IPE230720260143220407-69:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Comunicado ao Mercado",
+      "type": "Apresentações a analistas/agentes do mercado",
+      "subject": "Transcrição da Teleconferência de Resultados do 2T26",
+      "referenceDate": "2026-07-23T00:00:00.000Z",
+      "deliveredAt": "2026-07-31T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550107&numSequencia=1074813&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE230720260143220407-69"
+    },
+    {
+      "id": "001023IPE280720260179247163-65:BBAS3",
+      "ticker": "BBAS3",
+      "assetClass": "STOCK",
+      "cvmCode": 1023,
+      "companyName": "BANCO DO BRASIL S.A.",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Período de Silêncio 2T26",
+      "referenceDate": "2026-07-28T00:00:00.000Z",
+      "deliveredAt": "2026-07-28T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1548646&numSequencia=1073352&numVersao=1",
+      "version": "1",
+      "protocol": "001023IPE280720260179247163-65"
+    },
+    {
+      "id": "009512IPE280720260153764674-08:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Fato Relevante",
+      "type": "",
+      "subject": "Relatório de Produção e Vendas 2T26",
+      "referenceDate": "2026-07-28T00:00:00.000Z",
+      "deliveredAt": "2026-07-28T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1548963&numSequencia=1073669&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE280720260153764674-08"
+    },
+    {
+      "id": "005410IPE280720260195386757-09:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Comunicado ao Mercado",
+      "type": "Esclarecimentos sobre questionamentos da CVM/B3",
+      "subject": "Solicitação de Esclarecimentos Sobre Notícia",
+      "referenceDate": "2026-07-28T00:00:00.000Z",
+      "deliveredAt": "2026-07-28T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1548856&numSequencia=1073562&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE280720260195386757-09"
+    },
+    {
+      "id": "005410IPE270720260107847352-80:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Contrato com a ENGIE para fornecimento de equipamentos da expansão da Usina Hidrelétrica Jaguara",
+      "referenceDate": "2026-07-27T00:00:00.000Z",
+      "deliveredAt": "2026-07-27T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1548057&numSequencia=1072763&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE270720260107847352-80"
+    },
     {
       "id": "021610IPE240720260177746960-44:B3SA3",
       "ticker": "B3SA3",
@@ -1604,6 +1709,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 106
+    "itemsGenerated": 113
   }
 }
