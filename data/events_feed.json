@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T22:13:42.087Z",
+  "generatedAt": "2026-08-04T22:19:03.157Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1651,51 +1651,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1502762&numSequencia=1027468&numVersao=1",
       "version": "1",
       "protocol": "009512IPE080420260106066375-53"
-    },
-    {
-      "id": "009512IPE060420260183522114-05:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre alterações na Diretoria Executiva",
-      "referenceDate": "2026-04-06T00:00:00.000Z",
-      "deliveredAt": "2026-04-06T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1501700&numSequencia=1026406&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE060420260183522114-05"
-    },
-    {
-      "id": "009512IPE060420260122074343-22:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa recebimento de indicação do Acionista Controlador de candidato ao Conselho de Administração",
-      "referenceDate": "2026-04-06T00:00:00.000Z",
-      "deliveredAt": "2026-04-06T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1501731&numSequencia=1026437&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE060420260122074343-22"
-    },
-    {
-      "id": "009512IPE060420260171844766-08:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Petrobras informa sobre novo Presidente do Conselho de Administração",
-      "referenceDate": "2026-04-06T00:00:00.000Z",
-      "deliveredAt": "2026-04-06T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1501704&numSequencia=1026410&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE060420260171844766-08"
     }
   ],
   "audit": {
@@ -1709,6 +1664,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 113
+    "itemsGenerated": 110
   }
 }
