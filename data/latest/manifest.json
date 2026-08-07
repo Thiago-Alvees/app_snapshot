@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "runDate": "2026-08-05",
+  "runDate": "2026-08-06",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-08-05T22:16:16.311Z",
-  "finishedAt": "2026-08-05T22:16:44.556Z",
-  "durationMs": 28245,
+  "startedAt": "2026-08-07T01:01:42.518Z",
+  "finishedAt": "2026-08-07T01:02:17.824Z",
+  "durationMs": 35306,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 188
+    "usedRequests": 189
   },
   "totals": {
     "processed": 177,
-    "succeeded": 164,
-    "failed": 13,
+    "succeeded": 163,
+    "failed": 14,
     "fallback": 0
   },
   "filters": {
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-08-05/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-08-06/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -49,6 +49,12 @@
       "symbol": "GOLD11T",
       "category": "etf",
       "message": "Error: BRAPI: symbol not found (GOLD11T)",
+      "status": 404
+    },
+    {
+      "symbol": "USAL11",
+      "category": "etf",
+      "message": "Error: BRAPI: symbol not found (USAL11)",
       "status": 404
     },
     {
