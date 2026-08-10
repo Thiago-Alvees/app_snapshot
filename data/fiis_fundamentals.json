@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-07-10",
+  "updatedAt": "2026-08-10",
   "source": "CVM - Informe Mensal Estruturado (join geral + complemento/ativo_passivo)",
-  "referenceDate": "2026-05-01",
+  "referenceDate": "2026-06-01",
   "items": [
     {
       "ticker": "HGLG11",
-      "vp": 1660.0365109712359,
+      "vp": 16660.31029106452,
       "dy12m": null,
       "pl": null
     },
     {
       "ticker": "XPLG11",
-      "vp": 0.0010524831781588133,
+      "vp": 0.00001050291367833161,
       "dy12m": null,
       "pl": null
     },
     {
       "ticker": "VILG11",
-      "vp": 11180.8081324918,
+      "vp": 10932.278130016704,
       "dy12m": null,
       "pl": null
     }
