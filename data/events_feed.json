@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T21:50:56.132Z",
+  "generatedAt": "2026-08-11T21:56:51.957Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1696,66 +1696,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1504658&numSequencia=1029364&numVersao=1",
       "version": "1",
       "protocol": "019348IPE140420260153147005-23"
-    },
-    {
-      "id": "009512IPE130420260132644442-64:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Nova descoberta de hidrocarbonetos em águas profundas no pré-sal da Bacia de Campos",
-      "referenceDate": "2026-04-13T00:00:00.000Z",
-      "deliveredAt": "2026-04-13T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1504190&numSequencia=1028896&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE130420260132644442-64"
-    },
-    {
-      "id": "009512IPE130420260144256801-60:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre Projeto UFN-III",
-      "referenceDate": "2026-04-13T00:00:00.000Z",
-      "deliveredAt": "2026-04-13T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1504474&numSequencia=1029180&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE130420260144256801-60"
-    },
-    {
-      "id": "009512IPE130420260165767989-77:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras aprova novos investimentos no projeto Sergipe Águas Profundas",
-      "referenceDate": "2026-04-13T00:00:00.000Z",
-      "deliveredAt": "2026-04-13T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1504497&numSequencia=1029203&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE130420260165767989-77"
-    },
-    {
-      "id": "005410IPE130420260101026562-81:WEGE3",
-      "ticker": "WEGE3",
-      "assetClass": "STOCK",
-      "cvmCode": 5410,
-      "companyName": "WEG SA",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Agenda de Divulgação de Resultados 1T26",
-      "referenceDate": "2026-04-13T00:00:00.000Z",
-      "deliveredAt": "2026-04-13T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1504169&numSequencia=1028875&numVersao=1",
-      "version": "1",
-      "protocol": "005410IPE130420260101026562-81"
     }
   ],
   "audit": {
@@ -1769,6 +1709,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 117
+    "itemsGenerated": 113
   }
 }
