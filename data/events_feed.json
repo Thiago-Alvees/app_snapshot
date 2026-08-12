@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T21:56:51.957Z",
+  "generatedAt": "2026-08-12T21:54:41.771Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1666,36 +1666,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1505315&numSequencia=1030021&numVersao=1",
       "version": "1",
       "protocol": "019348IPE150420260198848364-55"
-    },
-    {
-      "id": "009512IPE140420260152900485-81:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre voto múltiplo para a AGO",
-      "referenceDate": "2026-04-14T00:00:00.000Z",
-      "deliveredAt": "2026-04-14T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1504911&numSequencia=1029617&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE140420260152900485-81"
-    },
-    {
-      "id": "019348IPE140420260153147005-23:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Convite Reunião Interativa - Resultados do 1º Trimestre 2026",
-      "referenceDate": "2026-04-14T00:00:00.000Z",
-      "deliveredAt": "2026-04-14T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1504658&numSequencia=1029364&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE140420260153147005-23"
     }
   ],
   "audit": {
@@ -1709,6 +1679,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 113
+    "itemsGenerated": 111
   }
 }
