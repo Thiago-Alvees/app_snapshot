@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "runDate": "2026-08-12",
+  "runDate": "2026-08-13",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-08-12T21:54:08.866Z",
-  "finishedAt": "2026-08-12T21:54:38.778Z",
-  "durationMs": 29912,
+  "startedAt": "2026-08-13T21:54:06.829Z",
+  "finishedAt": "2026-08-13T21:54:35.278Z",
+  "durationMs": 28449,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-08-12/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-08-13/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -104,21 +104,21 @@
       "symbol": "CDI",
       "category": "benchmark",
       "kind": "primeRate",
-      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
+      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Inflação e taxa SELIC requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessInflationOrPrimeRate\",\"",
       "status": 403
     },
     {
       "symbol": "IPCA",
       "category": "benchmark",
       "kind": "inflation",
-      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
+      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Inflação e taxa SELIC requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessInflationOrPrimeRate\",\"",
       "status": 403
     },
     {
       "symbol": "USDBRL",
       "category": "benchmark",
       "kind": "currency",
-      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Seu plano não tem acesso a este recurso. Faça upgrade em brapi.dev/dashboard\",\"code\":\"FEATURE_NOT_AVAILABLE\"}",
+      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Câmbio requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessCurrency\",\"featureLabel\":\"Câmbio\",\"cur",
       "status": 403
     }
   ]
