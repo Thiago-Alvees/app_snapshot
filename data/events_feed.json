@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T21:54:38.137Z",
+  "generatedAt": "2026-08-14T21:31:59.288Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1621,21 +1621,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1505969&numSequencia=1030675&numVersao=1",
       "version": "1",
       "protocol": "009512IPE170420260156118220-38"
-    },
-    {
-      "id": "009512IPE160420260165727033-10:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre remuneração aos acionistas",
-      "referenceDate": "2026-04-16T00:00:00.000Z",
-      "deliveredAt": "2026-04-16T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1505787&numSequencia=1030493&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE160420260165727033-10"
     }
   ],
   "audit": {
@@ -1649,6 +1634,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 109
+    "itemsGenerated": 108
   }
 }
