@@ -1,7 +1,142 @@
 {
-  "generatedAt": "2026-08-14T21:31:59.288Z",
+  "generatedAt": "2026-08-17T21:32:29.544Z",
   "provider": "CVM IPE",
   "items": [
+    {
+      "id": "009512IPE140820260111860863-52:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras recebe pagamento de novas parcelas do Programa de Subvenção Econômica da gasolina e do GLP",
+      "referenceDate": "2026-08-14T00:00:00.000Z",
+      "deliveredAt": "2026-08-14T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1558119&numSequencia=1082825&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE140820260111860863-52"
+    },
+    {
+      "id": "009512IPE140820260152101859-88:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Nova descoberta de hidrocarbonetos em águas ultra profundas na costa do Amapá",
+      "referenceDate": "2026-08-14T00:00:00.000Z",
+      "deliveredAt": "2026-08-14T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1558159&numSequencia=1082865&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE140820260152101859-88"
+    },
+    {
+      "id": "001023IPE130820260213481307-38:BBAS3",
+      "ticker": "BBAS3",
+      "assetClass": "STOCK",
+      "cvmCode": 1023,
+      "companyName": "BANCO DO BRASIL S.A.",
+      "category": "Comunicado ao Mercado",
+      "type": "Apresentações a analistas/agentes do mercado",
+      "subject": "Apresentação do Resultado 2T26",
+      "referenceDate": "2026-08-13T00:00:00.000Z",
+      "deliveredAt": "2026-08-13T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1556817&numSequencia=1081523&numVersao=2",
+      "version": "2",
+      "protocol": "001023IPE130820260213481307-38"
+    },
+    {
+      "id": "021610IPE130820260178396475-88:B3SA3",
+      "ticker": "B3SA3",
+      "assetClass": "STOCK",
+      "cvmCode": 21610,
+      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Dados Operacionais - julho 2026",
+      "referenceDate": "2026-08-13T00:00:00.000Z",
+      "deliveredAt": "2026-08-13T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1557224&numSequencia=1081930&numVersao=1",
+      "version": "1",
+      "protocol": "021610IPE130820260178396475-88"
+    },
+    {
+      "id": "021610IPE130820260113796326-80:B3SA3",
+      "ticker": "B3SA3",
+      "assetClass": "STOCK",
+      "cvmCode": 21610,
+      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Alteração na Diretoria Executiva",
+      "referenceDate": "2026-08-13T00:00:00.000Z",
+      "deliveredAt": "2026-08-13T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1557442&numSequencia=1082148&numVersao=1",
+      "version": "1",
+      "protocol": "021610IPE130820260113796326-80"
+    },
+    {
+      "id": "009512IPE130820260118130700-66:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Relatório Fiscal 2T26",
+      "referenceDate": "2026-08-13T00:00:00.000Z",
+      "deliveredAt": "2026-08-13T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1557293&numSequencia=1081999&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE130820260118130700-66"
+    },
+    {
+      "id": "001023IPE130820260190269817-10:BBAS3",
+      "ticker": "BBAS3",
+      "assetClass": "STOCK",
+      "cvmCode": 1023,
+      "companyName": "BANCO DO BRASIL S.A.",
+      "category": "Comunicado ao Mercado",
+      "type": "Apresentações a analistas/agentes do mercado",
+      "subject": "Apresentação do Resultado 2T26",
+      "referenceDate": "2026-08-13T00:00:00.000Z",
+      "deliveredAt": "2026-08-12T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1556528&numSequencia=1081234&numVersao=1",
+      "version": "1",
+      "protocol": "001023IPE130820260190269817-10"
+    },
+    {
+      "id": "001023IPE120820260139989202-58:BBAS3",
+      "ticker": "BBAS3",
+      "assetClass": "STOCK",
+      "cvmCode": 1023,
+      "companyName": "BANCO DO BRASIL S.A.",
+      "category": "Fato Relevante",
+      "type": "",
+      "subject": "Remuneração Complementar aos Acionistas 2T26",
+      "referenceDate": "2026-08-12T00:00:00.000Z",
+      "deliveredAt": "2026-08-12T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1556522&numSequencia=1081228&numVersao=1",
+      "version": "1",
+      "protocol": "001023IPE120820260139989202-58"
+    },
+    {
+      "id": "021610IPE110820260112757850-04:B3SA3",
+      "ticker": "B3SA3",
+      "assetClass": "STOCK",
+      "cvmCode": 21610,
+      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+      "category": "Comunicado ao Mercado",
+      "type": "Apresentações a analistas/agentes do mercado",
+      "subject": "Apresentação de Resultados do 2T26",
+      "referenceDate": "2026-08-11T00:00:00.000Z",
+      "deliveredAt": "2026-08-11T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1556004&numSequencia=1080710&numVersao=1",
+      "version": "1",
+      "protocol": "021610IPE110820260112757850-04"
+    },
     {
       "id": "009512IPE070820260164573017-72:PETR4",
       "ticker": "PETR4",
@@ -1606,21 +1741,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1506491&numSequencia=1031197&numVersao=1",
       "version": "1",
       "protocol": "009512IPE200420260112656188-64"
-    },
-    {
-      "id": "009512IPE170420260156118220-38:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Participação em novo bloco exploratório em São Tomé e Príncipe",
-      "referenceDate": "2026-04-17T00:00:00.000Z",
-      "deliveredAt": "2026-04-17T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1505969&numSequencia=1030675&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE170420260156118220-38"
     }
   ],
   "audit": {
@@ -1634,6 +1754,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 108
+    "itemsGenerated": 116
   }
 }
