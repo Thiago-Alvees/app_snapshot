@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T21:32:29.544Z",
+  "generatedAt": "2026-08-18T21:31:14.965Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1711,36 +1711,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1507353&numSequencia=1032059&numVersao=1",
       "version": "1",
       "protocol": "009512IPE220420260188935656-11"
-    },
-    {
-      "id": "001023IPE200420260115203400-39:BBAS3",
-      "ticker": "BBAS3",
-      "assetClass": "STOCK",
-      "cvmCode": 1023,
-      "companyName": "BANCO DO BRASIL S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Apresentações a analistas/agentes do mercado",
-      "subject": "BB Day 2026",
-      "referenceDate": "2026-04-20T00:00:00.000Z",
-      "deliveredAt": "2026-04-20T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1506710&numSequencia=1031416&numVersao=1",
-      "version": "1",
-      "protocol": "001023IPE200420260115203400-39"
-    },
-    {
-      "id": "009512IPE200420260112656188-64:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre Braskem",
-      "referenceDate": "2026-04-20T00:00:00.000Z",
-      "deliveredAt": "2026-04-20T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1506491&numSequencia=1031197&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE200420260112656188-64"
     }
   ],
   "audit": {
@@ -1754,6 +1724,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 116
+    "itemsGenerated": 114
   }
 }

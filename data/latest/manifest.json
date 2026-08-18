@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "runDate": "2026-08-17",
+  "runDate": "2026-08-18",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-08-17T21:31:50.144Z",
-  "finishedAt": "2026-08-17T21:32:25.919Z",
-  "durationMs": 35775,
+  "startedAt": "2026-08-18T21:30:35.598Z",
+  "finishedAt": "2026-08-18T21:31:11.349Z",
+  "durationMs": 35751,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-08-17/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-08-18/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -101,16 +101,16 @@
       "status": 404
     },
     {
-      "symbol": "IPCA",
+      "symbol": "CDI",
       "category": "benchmark",
-      "kind": "inflation",
+      "kind": "primeRate",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Inflação e taxa SELIC requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessInflationOrPrimeRate\",\"",
       "status": 403
     },
     {
-      "symbol": "CDI",
+      "symbol": "IPCA",
       "category": "benchmark",
-      "kind": "primeRate",
+      "kind": "inflation",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Inflação e taxa SELIC requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessInflationOrPrimeRate\",\"",
       "status": 403
     },

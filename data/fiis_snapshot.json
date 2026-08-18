@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-08-17T21:31:50.146Z",
+  "generatedAt": "2026-08-18T21:30:35.599Z",
   "provider": "brapi",
   "items": [
     {
       "ticker": "ABCP11",
-      "price": 72.44
+      "price": 72.66
     },
     {
       "ticker": "AIEC11",
-      "price": 59.32
+      "price": 59.35
     },
     {
       "ticker": "ALZR11",
-      "price": 9.77
+      "price": 9.76
     },
     {
       "ticker": "BRCO11",
-      "price": 109.72
+      "price": 110.9
     },
     {
       "ticker": "BRCR11",
-      "price": 38.45
+      "price": 39
     },
     {
       "ticker": "BTHF11",
-      "price": 8.38
+      "price": 8.53
     },
     {
       "ticker": "BTLG11",
-      "price": 98.31
+      "price": 97.7
     },
     {
       "ticker": "CPTS11",
-      "price": 7.3
+      "price": 7.34
     },
     {
       "ticker": "DEVA11",
-      "price": 16.75
+      "price": 16.74
     },
     {
       "ticker": "FIIB11",
-      "price": 426.77
+      "price": 425
     },
     {
       "ticker": "FLRP11",
-      "price": 19.97
+      "price": 20.07
     },
     {
       "ticker": "GARE11",
-      "price": 8.09
+      "price": 8.12
     },
     {
       "ticker": "GGRC11",
@@ -60,11 +60,11 @@
     },
     {
       "ticker": "HCTR11",
-      "price": 13.8
+      "price": 13.92
     },
     {
       "ticker": "HGBS11",
-      "price": 18.48
+      "price": 18.6
     },
     {
       "ticker": "HGLG11",
@@ -72,19 +72,19 @@
     },
     {
       "ticker": "HGRE11",
-      "price": 112.45
+      "price": 114.67
     },
     {
       "ticker": "HGRU11",
-      "price": 114.63
+      "price": 114.7
     },
     {
       "ticker": "HSLG11",
-      "price": 79.8
+      "price": 72.51
     },
     {
       "ticker": "HSML11",
-      "price": 82.72
+      "price": 82.01
     },
     {
       "ticker": "IRDM11",
@@ -92,23 +92,23 @@
     },
     {
       "ticker": "JSRE11",
-      "price": 56.77
+      "price": 56.88
     },
     {
       "ticker": "KNCR11",
-      "price": 105.24
+      "price": 106.2
     },
     {
       "ticker": "KNRI11",
-      "price": 149.12
+      "price": 152
     },
     {
       "ticker": "KNSC11",
-      "price": 8.87
+      "price": 8.94
     },
     {
       "ticker": "LVBI11",
-      "price": 96
+      "price": 97.8
     },
     {
       "ticker": "MORE11",
@@ -116,15 +116,15 @@
     },
     {
       "ticker": "MXRF11",
-      "price": 9.24
+      "price": 9.25
     },
     {
       "ticker": "PMLL11",
-      "price": 99.8
+      "price": 99.82
     },
     {
       "ticker": "PVBI11",
-      "price": 63.99
+      "price": 65.25
     },
     {
       "ticker": "RBRF11",
@@ -132,31 +132,31 @@
     },
     {
       "ticker": "RBRL11",
-      "price": 70.52
+      "price": 70.56
     },
     {
       "ticker": "RBRR11",
-      "price": 73
+      "price": 72.8
     },
     {
       "ticker": "RBVA11",
-      "price": 8.7
+      "price": 8.57
     },
     {
       "ticker": "RCRB11",
-      "price": 129.89
+      "price": 131.42
     },
     {
       "ticker": "RECR11",
-      "price": 74.52
+      "price": 75.41
     },
     {
       "ticker": "RECT11",
-      "price": 32.77
+      "price": 32.73
     },
     {
       "ticker": "RZTR11",
-      "price": 81.47
+      "price": 82.7
     },
     {
       "ticker": "SARE11",
@@ -164,39 +164,39 @@
     },
     {
       "ticker": "TORD11",
-      "price": 1.13
+      "price": 1.1
     },
     {
       "ticker": "URPR11",
-      "price": 19.6
+      "price": 19.65
     },
     {
       "ticker": "VGHF11",
-      "price": 4.88
+      "price": 4.95
     },
     {
       "ticker": "VGIR11",
-      "price": 9.18
+      "price": 9.2
     },
     {
       "ticker": "VILG11",
-      "price": 88.15
+      "price": 89.98
     },
     {
       "ticker": "VINO11",
-      "price": 4.42
+      "price": 4.33
     },
     {
       "ticker": "VISC11",
-      "price": 101.07
+      "price": 101.26
     },
     {
       "ticker": "XPLG11",
-      "price": 88.45
+      "price": 88.93
     },
     {
       "ticker": "XPML11",
-      "price": 100.84
+      "price": 100.99
     }
   ]
 }
