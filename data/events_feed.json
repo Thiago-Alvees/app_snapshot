@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T21:32:39.316Z",
+  "generatedAt": "2026-08-20T21:34:51.426Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1666,51 +1666,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1508051&numSequencia=1032757&numVersao=1",
       "version": "1",
       "protocol": "009512IPE230420260172995526-69"
-    },
-    {
-      "id": "021610IPE220420260102981206-33:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Cronograma de divulgação dos resultados do 1T26",
-      "referenceDate": "2026-04-22T00:00:00.000Z",
-      "deliveredAt": "2026-04-22T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1507247&numSequencia=1031953&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE220420260102981206-33"
-    },
-    {
-      "id": "009512IPE220420260152054104-29:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Caderno de Direitos Humanos e Cidadania Corporativa 2025",
-      "referenceDate": "2026-04-22T00:00:00.000Z",
-      "deliveredAt": "2026-04-22T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1507244&numSequencia=1031950&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE220420260152054104-29"
-    },
-    {
-      "id": "009512IPE220420260188935656-11:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre resultado do 1º trimestre de 2026",
-      "referenceDate": "2026-04-22T00:00:00.000Z",
-      "deliveredAt": "2026-04-22T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1507353&numSequencia=1032059&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE220420260188935656-11"
     }
   ],
   "audit": {
@@ -1724,6 +1679,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 114
+    "itemsGenerated": 111
   }
 }
