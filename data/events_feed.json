@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T21:34:51.426Z",
+  "generatedAt": "2026-08-21T21:31:39.171Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1621,51 +1621,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1508752&numSequencia=1033458&numVersao=2",
       "version": "2",
       "protocol": "001023IPE230420260270561232-34"
-    },
-    {
-      "id": "001023IPE230420260148538979-70:BBAS3",
-      "ticker": "BBAS3",
-      "assetClass": "STOCK",
-      "cvmCode": 1023,
-      "companyName": "BANCO DO BRASIL S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Apresentações a analistas/agentes do mercado",
-      "subject": "Apresentação BB Day 2026",
-      "referenceDate": "2026-04-23T00:00:00.000Z",
-      "deliveredAt": "2026-04-23T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1507507&numSequencia=1032213&numVersao=1",
-      "version": "1",
-      "protocol": "001023IPE230420260148538979-70"
-    },
-    {
-      "id": "001023IPE230420260167389953-76:BBAS3",
-      "ticker": "BBAS3",
-      "assetClass": "STOCK",
-      "cvmCode": 1023,
-      "companyName": "BANCO DO BRASIL S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Emissão Nature Bond",
-      "referenceDate": "2026-04-23T00:00:00.000Z",
-      "deliveredAt": "2026-04-23T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1507916&numSequencia=1032622&numVersao=1",
-      "version": "1",
-      "protocol": "001023IPE230420260167389953-76"
-    },
-    {
-      "id": "009512IPE230420260172995526-69:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Petrobras assina novo Acordo de Acionistas da Braskem",
-      "referenceDate": "2026-04-23T00:00:00.000Z",
-      "deliveredAt": "2026-04-23T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1508051&numSequencia=1032757&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE230420260172995526-69"
     }
   ],
   "audit": {
@@ -1679,6 +1634,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 111
+    "itemsGenerated": 108
   }
 }
