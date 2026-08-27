@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "runDate": "2026-08-25",
+  "runDate": "2026-08-26",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-08-25T21:35:21.115Z",
-  "finishedAt": "2026-08-25T21:35:46.930Z",
-  "durationMs": 25815,
+  "startedAt": "2026-08-27T00:37:37.315Z",
+  "finishedAt": "2026-08-27T00:38:08.965Z",
+  "durationMs": 31650,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 190
+    "usedRequests": 189
   },
   "totals": {
     "processed": 177,
-    "succeeded": 162,
-    "failed": 15,
+    "succeeded": 163,
+    "failed": 14,
     "fallback": 0
   },
   "filters": {
@@ -24,19 +24,13 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-08-25/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-08-26/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
       "symbol": "RBED11",
       "category": "fii",
       "message": "Error: BRAPI: symbol not found (RBED11)",
-      "status": 404
-    },
-    {
-      "symbol": "MRFG3",
-      "category": "acao",
-      "message": "Error: BRAPI: symbol not found (MRFG3)",
       "status": 404
     },
     {

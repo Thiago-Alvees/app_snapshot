@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T21:35:49.750Z",
+  "generatedAt": "2026-08-27T00:38:12.468Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1621,36 +1621,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1513172&numSequencia=1037878&numVersao=1",
       "version": "1",
       "protocol": "005410IPE300420260157551319-50"
-    },
-    {
-      "id": "001023IPE280420260131394164-19:BBAS3",
-      "ticker": "BBAS3",
-      "assetClass": "STOCK",
-      "cvmCode": 1023,
-      "companyName": "BANCO DO BRASIL S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Eleição de Administradores",
-      "referenceDate": "2026-04-28T00:00:00.000Z",
-      "deliveredAt": "2026-04-28T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1509553&numSequencia=1034259&numVersao=1",
-      "version": "1",
-      "protocol": "001023IPE280420260131394164-19"
-    },
-    {
-      "id": "009512IPE280420260198328982-84:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Apresentações a analistas/agentes do mercado",
-      "subject": "Investor Tour 2026",
-      "referenceDate": "2026-04-28T00:00:00.000Z",
-      "deliveredAt": "2026-04-28T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1509563&numSequencia=1034269&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE280420260198328982-84"
     }
   ],
   "audit": {
@@ -1664,6 +1634,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 110
+    "itemsGenerated": 108
   }
 }
