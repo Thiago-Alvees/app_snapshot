@@ -2,9 +2,9 @@
   "version": 1,
   "runDate": "2026-09-03",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-09-03T13:42:36.381Z",
-  "finishedAt": "2026-09-03T13:43:08.914Z",
-  "durationMs": 32533,
+  "startedAt": "2026-09-03T23:09:39.493Z",
+  "finishedAt": "2026-09-03T23:10:10.837Z",
+  "durationMs": 31344,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
