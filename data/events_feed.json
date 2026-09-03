@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T00:31:22.549Z",
+  "generatedAt": "2026-09-03T13:43:12.973Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1396,66 +1396,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1518305&numSequencia=1043011&numVersao=1",
       "version": "1",
       "protocol": "021610IPE070520260137850693-13"
-    },
-    {
-      "id": "019348IPE050520260260734909-77:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Apresentações a analistas/agentes do mercado",
-      "subject": "Informações sobre o Resultado do 1º Trimestre de 2026",
-      "referenceDate": "2026-05-05T00:00:00.000Z",
-      "deliveredAt": "2026-05-06T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1516477&numSequencia=1041183&numVersao=2",
-      "version": "2",
-      "protocol": "019348IPE050520260260734909-77"
-    },
-    {
-      "id": "019348IPE050520260165387550-25:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Apresentações a analistas/agentes do mercado",
-      "subject": "Informações sobre o Resultado do 1º Trimestre de 2026",
-      "referenceDate": "2026-05-05T00:00:00.000Z",
-      "deliveredAt": "2026-05-05T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1516266&numSequencia=1040972&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE050520260165387550-25"
-    },
-    {
-      "id": "019348IPE050520260112029186-47:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Press Release",
-      "referenceDate": "2026-05-05T00:00:00.000Z",
-      "deliveredAt": "2026-05-05T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1516143&numSequencia=1040849&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE050520260112029186-47"
-    },
-    {
-      "id": "019348IPE050520260164495527-36:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Gerenciamento de Riscos e Capital - Pilar 3 (1T26)",
-      "referenceDate": "2026-05-05T00:00:00.000Z",
-      "deliveredAt": "2026-05-05T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1516144&numSequencia=1040850&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE050520260164495527-36"
     }
   ],
   "audit": {
@@ -1469,6 +1409,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 97
+    "itemsGenerated": 93
   }
 }

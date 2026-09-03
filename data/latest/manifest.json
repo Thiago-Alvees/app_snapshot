@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "runDate": "2026-08-31",
+  "runDate": "2026-09-03",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-09-01T00:30:52.605Z",
-  "finishedAt": "2026-09-01T00:31:19.813Z",
-  "durationMs": 27208,
+  "startedAt": "2026-09-03T13:42:36.381Z",
+  "finishedAt": "2026-09-03T13:43:08.914Z",
+  "durationMs": 32533,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-08-31/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-09-03/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -76,15 +76,15 @@
       "status": 404
     },
     {
-      "symbol": "N1KE34",
-      "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (N1KE34)",
-      "status": 404
-    },
-    {
       "symbol": "KOCA34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (KOCA34)",
+      "status": 404
+    },
+    {
+      "symbol": "N1KE34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (N1KE34)",
       "status": 404
     },
     {
