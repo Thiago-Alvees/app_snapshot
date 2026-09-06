@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01",
+  "updatedAt": "2026-08-01",
   "source": "CVM - INF_MENSAL FII (geral + complemento via ISIN)",
   "audit": {
     "mappingMethod": "CVM INF_MENSAL FII geral Codigo_ISIN -> ticker + CNPJ; complemento por CNPJ; overrides opcionais",
@@ -62,7 +62,7 @@
     ],
     "unresolvedMappingConflicts": [],
     "validationStatus": "PASSED",
-    "validatedAt": "2026-09-04T23:00:33.004Z",
+    "validatedAt": "2026-09-06T22:34:12.420Z",
     "validationSummary": {
       "items": 50,
       "tickersRequested": 50,
@@ -100,10 +100,10 @@
     },
     {
       "ticker": "BRCR11",
-      "vp": 81.008213,
-      "dy12m": 5.711099999999999,
+      "vp": 80.710453,
+      "dy12m": 5.8942,
       "dyStatus": "OK",
-      "pl": 2157913144.8
+      "pl": 2149981350.53
     },
     {
       "ticker": "BTHF11",
@@ -275,10 +275,10 @@
     },
     {
       "ticker": "PMLL11",
-      "vp": 120.831592786263,
+      "vp": 118.977293280227,
       "dy12m": 9.3802,
       "dyStatus": "OK",
-      "pl": 2144817200.31
+      "pl": 2111902518.12
     },
     {
       "ticker": "PVBI11",
