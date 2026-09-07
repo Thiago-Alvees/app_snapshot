@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-04T22:52:07.773Z",
+  "generatedAt": "2026-09-07T23:21:01.031Z",
   "timezone": "America/Fortaleza",
-  "runDate": "2026-09-04",
+  "runDate": "2026-09-07",
   "provider": "brapi",
   "items": [
     {
@@ -10,14 +10,14 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-09-04T22:52:32.177Z",
+      "collectedAt": "2026-09-07T23:21:27.967Z",
       "asOf": null,
       "quote": {
         "price": 185147.16,
-        "change": -40.96,
+        "change": -40.84,
         "changePercent": -0.02,
         "open": 185147.16,
-        "previousClose": 185188.12,
+        "previousClose": 185188,
         "dayHigh": 186544.81,
         "dayLow": 183251.94,
         "volume": null,
@@ -31,14 +31,6 @@
         "week52Low": 140231
       },
       "history3m": [
-        {
-          "date": "2026-06-08",
-          "open": 169042,
-          "high": 169646,
-          "low": 168130,
-          "close": 168669,
-          "volume": 7438000
-        },
         {
           "date": "2026-06-09",
           "open": 168673,
@@ -545,11 +537,11 @@
         },
         {
           "date": "2026-09-04",
-          "open": 185191.2344,
-          "high": 186544.8125,
-          "low": 183251.9375,
-          "close": 185147.1563,
-          "volume": 0
+          "open": 185191,
+          "high": 186545,
+          "low": 183252,
+          "close": 185147,
+          "volume": 8300200
         }
       ],
       "branding": {
@@ -558,13 +550,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/^BVSP.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-09-04T22:52:32.217Z",
+        "requestedAt": "2026-09-07T23:21:27.994Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-09-04/benchmarks/IBOV.index.json"
+        "path": "data/raw/2026-09-07/benchmarks/IBOV.index.json"
       }
     },
     {
@@ -572,7 +564,7 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-09-04T22:52:32.472Z",
+      "collectedAt": "2026-09-07T23:21:28.274Z",
       "asOf": null,
       "quote": {
         "price": 6.96,
@@ -599,13 +591,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/IDIV.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-09-04T22:52:32.567Z",
+        "requestedAt": "2026-09-07T23:21:28.432Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-09-04/benchmarks/IDIV.index.json"
+        "path": "data/raw/2026-09-07/benchmarks/IDIV.index.json"
       }
     },
     {
@@ -613,7 +605,7 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-09-04T22:52:32.073Z",
+      "collectedAt": "2026-09-07T23:21:27.812Z",
       "asOf": null,
       "quote": {
         "price": 3769.71,
@@ -649,13 +641,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/IFIX.SA.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-09-04T22:52:32.185Z",
+        "requestedAt": "2026-09-07T23:21:27.941Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-09-04/benchmarks/IFIX.index.json"
+        "path": "data/raw/2026-09-07/benchmarks/IFIX.index.json"
       }
     }
   ]
