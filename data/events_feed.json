@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T23:21:32.307Z",
+  "generatedAt": "2026-09-08T23:15:33.743Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1396,36 +1396,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1520517&numSequencia=1045223&numVersao=1",
       "version": "1",
       "protocol": "005410IPE300420260183945442-15"
-    },
-    {
-      "id": "009512IPE120520260162636425-05:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Apresentações a analistas/agentes do mercado",
-      "subject": "Desempenho 1T26",
-      "referenceDate": "2026-05-12T00:00:00.000Z",
-      "deliveredAt": "2026-05-11T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1520196&numSequencia=1044902&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE120520260162636425-05"
-    },
-    {
-      "id": "009512IPE110520260143413738-70:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Petrobras informa sobre remuneração aos acionistas",
-      "referenceDate": "2026-05-11T00:00:00.000Z",
-      "deliveredAt": "2026-05-11T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1520177&numSequencia=1044883&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE110520260143413738-70"
     }
   ],
   "audit": {
@@ -1439,6 +1409,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 95
+    "itemsGenerated": 93
   }
 }
