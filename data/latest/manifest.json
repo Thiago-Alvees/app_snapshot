@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "runDate": "2026-09-08",
+  "runDate": "2026-09-09",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-09-08T23:15:03.660Z",
-  "finishedAt": "2026-09-08T23:15:30.909Z",
-  "durationMs": 27249,
+  "startedAt": "2026-09-09T23:03:29.705Z",
+  "finishedAt": "2026-09-09T23:04:02.218Z",
+  "durationMs": 32513,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-09-08/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-09-09/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -95,13 +95,6 @@
       "status": 404
     },
     {
-      "symbol": "CDI",
-      "category": "benchmark",
-      "kind": "primeRate",
-      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Inflação e taxa SELIC requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessInflationOrPrimeRate\",\"",
-      "status": 403
-    },
-    {
       "symbol": "IPCA",
       "category": "benchmark",
       "kind": "inflation",
@@ -113,6 +106,13 @@
       "category": "benchmark",
       "kind": "currency",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Câmbio requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessCurrency\",\"featureLabel\":\"Câmbio\",\"cur",
+      "status": 403
+    },
+    {
+      "symbol": "CDI",
+      "category": "benchmark",
+      "kind": "primeRate",
+      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Inflação e taxa SELIC requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessInflationOrPrimeRate\",\"",
       "status": 403
     }
   ]

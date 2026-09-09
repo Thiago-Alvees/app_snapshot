@@ -1,582 +1,582 @@
 {
-  "generatedAt": "2026-09-08T23:15:03.661Z",
+  "generatedAt": "2026-09-09T23:03:29.707Z",
   "provider": "brapi",
   "items": [
     {
       "ticker": "ABEV3",
       "assetClass": "STOCK",
-      "price": 15.82,
-      "priceUpdatedAt": "2026-09-08T23:15:13.457Z"
+      "price": 15.58,
+      "priceUpdatedAt": "2026-09-09T23:03:40.388Z"
     },
     {
       "ticker": "ALOS3",
       "assetClass": "STOCK",
-      "price": 29.22,
-      "priceUpdatedAt": "2026-09-08T23:15:15.542Z"
+      "price": 28.52,
+      "priceUpdatedAt": "2026-09-09T23:03:43.036Z"
     },
     {
       "ticker": "ASAI3",
       "assetClass": "STOCK",
-      "price": 9.13,
-      "priceUpdatedAt": "2026-09-08T23:15:13.756Z"
+      "price": 9.2,
+      "priceUpdatedAt": "2026-09-09T23:03:40.894Z"
     },
     {
       "ticker": "AXIA3",
       "assetClass": "STOCK",
-      "price": 56.13,
-      "priceUpdatedAt": "2026-09-08T23:15:14.335Z"
+      "price": 55.08,
+      "priceUpdatedAt": "2026-09-09T23:03:41.410Z"
     },
     {
       "ticker": "AXIA7",
       "assetClass": "STOCK",
-      "price": 56,
-      "priceUpdatedAt": "2026-09-08T23:15:15.170Z"
+      "price": 55.19,
+      "priceUpdatedAt": "2026-09-09T23:03:42.569Z"
     },
     {
       "ticker": "B3SA3",
       "assetClass": "STOCK",
-      "price": 17.64,
-      "priceUpdatedAt": "2026-09-08T23:15:12.289Z"
+      "price": 17.29,
+      "priceUpdatedAt": "2026-09-09T23:03:39.026Z"
     },
     {
       "ticker": "BBAS3",
       "assetClass": "STOCK",
-      "price": 22.6,
-      "priceUpdatedAt": "2026-09-08T23:15:13.732Z"
+      "price": 22.18,
+      "priceUpdatedAt": "2026-09-09T23:03:40.731Z"
     },
     {
       "ticker": "BBDC4",
       "assetClass": "STOCK",
-      "price": 18.22,
-      "priceUpdatedAt": "2026-09-08T23:15:12.909Z"
+      "price": 17.79,
+      "priceUpdatedAt": "2026-09-09T23:03:39.872Z"
     },
     {
       "ticker": "BBSE3",
       "assetClass": "STOCK",
-      "price": 42.35,
-      "priceUpdatedAt": "2026-09-08T23:15:17.777Z"
+      "price": 40.91,
+      "priceUpdatedAt": "2026-09-09T23:03:45.695Z"
     },
     {
       "ticker": "BPAC11",
       "assetClass": "STOCK",
-      "price": 60.53,
-      "priceUpdatedAt": "2026-09-08T23:15:16.952Z"
+      "price": 59.06,
+      "priceUpdatedAt": "2026-09-09T23:03:44.741Z"
     },
     {
       "ticker": "BRAV3",
       "assetClass": "STOCK",
-      "price": 18.25,
-      "priceUpdatedAt": "2026-09-08T23:15:14.064Z"
+      "price": 18.42,
+      "priceUpdatedAt": "2026-09-09T23:03:41.230Z"
     },
     {
       "ticker": "CMIG4",
       "assetClass": "STOCK",
-      "price": 11.7,
-      "priceUpdatedAt": "2026-09-08T23:15:14.620Z"
+      "price": 11.33,
+      "priceUpdatedAt": "2026-09-09T23:03:41.883Z"
     },
     {
       "ticker": "CPFE3",
       "assetClass": "STOCK",
-      "price": 47.32,
-      "priceUpdatedAt": "2026-09-08T23:15:18.657Z"
+      "price": 46,
+      "priceUpdatedAt": "2026-09-09T23:03:46.536Z"
     },
     {
       "ticker": "CPLE3",
       "assetClass": "STOCK",
-      "price": 16,
-      "priceUpdatedAt": "2026-09-08T23:15:12.352Z"
+      "price": 15.98,
+      "priceUpdatedAt": "2026-09-09T23:03:39.174Z"
     },
     {
       "ticker": "CSAN3",
       "assetClass": "STOCK",
-      "price": 3.91,
-      "priceUpdatedAt": "2026-09-08T23:15:12.847Z"
+      "price": 3.79,
+      "priceUpdatedAt": "2026-09-09T23:03:39.714Z"
     },
     {
       "ticker": "CSMG3",
       "assetClass": "STOCK",
-      "price": 56.73,
-      "priceUpdatedAt": "2026-09-08T23:15:17.571Z"
+      "price": 55.53,
+      "priceUpdatedAt": "2026-09-09T23:03:45.421Z"
     },
     {
       "ticker": "ELET3",
       "assetClass": "STOCK",
-      "price": 56.13,
-      "priceUpdatedAt": "2026-09-08T23:15:18.938Z"
+      "price": 55.08,
+      "priceUpdatedAt": "2026-09-09T23:03:46.875Z"
     },
     {
       "ticker": "EMBR3",
       "assetClass": "STOCK",
-      "price": 94.23,
-      "priceUpdatedAt": "2026-09-08T23:15:17.223Z"
+      "price": 95.27,
+      "priceUpdatedAt": "2026-09-09T23:03:45.084Z"
     },
     {
       "ticker": "ENEV3",
       "assetClass": "STOCK",
-      "price": 27.69,
-      "priceUpdatedAt": "2026-09-08T23:15:15.438Z"
+      "price": 27.33,
+      "priceUpdatedAt": "2026-09-09T23:03:42.908Z"
     },
     {
       "ticker": "ENGI11",
       "assetClass": "STOCK",
-      "price": 51.49,
-      "priceUpdatedAt": "2026-09-08T23:15:18.405Z"
+      "price": 50.46,
+      "priceUpdatedAt": "2026-09-09T23:03:46.385Z"
     },
     {
       "ticker": "EQTL3",
       "assetClass": "STOCK",
-      "price": 39.25,
-      "priceUpdatedAt": "2026-09-08T23:15:15.826Z"
+      "price": 38.81,
+      "priceUpdatedAt": "2026-09-09T23:03:43.374Z"
     },
     {
       "ticker": "GGBR4",
       "assetClass": "STOCK",
-      "price": 25.7,
-      "priceUpdatedAt": "2026-09-08T23:15:15.269Z"
+      "price": 25.41,
+      "priceUpdatedAt": "2026-09-09T23:03:42.698Z"
     },
     {
       "ticker": "ITSA4",
       "assetClass": "STOCK",
-      "price": 14.19,
-      "priceUpdatedAt": "2026-09-08T23:15:12.562Z"
+      "price": 13.91,
+      "priceUpdatedAt": "2026-09-09T23:03:39.365Z"
     },
     {
       "ticker": "ITUB4",
       "assetClass": "STOCK",
-      "price": 42.43,
-      "priceUpdatedAt": "2026-09-08T23:15:13.121Z"
+      "price": 41.59,
+      "priceUpdatedAt": "2026-09-09T23:03:40.051Z"
     },
     {
       "ticker": "JBSS3",
       "assetClass": "STOCK",
-      "price": 65.9,
-      "priceUpdatedAt": "2026-09-08T23:15:19.208Z"
+      "price": 64.1,
+      "priceUpdatedAt": "2026-09-09T23:03:47.212Z"
     },
     {
       "ticker": "KLBN11",
       "assetClass": "STOCK",
-      "price": 19.61,
-      "priceUpdatedAt": "2026-09-08T23:15:19.269Z"
+      "price": 19.53,
+      "priceUpdatedAt": "2026-09-09T23:03:47.489Z"
     },
     {
       "ticker": "LREN3",
       "assetClass": "STOCK",
-      "price": 11.62,
-      "priceUpdatedAt": "2026-09-08T23:15:14.340Z"
+      "price": 11.34,
+      "priceUpdatedAt": "2026-09-09T23:03:41.686Z"
     },
     {
       "ticker": "MGLU3",
       "assetClass": "STOCK",
-      "price": 5.83,
-      "priceUpdatedAt": "2026-09-08T23:15:13.471Z"
+      "price": 5.57,
+      "priceUpdatedAt": "2026-09-09T23:03:40.555Z"
     },
     {
       "ticker": "MRFG3",
       "assetClass": "STOCK",
-      "price": 17.57,
-      "priceUpdatedAt": "2026-09-08T23:15:15.723Z"
+      "price": 17.16,
+      "priceUpdatedAt": "2026-09-09T23:03:43.247Z"
     },
     {
       "ticker": "PETR3",
       "assetClass": "STOCK",
-      "price": 53.24,
-      "priceUpdatedAt": "2026-09-08T23:15:14.899Z"
+      "price": 53.69,
+      "priceUpdatedAt": "2026-09-09T23:03:42.222Z"
     },
     {
       "ticker": "PETR4",
       "assetClass": "STOCK",
-      "price": 48.09,
-      "priceUpdatedAt": "2026-09-08T23:15:12.017Z"
+      "price": 48.42,
+      "priceUpdatedAt": "2026-09-09T23:03:38.839Z"
     },
     {
       "ticker": "PRIO3",
       "assetClass": "STOCK",
-      "price": 62,
-      "priceUpdatedAt": "2026-09-08T23:15:14.058Z"
+      "price": 62.52,
+      "priceUpdatedAt": "2026-09-09T23:03:41.072Z"
     },
     {
       "ticker": "RADL3",
       "assetClass": "STOCK",
-      "price": 20.42,
-      "priceUpdatedAt": "2026-09-08T23:15:14.992Z"
+      "price": 19.6,
+      "priceUpdatedAt": "2026-09-09T23:03:42.358Z"
     },
     {
       "ticker": "RDOR3",
       "assetClass": "STOCK",
-      "price": 37.46,
-      "priceUpdatedAt": "2026-09-08T23:15:16.105Z"
+      "price": 36.93,
+      "priceUpdatedAt": "2026-09-09T23:03:43.717Z"
     },
     {
       "ticker": "RENT3",
       "assetClass": "STOCK",
-      "price": 36.85,
-      "priceUpdatedAt": "2026-09-08T23:15:16.392Z"
+      "price": 35.72,
+      "priceUpdatedAt": "2026-09-09T23:03:44.057Z"
     },
     {
       "ticker": "RUMO3",
       "assetClass": "STOCK",
       "price": null,
-      "priceUpdatedAt": "2026-09-08T23:15:14.691Z"
+      "priceUpdatedAt": "2026-09-09T23:03:42.025Z"
     },
     {
       "ticker": "SANB11",
       "assetClass": "STOCK",
-      "price": 30.39,
-      "priceUpdatedAt": "2026-09-08T23:15:17.423Z"
+      "price": 29.96,
+      "priceUpdatedAt": "2026-09-09T23:03:45.346Z"
     },
     {
       "ticker": "SAPR11",
       "assetClass": "STOCK",
-      "price": 36.21,
-      "priceUpdatedAt": "2026-09-08T23:15:17.843Z"
+      "price": 35.08,
+      "priceUpdatedAt": "2026-09-09T23:03:45.771Z"
     },
     {
       "ticker": "SBSP3",
       "assetClass": "STOCK",
-      "price": 26.83,
-      "priceUpdatedAt": "2026-09-08T23:15:16.542Z"
+      "price": 26.7,
+      "priceUpdatedAt": "2026-09-09T23:03:44.300Z"
     },
     {
       "ticker": "SMFT3",
       "assetClass": "STOCK",
-      "price": 17.95,
-      "priceUpdatedAt": "2026-09-08T23:15:15.995Z"
+      "price": 17.65,
+      "priceUpdatedAt": "2026-09-09T23:03:43.585Z"
     },
     {
       "ticker": "SUZB3",
       "assetClass": "STOCK",
-      "price": 47.03,
-      "priceUpdatedAt": "2026-09-08T23:15:17.141Z"
+      "price": 47.23,
+      "priceUpdatedAt": "2026-09-09T23:03:44.999Z"
     },
     {
       "ticker": "TAEE11",
       "assetClass": "STOCK",
-      "price": 41.83,
-      "priceUpdatedAt": "2026-09-08T23:15:18.685Z"
+      "price": 40.87,
+      "priceUpdatedAt": "2026-09-09T23:03:46.722Z"
     },
     {
       "ticker": "TOTS3",
       "assetClass": "STOCK",
-      "price": 34.29,
-      "priceUpdatedAt": "2026-09-08T23:15:16.267Z"
+      "price": 33.17,
+      "priceUpdatedAt": "2026-09-09T23:03:43.939Z"
     },
     {
       "ticker": "VALE3",
       "assetClass": "STOCK",
-      "price": 79.02,
-      "priceUpdatedAt": "2026-09-08T23:15:13.203Z"
+      "price": 79.1,
+      "priceUpdatedAt": "2026-09-09T23:03:40.217Z"
     },
     {
       "ticker": "VAMO3",
       "assetClass": "STOCK",
-      "price": 3.53,
-      "priceUpdatedAt": "2026-09-08T23:15:12.634Z"
+      "price": 3.37,
+      "priceUpdatedAt": "2026-09-09T23:03:39.528Z"
     },
     {
       "ticker": "VBBR3",
       "assetClass": "STOCK",
-      "price": 37.49,
-      "priceUpdatedAt": "2026-09-08T23:15:16.829Z"
+      "price": 37.95,
+      "priceUpdatedAt": "2026-09-09T23:03:44.652Z"
     },
     {
       "ticker": "VIVT3",
       "assetClass": "STOCK",
-      "price": 30.03,
-      "priceUpdatedAt": "2026-09-08T23:15:18.122Z"
+      "price": 30.2,
+      "priceUpdatedAt": "2026-09-09T23:03:46.039Z"
     },
     {
       "ticker": "WEGE3",
       "assetClass": "STOCK",
-      "price": 52.65,
-      "priceUpdatedAt": "2026-09-08T23:15:16.680Z"
+      "price": 51.69,
+      "priceUpdatedAt": "2026-09-09T23:03:44.395Z"
     },
     {
       "ticker": "ACWI11",
       "assetClass": "ETF",
-      "price": 17.24,
-      "priceUpdatedAt": "2026-09-08T23:15:23.478Z"
+      "price": 17.26,
+      "priceUpdatedAt": "2026-09-09T23:03:52.963Z"
     },
     {
       "ticker": "AUPO11",
       "assetClass": "ETF",
-      "price": 109.88,
-      "priceUpdatedAt": "2026-09-08T23:15:22.516Z"
+      "price": 109.93,
+      "priceUpdatedAt": "2026-09-09T23:03:51.671Z"
     },
     {
       "ticker": "B5P211",
       "assetClass": "ETF",
-      "price": 111.55,
-      "priceUpdatedAt": "2026-09-08T23:15:22.381Z"
+      "price": 111.62,
+      "priceUpdatedAt": "2026-09-09T23:03:51.535Z"
     },
     {
       "ticker": "BITH11",
       "assetClass": "ETF",
-      "price": 89.44,
-      "priceUpdatedAt": "2026-09-08T23:15:21.693Z"
+      "price": 89.5,
+      "priceUpdatedAt": "2026-09-09T23:03:50.639Z"
     },
     {
       "ticker": "BITI11",
       "assetClass": "ETF",
-      "price": 35.76,
-      "priceUpdatedAt": "2026-09-08T23:15:23.113Z"
+      "price": 35.75,
+      "priceUpdatedAt": "2026-09-09T23:03:52.479Z"
     },
     {
       "ticker": "BOVA11",
       "assetClass": "ETF",
-      "price": 184.79,
-      "priceUpdatedAt": "2026-09-08T23:15:19.566Z"
+      "price": 182.87,
+      "priceUpdatedAt": "2026-09-09T23:03:47.829Z"
     },
     {
       "ticker": "BOVV11",
       "assetClass": "ETF",
-      "price": 193.5,
-      "priceUpdatedAt": "2026-09-08T23:15:20.981Z"
+      "price": 191.62,
+      "priceUpdatedAt": "2026-09-09T23:03:49.608Z"
     },
     {
       "ticker": "BOVX11",
       "assetClass": "ETF",
-      "price": 19.26,
-      "priceUpdatedAt": "2026-09-08T23:15:20.145Z"
+      "price": 19.08,
+      "priceUpdatedAt": "2026-09-09T23:03:48.511Z"
     },
     {
       "ticker": "COIN11",
       "assetClass": "ETF",
-      "price": 43.19,
-      "priceUpdatedAt": "2026-09-08T23:15:20.599Z"
+      "price": 43.5,
+      "priceUpdatedAt": "2026-09-09T23:03:48.920Z"
     },
     {
       "ticker": "DEBB11",
       "assetClass": "ETF",
-      "price": 17.06,
-      "priceUpdatedAt": "2026-09-08T23:15:21.152Z"
+      "price": 17.09,
+      "priceUpdatedAt": "2026-09-09T23:03:49.908Z"
     },
     {
       "ticker": "DIVD11",
       "assetClass": "ETF",
-      "price": 65.07,
-      "priceUpdatedAt": "2026-09-08T23:15:26.447Z"
+      "price": 64.03,
+      "priceUpdatedAt": "2026-09-09T23:03:56.457Z"
     },
     {
       "ticker": "DIVO11",
       "assetClass": "ETF",
-      "price": 134.78,
-      "priceUpdatedAt": "2026-09-08T23:15:24.234Z"
+      "price": 132.22,
+      "priceUpdatedAt": "2026-09-09T23:03:53.851Z"
     },
     {
       "ticker": "DOLA11",
       "assetClass": "ETF",
-      "price": 10.12,
-      "priceUpdatedAt": "2026-09-08T23:15:22.654Z"
+      "price": 10.13,
+      "priceUpdatedAt": "2026-09-09T23:03:51.929Z"
     },
     {
       "ticker": "DVER11",
       "assetClass": "ETF",
-      "price": 13.46,
-      "priceUpdatedAt": "2026-09-08T23:15:22.238Z"
+      "price": 13.22,
+      "priceUpdatedAt": "2026-09-09T23:03:51.326Z"
     },
     {
       "ticker": "ETHE11",
       "assetClass": "ETF",
-      "price": 36.35,
-      "priceUpdatedAt": "2026-09-08T23:15:20.424Z"
+      "price": 36.48,
+      "priceUpdatedAt": "2026-09-09T23:03:48.854Z"
     },
     {
       "ticker": "ETHY11",
       "assetClass": "ETF",
       "price": 60.05,
-      "priceUpdatedAt": "2026-09-08T23:15:24.516Z"
+      "priceUpdatedAt": "2026-09-09T23:03:54.067Z"
     },
     {
       "ticker": "GOLD11",
       "assetClass": "ETF",
-      "price": 22.98,
-      "priceUpdatedAt": "2026-09-08T23:15:19.762Z"
+      "price": 23.3,
+      "priceUpdatedAt": "2026-09-09T23:03:47.890Z"
     },
     {
       "ticker": "HASH11",
       "assetClass": "ETF",
-      "price": 52.1,
-      "priceUpdatedAt": "2026-09-08T23:15:20.323Z"
+      "price": 52.3,
+      "priceUpdatedAt": "2026-09-09T23:03:48.582Z"
     },
     {
       "ticker": "HODL11",
       "assetClass": "ETF",
-      "price": 67.09,
-      "priceUpdatedAt": "2026-09-08T23:15:24.801Z"
+      "price": 67.23,
+      "priceUpdatedAt": "2026-09-09T23:03:54.546Z"
     },
     {
       "ticker": "HTEK11",
       "assetClass": "ETF",
-      "price": 70.48,
-      "priceUpdatedAt": "2026-09-08T23:15:25.635Z"
+      "price": 69.33,
+      "priceUpdatedAt": "2026-09-09T23:03:55.563Z"
     },
     {
       "ticker": "IB5M11",
       "assetClass": "ETF",
-      "price": 126.05,
-      "priceUpdatedAt": "2026-09-08T23:15:25.908Z"
+      "price": 126.18,
+      "priceUpdatedAt": "2026-09-09T23:03:55.914Z"
     },
     {
       "ticker": "IBOB11",
       "assetClass": "ETF",
-      "price": 154.29,
-      "priceUpdatedAt": "2026-09-08T23:15:25.890Z"
+      "price": 152.88,
+      "priceUpdatedAt": "2026-09-09T23:03:55.769Z"
     },
     {
       "ticker": "IMAB11",
       "assetClass": "ETF",
-      "price": 116.91,
-      "priceUpdatedAt": "2026-09-08T23:15:24.793Z"
+      "price": 116.79,
+      "priceUpdatedAt": "2026-09-09T23:03:54.408Z"
     },
     {
       "ticker": "IRFM11",
       "assetClass": "ETF",
-      "price": 104.96,
-      "priceUpdatedAt": "2026-09-08T23:15:25.073Z"
+      "price": 104.69,
+      "priceUpdatedAt": "2026-09-09T23:03:54.888Z"
     },
     {
       "ticker": "IVVB11",
       "assetClass": "ETF",
-      "price": 440.5,
-      "priceUpdatedAt": "2026-09-08T23:15:22.107Z"
+      "price": 440.75,
+      "priceUpdatedAt": "2026-09-09T23:03:51.190Z"
     },
     {
       "ticker": "LFTB11",
       "assetClass": "ETF",
-      "price": 126.24,
-      "priceUpdatedAt": "2026-09-08T23:15:19.859Z"
+      "price": 126.28,
+      "priceUpdatedAt": "2026-09-09T23:03:48.171Z"
     },
     {
       "ticker": "LFTS11",
       "assetClass": "ETF",
-      "price": 159.43,
-      "priceUpdatedAt": "2026-09-08T23:15:20.879Z"
+      "price": 159.49,
+      "priceUpdatedAt": "2026-09-09T23:03:49.259Z"
     },
     {
       "ticker": "NASD11",
       "assetClass": "ETF",
-      "price": 20.9,
-      "priceUpdatedAt": "2026-09-08T23:15:20.044Z"
+      "price": 20.97,
+      "priceUpdatedAt": "2026-09-09T23:03:48.228Z"
     },
     {
       "ticker": "NTNS11",
       "assetClass": "ETF",
-      "price": 67.63,
-      "priceUpdatedAt": "2026-09-08T23:15:24.529Z"
+      "price": 67.61,
+      "priceUpdatedAt": "2026-09-09T23:03:54.208Z"
     },
     {
       "ticker": "PACB11",
       "assetClass": "ETF",
-      "price": 10.99,
-      "priceUpdatedAt": "2026-09-08T23:15:22.932Z"
+      "price": 10.96,
+      "priceUpdatedAt": "2026-09-09T23:03:52.277Z"
     },
     {
       "ticker": "QBTC11",
       "assetClass": "ETF",
-      "price": 24.09,
-      "priceUpdatedAt": "2026-09-08T23:15:20.706Z"
+      "price": 24.12,
+      "priceUpdatedAt": "2026-09-09T23:03:49.192Z"
     },
     {
       "ticker": "QETH11",
       "assetClass": "ETF",
-      "price": 8.94,
-      "priceUpdatedAt": "2026-09-08T23:15:23.203Z"
+      "price": 8.86,
+      "priceUpdatedAt": "2026-09-09T23:03:52.617Z"
     },
     {
       "ticker": "QQQI11",
       "assetClass": "ETF",
-      "price": 95.06,
-      "priceUpdatedAt": "2026-09-08T23:15:25.617Z"
+      "price": 95.5,
+      "priceUpdatedAt": "2026-09-09T23:03:55.433Z"
     },
     {
       "ticker": "QSOL11",
       "assetClass": "ETF",
-      "price": 6.32,
-      "priceUpdatedAt": "2026-09-08T23:15:21.421Z"
+      "price": 6.26,
+      "priceUpdatedAt": "2026-09-09T23:03:50.250Z"
     },
     {
       "ticker": "REVE11",
       "assetClass": "ETF",
-      "price": 76.34,
-      "priceUpdatedAt": "2026-09-08T23:15:25.072Z"
+      "price": 75.73,
+      "priceUpdatedAt": "2026-09-09T23:03:54.747Z"
     },
     {
       "ticker": "SMAL11",
       "assetClass": "ETF",
-      "price": 111.7,
-      "priceUpdatedAt": "2026-09-08T23:15:19.481Z"
+      "price": 110.2,
+      "priceUpdatedAt": "2026-09-09T23:03:47.552Z"
     },
     {
       "ticker": "SOLH11",
       "assetClass": "ETF",
-      "price": 14.64,
-      "priceUpdatedAt": "2026-09-08T23:15:23.390Z"
+      "price": 14.58,
+      "priceUpdatedAt": "2026-09-09T23:03:52.820Z"
     },
     {
       "ticker": "SPXB11",
       "assetClass": "ETF",
-      "price": 17.22,
-      "priceUpdatedAt": "2026-09-08T23:15:26.175Z"
+      "price": 17.21,
+      "priceUpdatedAt": "2026-09-09T23:03:56.257Z"
     },
     {
       "ticker": "SPXI11",
       "assetClass": "ETF",
-      "price": 53.67,
-      "priceUpdatedAt": "2026-09-08T23:15:21.964Z"
+      "price": 53.52,
+      "priceUpdatedAt": "2026-09-09T23:03:50.984Z"
     },
     {
       "ticker": "SPXR11",
       "assetClass": "ETF",
-      "price": 75.19,
-      "priceUpdatedAt": "2026-09-08T23:15:21.830Z"
+      "price": 75.1,
+      "priceUpdatedAt": "2026-09-09T23:03:50.821Z"
     },
     {
       "ticker": "SPYI11",
       "assetClass": "ETF",
-      "price": 107.5,
-      "priceUpdatedAt": "2026-09-08T23:15:23.750Z"
+      "price": 107.85,
+      "priceUpdatedAt": "2026-09-09T23:03:53.300Z"
     },
     {
       "ticker": "TECK11",
       "assetClass": "ETF",
-      "price": 122.68,
-      "priceUpdatedAt": "2026-09-08T23:15:21.547Z"
+      "price": 123,
+      "priceUpdatedAt": "2026-09-09T23:03:50.468Z"
     },
     {
       "ticker": "USDB11",
       "assetClass": "ETF",
-      "price": 97.48,
-      "priceUpdatedAt": "2026-09-08T23:15:25.341Z"
+      "price": 97.75,
+      "priceUpdatedAt": "2026-09-09T23:03:55.087Z"
     },
     {
       "ticker": "USTK11",
       "assetClass": "ETF",
-      "price": 22.06,
-      "priceUpdatedAt": "2026-09-08T23:15:25.364Z"
+      "price": 22.11,
+      "priceUpdatedAt": "2026-09-09T23:03:55.224Z"
     },
     {
       "ticker": "UTEC11",
       "assetClass": "ETF",
-      "price": 29.21,
-      "priceUpdatedAt": "2026-09-08T23:15:23.679Z"
+      "price": 29.29,
+      "priceUpdatedAt": "2026-09-09T23:03:53.162Z"
     },
     {
       "ticker": "WRLD11",
       "assetClass": "ETF",
-      "price": 147.95,
-      "priceUpdatedAt": "2026-09-08T23:15:23.958Z"
+      "price": 147.8,
+      "priceUpdatedAt": "2026-09-09T23:03:53.511Z"
     },
     {
       "ticker": "XFIX11",
       "assetClass": "ETF",
-      "price": 13.26,
-      "priceUpdatedAt": "2026-09-08T23:15:26.169Z"
+      "price": 13.25,
+      "priceUpdatedAt": "2026-09-09T23:03:56.114Z"
     },
     {
       "ticker": "XINA11",
       "assetClass": "ETF",
-      "price": 7.15,
-      "priceUpdatedAt": "2026-09-08T23:15:21.269Z"
+      "price": 7.08,
+      "priceUpdatedAt": "2026-09-09T23:03:49.957Z"
     }
   ]
 }

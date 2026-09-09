@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T23:15:33.743Z",
+  "generatedAt": "2026-09-09T23:04:05.811Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1366,36 +1366,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1521373&numSequencia=1046079&numVersao=1",
       "version": "1",
       "protocol": "021610IPE130520260113016552-36"
-    },
-    {
-      "id": "001023IPE120520260166975675-17:BBAS3",
-      "ticker": "BBAS3",
-      "assetClass": "STOCK",
-      "cvmCode": 1023,
-      "companyName": "BANCO DO BRASIL S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Eleição de Administrador",
-      "referenceDate": "2026-05-12T00:00:00.000Z",
-      "deliveredAt": "2026-05-12T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1520990&numSequencia=1045696&numVersao=1",
-      "version": "1",
-      "protocol": "001023IPE120520260166975675-17"
-    },
-    {
-      "id": "005410IPE300420260183945442-15:WEGE3",
-      "ticker": "WEGE3",
-      "assetClass": "STOCK",
-      "cvmCode": 5410,
-      "companyName": "WEG SA",
-      "category": "Comunicado ao Mercado",
-      "type": "Apresentações a analistas/agentes do mercado",
-      "subject": "Transcrição da Teleconferência de Resultados do 1T26",
-      "referenceDate": "2026-04-30T00:00:00.000Z",
-      "deliveredAt": "2026-05-12T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1520517&numSequencia=1045223&numVersao=1",
-      "version": "1",
-      "protocol": "005410IPE300420260183945442-15"
     }
   ],
   "audit": {
@@ -1409,6 +1379,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 93
+    "itemsGenerated": 91
   }
 }
