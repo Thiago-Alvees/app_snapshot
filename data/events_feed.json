@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:00:17.747Z",
+  "generatedAt": "2026-09-11T23:05:09.393Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1261,51 +1261,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1523947&numSequencia=1048653&numVersao=1",
       "version": "1",
       "protocol": "009512IPE180520260168377165-32"
-    },
-    {
-      "id": "001023IPE140520260208726909-78:BBAS3",
-      "ticker": "BBAS3",
-      "assetClass": "STOCK",
-      "cvmCode": 1023,
-      "companyName": "BANCO DO BRASIL S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Apresentações a analistas/agentes do mercado",
-      "subject": "Apresentação do Resultado 1T26",
-      "referenceDate": "2026-05-14T00:00:00.000Z",
-      "deliveredAt": "2026-05-14T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1521786&numSequencia=1046492&numVersao=2",
-      "version": "2",
-      "protocol": "001023IPE140520260208726909-78"
-    },
-    {
-      "id": "009512IPE140520260181433366-85:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre atualização monetária da remuneração aos acionistas relativa ao Exercício Social de 2025",
-      "referenceDate": "2026-05-14T00:00:00.000Z",
-      "deliveredAt": "2026-05-14T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1521783&numSequencia=1046489&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE140520260181433366-85"
-    },
-    {
-      "id": "009512IPE140520260130582365-97:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Caderno de Mudanças Climáticas e Transações Energéticas 2025",
-      "referenceDate": "2026-05-14T00:00:00.000Z",
-      "deliveredAt": "2026-05-14T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1521791&numSequencia=1046497&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE140520260130582365-97"
     }
   ],
   "audit": {
@@ -1319,6 +1274,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 87
+    "itemsGenerated": 84
   }
 }
