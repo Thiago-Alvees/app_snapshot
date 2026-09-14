@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-09-11T23:04:32.556Z",
+  "generatedAt": "2026-09-14T23:44:12.448Z",
   "provider": "brapi",
   "items": [
     {
       "ticker": "ABCP11",
-      "price": 74.5
+      "price": 74.67
     },
     {
       "ticker": "AIEC11",
-      "price": 65.9
+      "price": 65.7
     },
     {
       "ticker": "ALZR11",
-      "price": 10
+      "price": 10.01
     },
     {
       "ticker": "BRCO11",
-      "price": 110.05
+      "price": 109.64
     },
     {
       "ticker": "BRCR11",
-      "price": 41.98
+      "price": 41.48
     },
     {
       "ticker": "BTHF11",
-      "price": 8.86
+      "price": 8.56
     },
     {
       "ticker": "BTLG11",
-      "price": 101.31
+      "price": 101.09
     },
     {
       "ticker": "CPTS11",
-      "price": 7.5
+      "price": 7.47
     },
     {
       "ticker": "DEVA11",
-      "price": 16.98
+      "price": 16.8
     },
     {
       "ticker": "FIIB11",
-      "price": 420
+      "price": 419.42
     },
     {
       "ticker": "FLRP11",
-      "price": 20.08
+      "price": 20.25
     },
     {
       "ticker": "GARE11",
-      "price": 8.46
+      "price": 8.43
     },
     {
       "ticker": "GGRC11",
@@ -60,31 +60,31 @@
     },
     {
       "ticker": "HCTR11",
-      "price": 12.82
+      "price": 12.69
     },
     {
       "ticker": "HGBS11",
-      "price": 18.68
+      "price": 18.58
     },
     {
       "ticker": "HGLG11",
-      "price": 146
+      "price": 147.87
     },
     {
       "ticker": "HGRE11",
-      "price": 113.69
+      "price": 114.46
     },
     {
       "ticker": "HGRU11",
-      "price": 115
+      "price": 113.9
     },
     {
       "ticker": "HSLG11",
-      "price": 81.31
+      "price": 78.52
     },
     {
       "ticker": "HSML11",
-      "price": 83.01
+      "price": 84.23
     },
     {
       "ticker": "IRDM11",
@@ -92,23 +92,23 @@
     },
     {
       "ticker": "JSRE11",
-      "price": 60.19
+      "price": 59.75
     },
     {
       "ticker": "KNCR11",
-      "price": 106.4
+      "price": 105.79
     },
     {
       "ticker": "KNRI11",
-      "price": 157.4
+      "price": 156.38
     },
     {
       "ticker": "KNSC11",
-      "price": 8.96
+      "price": 8.97
     },
     {
       "ticker": "LVBI11",
-      "price": 97.73
+      "price": 97.97
     },
     {
       "ticker": "MORE11",
@@ -116,15 +116,15 @@
     },
     {
       "ticker": "MXRF11",
-      "price": 9.14
+      "price": 9.1
     },
     {
       "ticker": "PMLL11",
-      "price": 103
+      "price": 102.99
     },
     {
       "ticker": "PVBI11",
-      "price": 68.9
+      "price": 67
     },
     {
       "ticker": "RBRF11",
@@ -132,31 +132,31 @@
     },
     {
       "ticker": "RBRL11",
-      "price": 73.62
+      "price": 74.68
     },
     {
       "ticker": "RBRR11",
-      "price": 70.13
+      "price": 70
     },
     {
       "ticker": "RBVA11",
-      "price": 8.67
+      "price": 8.65
     },
     {
       "ticker": "RCRB11",
-      "price": 133.58
+      "price": 133.4
     },
     {
       "ticker": "RECR11",
-      "price": 74.95
+      "price": 76.02
     },
     {
       "ticker": "RECT11",
-      "price": 33.08
+      "price": 32.9
     },
     {
       "ticker": "RZTR11",
-      "price": 84.09
+      "price": 83.78
     },
     {
       "ticker": "SARE11",
@@ -164,11 +164,11 @@
     },
     {
       "ticker": "TORD11",
-      "price": 1.03
+      "price": 1.02
     },
     {
       "ticker": "URPR11",
-      "price": 19.21
+      "price": 19.32
     },
     {
       "ticker": "VGHF11",
@@ -176,27 +176,27 @@
     },
     {
       "ticker": "VGIR11",
-      "price": 9.59
+      "price": 9.55
     },
     {
       "ticker": "VILG11",
-      "price": 93.15
+      "price": 91.79
     },
     {
       "ticker": "VINO11",
-      "price": 4.31
+      "price": 4.26
     },
     {
       "ticker": "VISC11",
-      "price": 104.83
+      "price": 103.89
     },
     {
       "ticker": "XPLG11",
-      "price": 91.65
+      "price": 91.2
     },
     {
       "ticker": "XPML11",
-      "price": 102.65
+      "price": 100.6
     }
   ]
 }

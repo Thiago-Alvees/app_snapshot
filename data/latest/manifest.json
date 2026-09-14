@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "runDate": "2026-09-11",
+  "runDate": "2026-09-14",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-09-11T23:04:32.555Z",
-  "finishedAt": "2026-09-11T23:05:05.727Z",
-  "durationMs": 33172,
+  "startedAt": "2026-09-14T23:44:12.447Z",
+  "finishedAt": "2026-09-14T23:45:03.977Z",
+  "durationMs": 51530,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 189
+    "usedRequests": 204
   },
   "totals": {
     "processed": 177,
-    "succeeded": 163,
-    "failed": 14,
+    "succeeded": 162,
+    "failed": 15,
     "fallback": 0
   },
   "filters": {
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-09-11/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-09-14/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -56,6 +56,12 @@
       "category": "etf",
       "message": "Error: BRAPI: symbol not found (USAL11)",
       "status": 404
+    },
+    {
+      "symbol": "DOLA11",
+      "category": "etf",
+      "message": "HttpError: HTTP 429 - {\"error\":true,\"message\":\"Limite de requisições simultâneas atingido. Aguarde uma requisição terminar.\",\"code\":\"RATE_LIMITED\",\"details\":{\"concurrencyLimit\":1}}",
+      "status": 429
     },
     {
       "symbol": "META34",
