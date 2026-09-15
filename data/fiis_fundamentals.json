@@ -62,7 +62,7 @@
     ],
     "unresolvedMappingConflicts": [],
     "validationStatus": "PASSED",
-    "validatedAt": "2026-09-11T23:12:29.487Z",
+    "validatedAt": "2026-09-15T23:30:17.842Z",
     "validationSummary": {
       "items": 50,
       "tickersRequested": 50,
@@ -135,10 +135,10 @@
     },
     {
       "ticker": "FIIB11",
-      "vp": 595.41786249635,
-      "dy12m": 7.097599999999998,
+      "vp": 593.635850934307,
+      "dy12m": 6.8066,
       "dyStatus": "OK",
-      "pl": 407861235.81
+      "pl": 406640557.89
     },
     {
       "ticker": "FLRP11",
