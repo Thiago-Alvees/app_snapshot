@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T23:28:47.673Z",
+  "generatedAt": "2026-09-16T23:35:39.355Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1246,36 +1246,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525282&numSequencia=1049988&numVersao=1",
       "version": "1",
       "protocol": "009512IPE200520260174677789-16"
-    },
-    {
-      "id": "021610IPE190520260130787241-54:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Eleição do Diretor-Presidente da B3",
-      "referenceDate": "2026-05-19T00:00:00.000Z",
-      "deliveredAt": "2026-05-19T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1524111&numSequencia=1048817&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE190520260130787241-54"
-    },
-    {
-      "id": "019348IPE190520260157706913-13:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Aquisição/Alienação de Participação Acionária (art. 12 da Instr. CVM nº 358)",
-      "subject": "Declaração de Alienação de Participação Acionária Relevante - Art.12, §4º, da Instrução CVM nº358/02",
-      "referenceDate": "2026-05-19T00:00:00.000Z",
-      "deliveredAt": "2026-05-19T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1524536&numSequencia=1049242&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE190520260157706913-13"
     }
   ],
   "audit": {
@@ -1289,6 +1259,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 85
+    "itemsGenerated": 83
   }
 }
