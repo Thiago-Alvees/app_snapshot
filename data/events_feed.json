@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T23:35:39.355Z",
+  "generatedAt": "2026-09-17T23:27:31.774Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1201,51 +1201,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525777&numSequencia=1050483&numVersao=1",
       "version": "1",
       "protocol": "009512IPE210520260173470805-64"
-    },
-    {
-      "id": "001023IPE200520260173969467-11:BBAS3",
-      "ticker": "BBAS3",
-      "assetClass": "STOCK",
-      "cvmCode": 1023,
-      "companyName": "BANCO DO BRASIL S.A.",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "JCP Antecipação 2T26",
-      "referenceDate": "2026-05-20T00:00:00.000Z",
-      "deliveredAt": "2026-05-20T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525224&numSequencia=1049930&numVersao=1",
-      "version": "1",
-      "protocol": "001023IPE200520260173969467-11"
-    },
-    {
-      "id": "009512IPE200520260152377298-13:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras consolida parceria estratégica com a Lightsource bp em energia renovável no Brasil",
-      "referenceDate": "2026-05-20T00:00:00.000Z",
-      "deliveredAt": "2026-05-20T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525142&numSequencia=1049848&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE200520260152377298-13"
-    },
-    {
-      "id": "009512IPE200520260174677789-16:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Petrobras informa sobre adesão à nova subvenção econômica",
-      "referenceDate": "2026-05-20T00:00:00.000Z",
-      "deliveredAt": "2026-05-20T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525282&numSequencia=1049988&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE200520260174677789-16"
     }
   ],
   "audit": {
@@ -1259,6 +1214,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 83
+    "itemsGenerated": 80
   }
 }
