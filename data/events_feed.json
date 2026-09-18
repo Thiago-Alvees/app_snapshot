@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T23:27:31.774Z",
+  "generatedAt": "2026-09-18T23:08:07.225Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1186,21 +1186,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525853&numSequencia=1050559&numVersao=1",
       "version": "1",
       "protocol": "009512IPE220520260133934875-90"
-    },
-    {
-      "id": "009512IPE210520260173470805-64:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Aquisição/Alienação de Participação Acionária (art. 12 da Instr. CVM nº 358)",
-      "subject": "Declaração de Aquisição de Participação Acionária Relevante - Art.12 da Instrução CVM nº358/02",
-      "referenceDate": "2026-05-21T00:00:00.000Z",
-      "deliveredAt": "2026-05-21T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525777&numSequencia=1050483&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE210520260173470805-64"
     }
   ],
   "audit": {
@@ -1214,6 +1199,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 80
+    "itemsGenerated": 79
   }
 }
