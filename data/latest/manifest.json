@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "runDate": "2026-09-18",
+  "runDate": "2026-09-21",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-09-18T23:07:30.131Z",
-  "finishedAt": "2026-09-18T23:08:03.811Z",
-  "durationMs": 33680,
+  "startedAt": "2026-09-21T23:55:36.975Z",
+  "finishedAt": "2026-09-21T23:56:07.688Z",
+  "durationMs": 30713,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 192
+    "usedRequests": 198
   },
   "totals": {
     "processed": 177,
-    "succeeded": 163,
-    "failed": 14,
+    "succeeded": 161,
+    "failed": 16,
     "fallback": 0
   },
   "filters": {
@@ -24,13 +24,19 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-09-18/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-09-21/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
       "symbol": "RBED11",
       "category": "fii",
       "message": "Error: BRAPI: symbol not found (RBED11)",
+      "status": 404
+    },
+    {
+      "symbol": "RUMO3",
+      "category": "acao",
+      "message": "Error: BRAPI: symbol not found (RUMO3)",
       "status": 404
     },
     {
@@ -70,6 +76,12 @@
       "status": 404
     },
     {
+      "symbol": "PFGC34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (PFGC34)",
+      "status": 404
+    },
+    {
       "symbol": "KOCA34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (KOCA34)",
@@ -79,12 +91,6 @@
       "symbol": "N1KE34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (N1KE34)",
-      "status": 404
-    },
-    {
-      "symbol": "PFGC34",
-      "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (PFGC34)",
       "status": 404
     },
     {
@@ -100,6 +106,13 @@
       "kind": "primeRate",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Inflação e taxa SELIC requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessInflationOrPrimeRate\",\"",
       "status": 403
+    },
+    {
+      "symbol": "IDIV",
+      "category": "benchmark",
+      "kind": "index",
+      "message": "Error: BRAPI: index not found (IDIV)",
+      "status": 404
     },
     {
       "symbol": "IPCA",

@@ -1,7 +1,112 @@
 {
-  "generatedAt": "2026-09-18T23:08:07.225Z",
+  "generatedAt": "2026-09-21T23:56:10.447Z",
   "provider": "CVM IPE",
   "items": [
+    {
+      "id": "009512IPE190920260185210248-55:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras recebe nova parcela de Subvenção Econômica à Gasolina",
+      "referenceDate": "2026-09-19T00:00:00.000Z",
+      "deliveredAt": "2026-09-19T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1569746&numSequencia=1094452&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE190920260185210248-55"
+    },
+    {
+      "id": "009512IPE190920260100853886-76:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Fato Relevante",
+      "type": "",
+      "subject": "Petrobras informa sobre adesão à nova subvenção econômica",
+      "referenceDate": "2026-09-19T00:00:00.000Z",
+      "deliveredAt": "2026-09-19T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1569745&numSequencia=1094451&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE190920260100853886-76"
+    },
+    {
+      "id": "009512IPE170920260100549404-05:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras celebra 8 Contratos de Partilha de Produção na Costa do Marfim",
+      "referenceDate": "2026-09-17T00:00:00.000Z",
+      "deliveredAt": "2026-09-17T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1568947&numSequencia=1093653&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE170920260100549404-05"
+    },
+    {
+      "id": "019348IPE170920260127617538-94:ITUB4",
+      "ticker": "ITUB4",
+      "assetClass": "STOCK",
+      "cvmCode": 19348,
+      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Recompra de Letras Financeiras Subordinadas Nível 2",
+      "referenceDate": "2026-09-17T00:00:00.000Z",
+      "deliveredAt": "2026-09-17T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1569218&numSequencia=1093924&numVersao=1",
+      "version": "1",
+      "protocol": "019348IPE170920260127617538-94"
+    },
+    {
+      "id": "005410IPE160920260100657684-05:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Planejamento Sucessório",
+      "referenceDate": "2026-09-16T00:00:00.000Z",
+      "deliveredAt": "2026-09-16T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1568685&numSequencia=1093391&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE160920260100657684-05"
+    },
+    {
+      "id": "021610IPE150920260140539266-57:B3SA3",
+      "ticker": "B3SA3",
+      "assetClass": "STOCK",
+      "cvmCode": 21610,
+      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Dados Operacionais - agosto 2026",
+      "referenceDate": "2026-09-15T00:00:00.000Z",
+      "deliveredAt": "2026-09-15T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1568385&numSequencia=1093091&numVersao=1",
+      "version": "1",
+      "protocol": "021610IPE150920260140539266-57"
+    },
+    {
+      "id": "005410IPE150920260191435372-23:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Aviso aos Acionistas",
+      "type": "Outros avisos",
+      "subject": "Dividendos/Juros sobre Capital Próprio",
+      "referenceDate": "2026-09-15T00:00:00.000Z",
+      "deliveredAt": "2026-09-15T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1568334&numSequencia=1093040&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE150920260191435372-23"
+    },
     {
       "id": "009512IPE110920260126954886-41:PETR4",
       "ticker": "PETR4",
@@ -1171,21 +1276,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1526639&numSequencia=1051345&numVersao=1",
       "version": "1",
       "protocol": "009512IPE250520260162695766-95"
-    },
-    {
-      "id": "009512IPE220520260133934875-90:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras arquiva Formulário de Referência 2026",
-      "referenceDate": "2026-05-22T00:00:00.000Z",
-      "deliveredAt": "2026-05-22T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525853&numSequencia=1050559&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE220520260133934875-90"
     }
   ],
   "audit": {
@@ -1199,6 +1289,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 79
+    "itemsGenerated": 85
   }
 }

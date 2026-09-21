@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-18T23:07:30.132Z",
+  "generatedAt": "2026-09-21T23:55:36.976Z",
   "timezone": "America/Fortaleza",
-  "runDate": "2026-09-18",
+  "runDate": "2026-09-21",
   "provider": "brapi",
   "items": [
     {
@@ -10,16 +10,16 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-09-18T23:08:02.387Z",
+      "collectedAt": "2026-09-21T23:56:06.497Z",
       "asOf": null,
       "quote": {
-        "price": 185229.17,
-        "change": -762.86,
-        "changePercent": -0.41,
-        "open": 185229.17,
-        "previousClose": 185992.03,
-        "dayHigh": 185991.47,
-        "dayLow": 184460.9,
+        "price": 186595.6,
+        "change": 1366.43,
+        "changePercent": 0.74,
+        "open": 186595.6,
+        "previousClose": 185229.17,
+        "dayHigh": 187434.25,
+        "dayLow": 185246.81,
         "volume": null,
         "marketCap": null,
         "currency": "BRL"
@@ -31,14 +31,6 @@
         "week52Low": 140231
       },
       "history3m": [
-        {
-          "date": "2026-06-22",
-          "open": 168334,
-          "high": 170750,
-          "low": 168326,
-          "close": 170370,
-          "volume": 8544200
-        },
         {
           "date": "2026-06-23",
           "open": 170367,
@@ -537,10 +529,18 @@
         },
         {
           "date": "2026-09-18",
-          "open": 185991.4688,
-          "high": 185991.4688,
-          "low": 184460.9063,
-          "close": 185229.1719,
+          "open": 185991,
+          "high": 185991,
+          "low": 184461,
+          "close": 185229,
+          "volume": 11463500
+        },
+        {
+          "date": "2026-09-21",
+          "open": 185246.8125,
+          "high": 187434.25,
+          "low": 185246.8125,
+          "close": 186595.5938,
           "volume": 0
         }
       ],
@@ -550,54 +550,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/^BVSP.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-09-18T23:08:02.452Z",
+        "requestedAt": "2026-09-21T23:56:06.516Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-09-18/benchmarks/IBOV.index.json"
-      }
-    },
-    {
-      "symbol": "IDIV",
-      "category": "benchmark",
-      "subcategory": null,
-      "source": "brapi",
-      "collectedAt": "2026-09-18T23:08:02.748Z",
-      "asOf": null,
-      "quote": {
-        "price": 6.96,
-        "change": -0.1,
-        "changePercent": -1.42,
-        "open": 6.96,
-        "previousClose": 7.06,
-        "dayHigh": 7.049,
-        "dayLow": 6.96,
-        "volume": 10205,
-        "marketCap": null,
-        "currency": "USD"
-      },
-      "stats": {
-        "pe": null,
-        "eps": 0,
-        "week52High": 7.155,
-        "week52Low": 6.8
-      },
-      "history3m": [],
-      "branding": {
-        "shortName": "U.S. Equity Cumulative Dividend",
-        "longName": "Metaurus U.S. Equity Cumulative Dividends Fund-Series 2027",
-        "logoUrl": "https://icons.brapi.dev/icons/IDIV.svg"
-      },
-      "providerMeta": {
-        "requestedAt": "2026-09-18T23:08:02.803Z",
-        "responseStatus": 200,
-        "stale": false,
-        "fallbackUsed": false
-      },
-      "rawRef": {
-        "path": "data/raw/2026-09-18/benchmarks/IDIV.index.json"
+        "path": "data/raw/2026-09-21/benchmarks/IBOV.index.json"
       }
     },
     {
@@ -605,16 +564,16 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-09-18T23:08:02.222Z",
+      "collectedAt": "2026-09-21T23:56:06.326Z",
       "asOf": null,
       "quote": {
-        "price": 3750.27,
-        "change": 2.8,
-        "changePercent": 0.07,
-        "open": 3750.27,
-        "previousClose": 3747.47,
-        "dayHigh": 3751.11,
-        "dayLow": 3735.1,
+        "price": 3761.68,
+        "change": 11.41,
+        "changePercent": 0.3,
+        "open": 3761.68,
+        "previousClose": 3750.27,
+        "dayHigh": 3761.68,
+        "dayLow": 3737.81,
         "volume": null,
         "marketCap": null,
         "currency": "BRL"
@@ -622,16 +581,16 @@
       "stats": {
         "pe": null,
         "eps": 0,
-        "week52High": 3751.11,
-        "week52Low": 3735.1
+        "week52High": 3761.68,
+        "week52Low": 3737.81
       },
       "history3m": [
         {
-          "date": "2026-09-18",
-          "open": 3747.47,
-          "high": 3751.1101,
-          "low": 3735.1001,
-          "close": 3750.27,
+          "date": "2026-09-21",
+          "open": 3750.27,
+          "high": 3761.6799,
+          "low": 3737.8101,
+          "close": 3761.6799,
           "volume": 0
         }
       ],
@@ -641,13 +600,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/IFIX.SA.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-09-18T23:08:02.398Z",
+        "requestedAt": "2026-09-21T23:56:06.400Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-09-18/benchmarks/IFIX.index.json"
+        "path": "data/raw/2026-09-21/benchmarks/IFIX.index.json"
       }
     }
   ]
