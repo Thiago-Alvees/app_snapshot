@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "runDate": "2026-09-23",
+  "runDate": "2026-09-24",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-09-23T23:28:01.621Z",
-  "finishedAt": "2026-09-23T23:28:33.091Z",
-  "durationMs": 31470,
+  "startedAt": "2026-09-24T23:47:49.220Z",
+  "finishedAt": "2026-09-24T23:48:23.544Z",
+  "durationMs": 34324,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 199
+    "usedRequests": 204
   },
   "totals": {
     "processed": 177,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-09-23/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-09-24/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -94,10 +94,10 @@
       "status": 404
     },
     {
-      "symbol": "IBBR",
+      "symbol": "IDIV",
       "category": "benchmark",
       "kind": "index",
-      "message": "Error: BRAPI: index not found (IBBR)",
+      "message": "Error: BRAPI: index not found (IDIV)",
       "status": 404
     },
     {
@@ -115,18 +115,18 @@
       "status": 403
     },
     {
+      "symbol": "IBBR",
+      "category": "benchmark",
+      "kind": "index",
+      "message": "Error: BRAPI: index not found (IBBR)",
+      "status": 404
+    },
+    {
       "symbol": "USDBRL",
       "category": "benchmark",
       "kind": "currency",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Câmbio requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessCurrency\",\"featureLabel\":\"Câmbio\",\"cur",
       "status": 403
-    },
-    {
-      "symbol": "IDIV",
-      "category": "benchmark",
-      "kind": "index",
-      "message": "Error: BRAPI: index not found (IDIV)",
-      "status": 404
     }
   ]
 }
