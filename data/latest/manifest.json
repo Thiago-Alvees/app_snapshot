@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "runDate": "2026-09-24",
+  "runDate": "2026-09-25",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-09-24T23:47:49.220Z",
-  "finishedAt": "2026-09-24T23:48:23.544Z",
-  "durationMs": 34324,
+  "startedAt": "2026-09-25T23:53:41.567Z",
+  "finishedAt": "2026-09-25T23:54:14.953Z",
+  "durationMs": 33386,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 204
+    "usedRequests": 196
   },
   "totals": {
     "processed": 177,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-09-24/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-09-25/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -94,6 +94,13 @@
       "status": 404
     },
     {
+      "symbol": "IBBR",
+      "category": "benchmark",
+      "kind": "index",
+      "message": "Error: BRAPI: index not found (IBBR)",
+      "status": 404
+    },
+    {
       "symbol": "IDIV",
       "category": "benchmark",
       "kind": "index",
@@ -113,13 +120,6 @@
       "kind": "inflation",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Inflação e taxa SELIC requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessInflationOrPrimeRate\",\"",
       "status": 403
-    },
-    {
-      "symbol": "IBBR",
-      "category": "benchmark",
-      "kind": "index",
-      "message": "Error: BRAPI: index not found (IBBR)",
-      "status": 404
     },
     {
       "symbol": "USDBRL",

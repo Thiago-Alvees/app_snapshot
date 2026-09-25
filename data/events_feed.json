@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T23:48:26.051Z",
+  "generatedAt": "2026-09-25T23:54:18.361Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1201,51 +1201,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1528394&numSequencia=1053100&numVersao=1",
       "version": "1",
       "protocol": "009512IPE290520260179986167-84"
-    },
-    {
-      "id": "001023IPE280520260108134349-54:BBAS3",
-      "ticker": "BBAS3",
-      "assetClass": "STOCK",
-      "cvmCode": 1023,
-      "companyName": "BANCO DO BRASIL S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Comunicado ao Mercado - Relatório Anual 2025",
-      "referenceDate": "2026-05-28T00:00:00.000Z",
-      "deliveredAt": "2026-05-28T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1528046&numSequencia=1052752&numVersao=1",
-      "version": "1",
-      "protocol": "001023IPE280520260108134349-54"
-    },
-    {
-      "id": "009512IPE280520260184273181-47:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre resgate de títulos globais",
-      "referenceDate": "2026-05-28T00:00:00.000Z",
-      "deliveredAt": "2026-05-28T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1527707&numSequencia=1052413&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE280520260184273181-47"
-    },
-    {
-      "id": "019348IPE280520260157511421-74:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Pagamento de Juros sobre o Capital Próprio",
-      "referenceDate": "2026-05-28T00:00:00.000Z",
-      "deliveredAt": "2026-05-28T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1528166&numSequencia=1052872&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE280520260157511421-74"
     }
   ],
   "audit": {
@@ -1259,6 +1214,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 83
+    "itemsGenerated": 80
   }
 }
