@@ -14,7 +14,7 @@
     "resolvedMappingConflicts": [],
     "unresolvedMappingConflicts": [],
     "validationStatus": "PASSED",
-    "validatedAt": "2026-09-25T23:56:00.681Z",
+    "validatedAt": "2026-09-29T00:57:08.478Z",
     "validationSummary": {
       "items": 50,
       "tickersRequested": 50,
@@ -38,10 +38,10 @@
     },
     {
       "ticker": "ALZR11",
-      "vp": 10.692112,
-      "dy12m": 9.332099999999999,
+      "vp": 10.697599,
+      "dy12m": 9.382899999999998,
       "dyStatus": "OK",
-      "pl": 1757788636.74
+      "pl": 1758690658.65
     },
     {
       "ticker": "BRCO11",
@@ -136,10 +136,10 @@
     },
     {
       "ticker": "HGLG11",
-      "vp": 166.089179707456,
-      "dy12m": 7.969999999999999,
+      "vp": 165.951408188109,
+      "dy12m": 7.969699999999999,
       "dyStatus": "OK",
-      "pl": 7570811687.75
+      "pl": 7567668488.14
     },
     {
       "ticker": "HGRE11",
@@ -227,10 +227,10 @@
     },
     {
       "ticker": "PMLL11",
-      "vp": 119.281063408642,
+      "vp": 119.318137056338,
       "dy12m": 9.5174,
       "dyStatus": "OK",
-      "pl": 2117294579.76
+      "pl": 2117952654.32
     },
     {
       "ticker": "PVBI11",
