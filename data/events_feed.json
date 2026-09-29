@@ -1,7 +1,82 @@
 {
-  "generatedAt": "2026-09-25T23:54:18.361Z",
+  "generatedAt": "2026-09-29T00:53:01.508Z",
   "provider": "CVM IPE",
   "items": [
+    {
+      "id": "009512IPE250920260199203940-84:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras recebe nova parcela de Subvenção Econômica ao Diesel",
+      "referenceDate": "2026-09-25T00:00:00.000Z",
+      "deliveredAt": "2026-09-25T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1571419&numSequencia=1096125&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE250920260199203940-84"
+    },
+    {
+      "id": "005410IPE250920260196505976-56:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Investimentos para ampliação do projeto da fábrica de sistemas de armazenamento de energia em baterias (BESS)",
+      "referenceDate": "2026-09-25T00:00:00.000Z",
+      "deliveredAt": "2026-09-25T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1571416&numSequencia=1096122&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE250920260196505976-56"
+    },
+    {
+      "id": "021610IPE220920260177369644-48:B3SA3",
+      "ticker": "B3SA3",
+      "assetClass": "STOCK",
+      "cvmCode": 21610,
+      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+      "category": "Aviso aos Acionistas",
+      "type": "Outros avisos",
+      "subject": "Dividendos/Juros sobre Capital Próprio",
+      "referenceDate": "2026-09-22T00:00:00.000Z",
+      "deliveredAt": "2026-09-22T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1570486&numSequencia=1095192&numVersao=1",
+      "version": "1",
+      "protocol": "021610IPE220920260177369644-48"
+    },
+    {
+      "id": "009512IPE220920260139818165-26:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras informa sobre resgate de títulos globais",
+      "referenceDate": "2026-09-22T00:00:00.000Z",
+      "deliveredAt": "2026-09-22T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1570636&numSequencia=1095342&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE220920260139818165-26"
+    },
+    {
+      "id": "019348IPE220920260198661353-30:ITUB4",
+      "ticker": "ITUB4",
+      "assetClass": "STOCK",
+      "cvmCode": 19348,
+      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Panorama Itaúsa 2026",
+      "referenceDate": "2026-09-22T00:00:00.000Z",
+      "deliveredAt": "2026-09-22T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1570579&numSequencia=1095285&numVersao=1",
+      "version": "1",
+      "protocol": "019348IPE220920260198661353-30"
+    },
     {
       "id": "009512IPE190920260185210248-55:PETR4",
       "ticker": "PETR4",
@@ -1186,21 +1261,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1529607&numSequencia=1054313&numVersao=1",
       "version": "1",
       "protocol": "009512IPE020620260180192521-21"
-    },
-    {
-      "id": "009512IPE290520260179986167-84:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras assina contratos para dois FPSOs do projeto Sergipe Águas Profundas",
-      "referenceDate": "2026-05-29T00:00:00.000Z",
-      "deliveredAt": "2026-05-29T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1528394&numSequencia=1053100&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE290520260179986167-84"
     }
   ],
   "audit": {
@@ -1214,6 +1274,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 80
+    "itemsGenerated": 84
   }
 }
