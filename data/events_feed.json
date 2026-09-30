@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T00:53:01.508Z",
+  "generatedAt": "2026-09-30T00:09:25.823Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1246,21 +1246,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1531878&numSequencia=1056584&numVersao=1",
       "version": "1",
       "protocol": "001023IPE080620260193648539-20"
-    },
-    {
-      "id": "009512IPE020620260180192521-21:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Petrobras informa sobre adesão à nova subvenção econômica",
-      "referenceDate": "2026-06-02T00:00:00.000Z",
-      "deliveredAt": "2026-06-02T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1529607&numSequencia=1054313&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE020620260180192521-21"
     }
   ],
   "audit": {
@@ -1274,6 +1259,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 84
+    "itemsGenerated": 83
   }
 }

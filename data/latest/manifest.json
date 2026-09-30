@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "runDate": "2026-09-28",
+  "runDate": "2026-09-29",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-09-29T00:52:29.044Z",
-  "finishedAt": "2026-09-29T00:52:58.844Z",
-  "durationMs": 29800,
+  "startedAt": "2026-09-30T00:08:45.542Z",
+  "finishedAt": "2026-09-30T00:09:22.267Z",
+  "durationMs": 36725,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-09-28/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-09-29/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -88,17 +88,16 @@
       "status": 404
     },
     {
+      "symbol": "N1KE34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (N1KE34)",
+      "status": 404
+    },
+    {
       "symbol": "IBBR",
       "category": "benchmark",
       "kind": "index",
       "message": "Error: BRAPI: index not found (IBBR)",
-      "status": 404
-    },
-    {
-      "symbol": "IDIV",
-      "category": "benchmark",
-      "kind": "index",
-      "message": "Error: BRAPI: index not found (IDIV)",
       "status": 404
     },
     {
@@ -116,17 +115,18 @@
       "status": 403
     },
     {
-      "symbol": "N1KE34",
-      "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (N1KE34)",
-      "status": 404
-    },
-    {
       "symbol": "USDBRL",
       "category": "benchmark",
       "kind": "currency",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Câmbio requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessCurrency\",\"featureLabel\":\"Câmbio\",\"cur",
       "status": 403
+    },
+    {
+      "symbol": "IDIV",
+      "category": "benchmark",
+      "kind": "index",
+      "message": "Error: BRAPI: index not found (IDIV)",
+      "status": 404
     }
   ]
 }
