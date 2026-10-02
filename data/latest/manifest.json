@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "runDate": "2026-09-30",
+  "runDate": "2026-10-01",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-10-01T00:25:26.729Z",
-  "finishedAt": "2026-10-01T00:26:01.426Z",
-  "durationMs": 34697,
+  "startedAt": "2026-10-02T00:35:44.222Z",
+  "finishedAt": "2026-10-02T00:36:14.324Z",
+  "durationMs": 30102,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 200
+    "usedRequests": 197
   },
   "totals": {
     "processed": 177,
-    "succeeded": 161,
-    "failed": 16,
+    "succeeded": 162,
+    "failed": 15,
     "fallback": 0
   },
   "filters": {
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-09-30/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-10-01/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -43,12 +43,6 @@
       "symbol": "PORT3",
       "category": "acao",
       "message": "Error: BRAPI: symbol not found (PORT3)",
-      "status": 404
-    },
-    {
-      "symbol": "ELET6",
-      "category": "acao",
-      "message": "Error: BRAPI: symbol not found (ELET6)",
       "status": 404
     },
     {
