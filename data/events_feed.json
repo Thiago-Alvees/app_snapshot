@@ -1,7 +1,82 @@
 {
-  "generatedAt": "2026-10-03T00:16:32.649Z",
+  "generatedAt": "2026-10-06T01:42:22.406Z",
   "provider": "CVM IPE",
   "items": [
+    {
+      "id": "009512IPE021020260197097062-40:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras faz nova descoberta de petróleo em águas ultra profundas na costa do Amapá",
+      "referenceDate": "2026-10-02T00:00:00.000Z",
+      "deliveredAt": "2026-10-02T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1573556&numSequencia=1098262&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE021020260197097062-40"
+    },
+    {
+      "id": "005410IPE021020260128606087-57:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Comunicado ao Mercado",
+      "type": "Apresentações a analistas/agentes do mercado",
+      "subject": "WEG Day 2026",
+      "referenceDate": "2026-10-02T00:00:00.000Z",
+      "deliveredAt": "2026-10-02T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1573544&numSequencia=1098250&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE021020260128606087-57"
+    },
+    {
+      "id": "009512IPE300920260171822848-94:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras recebe pagamento de novas parcelas do Programa de Subvenção Econômica da gasolina e do diesel",
+      "referenceDate": "2026-09-30T00:00:00.000Z",
+      "deliveredAt": "2026-09-30T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1573013&numSequencia=1097719&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE300920260171822848-94"
+    },
+    {
+      "id": "009512IPE290920260146059208-14:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Aviso aos Acionistas",
+      "type": "Outros avisos",
+      "subject": "Orientações para investidores não residentes, relativas ao pagamento de dividendos referente ao 2T26",
+      "referenceDate": "2026-09-29T00:00:00.000Z",
+      "deliveredAt": "2026-09-29T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1572673&numSequencia=1097379&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE290920260146059208-14"
+    },
+    {
+      "id": "005410IPE280920260139409070-54:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Investimento de US$ 165 milhões para ampliar  produção de geradores na América do Norte",
+      "referenceDate": "2026-09-28T00:00:00.000Z",
+      "deliveredAt": "2026-09-28T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1571905&numSequencia=1096611&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE280920260139409070-54"
+    },
     {
       "id": "009512IPE250920260199203940-84:PETR4",
       "ticker": "PETR4",
@@ -1231,21 +1306,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1533291&numSequencia=1057997&numVersao=1",
       "version": "1",
       "protocol": "019348IPE100620260122386779-42"
-    },
-    {
-      "id": "001023IPE080620260193648539-20:BBAS3",
-      "ticker": "BBAS3",
-      "assetClass": "STOCK",
-      "cvmCode": 1023,
-      "companyName": "BANCO DO BRASIL S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Apresentações a analistas/agentes do mercado",
-      "subject": "Apresentação Institucional 1T26",
-      "referenceDate": "2026-06-08T00:00:00.000Z",
-      "deliveredAt": "2026-06-08T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1531878&numSequencia=1056584&numVersao=1",
-      "version": "1",
-      "protocol": "001023IPE080620260193648539-20"
     }
   ],
   "audit": {
@@ -1259,6 +1319,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 83
+    "itemsGenerated": 87
   }
 }
