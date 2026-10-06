@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01",
+  "updatedAt": "2026-09-01",
   "source": "CVM - INF_MENSAL FII (geral + complemento via ISIN)",
   "audit": {
     "mappingMethod": "CVM INF_MENSAL FII geral Codigo_ISIN -> ticker + CNPJ; complemento por CNPJ; overrides opcionais",
@@ -14,7 +14,7 @@
     "resolvedMappingConflicts": [],
     "unresolvedMappingConflicts": [],
     "validationStatus": "PASSED",
-    "validatedAt": "2026-10-03T00:24:53.451Z",
+    "validatedAt": "2026-10-06T01:44:05.296Z",
     "validationSummary": {
       "items": 50,
       "tickersRequested": 50,
@@ -52,10 +52,10 @@
     },
     {
       "ticker": "BRCR11",
-      "vp": 80.77799,
-      "dy12m": 5.5498,
+      "vp": 80.708999,
+      "dy12m": 5.4294,
       "dyStatus": "OK",
-      "pl": 2151780421.99
+      "pl": 2149942607.02
     },
     {
       "ticker": "BTHF11",
@@ -164,10 +164,10 @@
     },
     {
       "ticker": "HSML11",
-      "vp": 98.9320641115583,
+      "vp": 99.4140216529076,
       "dy12m": 8.3135,
       "dyStatus": "OK",
-      "pl": 2110218553.13
+      "pl": 2120498695.92
     },
     {
       "ticker": "IRDM11",
