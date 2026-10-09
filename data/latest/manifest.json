@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "runDate": "2026-10-07",
+  "runDate": "2026-10-08",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-10-08T00:49:05.562Z",
-  "finishedAt": "2026-10-08T00:49:46.736Z",
-  "durationMs": 41174,
+  "startedAt": "2026-10-09T01:02:56.437Z",
+  "finishedAt": "2026-10-09T01:03:37.012Z",
+  "durationMs": 40575,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 202
+    "usedRequests": 201
   },
   "totals": {
     "processed": 177,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-10-07/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-10-08/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {

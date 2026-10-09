@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-08T00:49:05.563Z",
+  "generatedAt": "2026-10-09T01:02:56.438Z",
   "timezone": "America/Fortaleza",
-  "runDate": "2026-10-07",
+  "runDate": "2026-10-08",
   "provider": "brapi",
   "items": [
     {
@@ -10,16 +10,16 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-10-08T00:49:44.569Z",
+      "collectedAt": "2026-10-09T01:03:34.816Z",
       "asOf": null,
       "quote": {
-        "price": 204302.33,
-        "change": -1532.97,
-        "changePercent": -0.74,
-        "open": 204302.33,
-        "previousClose": 205835.3,
-        "dayHigh": 204302.33,
-        "dayLow": 204302.33,
+        "price": 206220.23,
+        "change": 1917.9,
+        "changePercent": 0.94,
+        "open": 206220.23,
+        "previousClose": 204302.33,
+        "dayHigh": 206220.23,
+        "dayLow": 206220.23,
         "volume": null,
         "marketCap": null,
         "currency": "BRL"
@@ -28,17 +28,9 @@
         "pe": null,
         "eps": 0,
         "week52High": 209606,
-        "week52Low": 204302.33
+        "week52Low": 206220.23
       },
       "history3m": [
-        {
-          "date": "2026-07-10",
-          "open": 172761,
-          "high": 177866,
-          "low": 172761,
-          "close": 177866,
-          "volume": 8425700
-        },
         {
           "date": "2026-07-13",
           "open": 177868,
@@ -529,10 +521,18 @@
         },
         {
           "date": "2026-10-07",
+          "open": 205836,
+          "high": 206878,
+          "low": 204176,
+          "close": 204302,
+          "volume": 15344100
+        },
+        {
+          "date": "2026-10-08",
           "open": 0,
           "high": 0,
           "low": 0,
-          "close": 204302.3281,
+          "close": 206220.2344,
           "volume": 0
         }
       ],
@@ -542,13 +542,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/^BVSP.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-10-08T00:49:44.616Z",
+        "requestedAt": "2026-10-09T01:03:34.862Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-10-07/benchmarks/IBOV.index.json"
+        "path": "data/raw/2026-10-08/benchmarks/IBOV.index.json"
       }
     },
     {
@@ -556,16 +556,16 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-10-08T00:49:44.269Z",
+      "collectedAt": "2026-10-09T01:03:34.378Z",
       "asOf": null,
       "quote": {
-        "price": 3955.32,
-        "change": 46.54,
-        "changePercent": 1.19,
-        "open": 3955.32,
-        "previousClose": 3908.78,
-        "dayHigh": 3955.32,
-        "dayLow": 3955.32,
+        "price": 3949.64,
+        "change": -5.68,
+        "changePercent": -0.14,
+        "open": 3949.64,
+        "previousClose": 3955.32,
+        "dayHigh": 3949.64,
+        "dayLow": 3949.64,
         "volume": null,
         "marketCap": null,
         "currency": "BRL"
@@ -573,16 +573,16 @@
       "stats": {
         "pe": null,
         "eps": 0,
-        "week52High": 3955.32,
-        "week52Low": 3955.32
+        "week52High": 3949.64,
+        "week52Low": 3949.64
       },
       "history3m": [
         {
-          "date": "2026-10-07",
+          "date": "2026-10-08",
           "open": 0,
           "high": 0,
           "low": 0,
-          "close": 3955.3201,
+          "close": 3949.6399,
           "volume": 0
         }
       ],
@@ -592,13 +592,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/IFIX.SA.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-10-08T00:49:44.465Z",
+        "requestedAt": "2026-10-09T01:03:34.521Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-10-07/benchmarks/IFIX.index.json"
+        "path": "data/raw/2026-10-08/benchmarks/IFIX.index.json"
       }
     }
   ]
