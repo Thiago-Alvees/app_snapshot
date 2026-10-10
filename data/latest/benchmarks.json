@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-09T01:02:56.438Z",
+  "generatedAt": "2026-10-10T00:34:49.432Z",
   "timezone": "America/Fortaleza",
-  "runDate": "2026-10-08",
+  "runDate": "2026-10-09",
   "provider": "brapi",
   "items": [
     {
@@ -10,16 +10,16 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-10-09T01:03:34.816Z",
+      "collectedAt": "2026-10-10T00:35:32.129Z",
       "asOf": null,
       "quote": {
-        "price": 206220.23,
-        "change": 1917.9,
-        "changePercent": 0.94,
-        "open": 206220.23,
-        "previousClose": 204302.33,
-        "dayHigh": 206220.23,
-        "dayLow": 206220.23,
+        "price": 209066.9,
+        "change": 2846.67,
+        "changePercent": 1.38,
+        "open": 209066.9,
+        "previousClose": 206220.23,
+        "dayHigh": 209713.45,
+        "dayLow": 206237.55,
         "volume": null,
         "marketCap": null,
         "currency": "BRL"
@@ -27,8 +27,8 @@
       "stats": {
         "pe": null,
         "eps": 0,
-        "week52High": 209606,
-        "week52Low": 206220.23
+        "week52High": 209713.45,
+        "week52Low": 140231
       },
       "history3m": [
         {
@@ -529,10 +529,18 @@
         },
         {
           "date": "2026-10-08",
-          "open": 0,
-          "high": 0,
-          "low": 0,
-          "close": 206220.2344,
+          "open": 204300,
+          "high": 207954,
+          "low": 203985,
+          "close": 206220,
+          "volume": 16062400
+        },
+        {
+          "date": "2026-10-09",
+          "open": 206237.5469,
+          "high": 209713.4531,
+          "low": 206237.5469,
+          "close": 209066.9063,
           "volume": 0
         }
       ],
@@ -542,13 +550,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/^BVSP.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-10-09T01:03:34.862Z",
+        "requestedAt": "2026-10-10T00:35:32.184Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-10-08/benchmarks/IBOV.index.json"
+        "path": "data/raw/2026-10-09/benchmarks/IBOV.index.json"
       }
     },
     {
@@ -556,16 +564,16 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-10-09T01:03:34.378Z",
+      "collectedAt": "2026-10-10T00:35:31.691Z",
       "asOf": null,
       "quote": {
-        "price": 3949.64,
-        "change": -5.68,
-        "changePercent": -0.14,
-        "open": 3949.64,
-        "previousClose": 3955.32,
-        "dayHigh": 3949.64,
-        "dayLow": 3949.64,
+        "price": 3988.54,
+        "change": 38.9,
+        "changePercent": 0.98,
+        "open": 3988.54,
+        "previousClose": 3949.64,
+        "dayHigh": 3991.07,
+        "dayLow": 3949.65,
         "volume": null,
         "marketCap": null,
         "currency": "BRL"
@@ -573,16 +581,16 @@
       "stats": {
         "pe": null,
         "eps": 0,
-        "week52High": 3949.64,
-        "week52Low": 3949.64
+        "week52High": 3991.07,
+        "week52Low": 3949.65
       },
       "history3m": [
         {
-          "date": "2026-10-08",
-          "open": 0,
-          "high": 0,
-          "low": 0,
-          "close": 3949.6399,
+          "date": "2026-10-09",
+          "open": 3949.6499,
+          "high": 3991.0701,
+          "low": 3949.6499,
+          "close": 3988.54,
           "volume": 0
         }
       ],
@@ -592,13 +600,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/IFIX.SA.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-10-09T01:03:34.521Z",
+        "requestedAt": "2026-10-10T00:35:31.833Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-10-08/benchmarks/IFIX.index.json"
+        "path": "data/raw/2026-10-09/benchmarks/IFIX.index.json"
       }
     }
   ]
