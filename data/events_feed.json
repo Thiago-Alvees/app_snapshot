@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-10-10T00:35:35.611Z",
+  "generatedAt": "2026-10-13T02:29:28.158Z",
   "provider": "CVM IPE",
   "items": [
+    {
+      "id": "009512IPE081020260138678668-06:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Fato Relevante",
+      "type": "",
+      "subject": "",
+      "referenceDate": "2026-10-08T00:00:00.000Z",
+      "deliveredAt": "2026-10-08T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1575304&numSequencia=1100010&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE081020260138678668-06"
+    },
+    {
+      "id": "021610IPE071020260186754380-66:B3SA3",
+      "ticker": "B3SA3",
+      "assetClass": "STOCK",
+      "cvmCode": 21610,
+      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+      "category": "Comunicado ao Mercado",
+      "type": "Aquisição/Alienação de Participação Acionária (art. 12 da Instr. CVM nº 358)",
+      "subject": "Declaração de Aquisição de Participação Acionária Relevante - Art.12 da Instrução CVM nº358/02",
+      "referenceDate": "2026-10-07T00:00:00.000Z",
+      "deliveredAt": "2026-10-07T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1575243&numSequencia=1099949&numVersao=1",
+      "version": "1",
+      "protocol": "021610IPE071020260186754380-66"
+    },
+    {
+      "id": "005410IPE051020260150281321-63:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Agenda de Divulgação de Resultados 3T26",
+      "referenceDate": "2026-10-05T00:00:00.000Z",
+      "deliveredAt": "2026-10-05T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1574313&numSequencia=1099019&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE051020260150281321-63"
+    },
     {
       "id": "009512IPE021020260197097062-40:PETR4",
       "ticker": "PETR4",
@@ -1289,6 +1334,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 85
+    "itemsGenerated": 88
   }
 }
