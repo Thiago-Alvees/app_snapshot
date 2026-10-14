@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "runDate": "2026-10-13",
+  "runDate": "2026-10-14",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-10-14T00:12:12.991Z",
-  "finishedAt": "2026-10-14T00:12:59.384Z",
-  "durationMs": 46393,
+  "startedAt": "2026-10-14T23:46:34.090Z",
+  "finishedAt": "2026-10-14T23:47:15.958Z",
+  "durationMs": 41868,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 206
+    "usedRequests": 207
   },
   "totals": {
     "processed": 177,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-10-13/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-10-14/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -88,13 +88,6 @@
       "status": 404
     },
     {
-      "symbol": "IBBR",
-      "category": "benchmark",
-      "kind": "index",
-      "message": "Error: BRAPI: index not found (IBBR)",
-      "status": 404
-    },
-    {
       "symbol": "IDIV",
       "category": "benchmark",
       "kind": "index",
@@ -121,6 +114,13 @@
       "kind": "currency",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Câmbio requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessCurrency\",\"featureLabel\":\"Câmbio\",\"cur",
       "status": 403
+    },
+    {
+      "symbol": "IBBR",
+      "category": "benchmark",
+      "kind": "index",
+      "message": "Error: BRAPI: index not found (IBBR)",
+      "status": 404
     }
   ]
 }
