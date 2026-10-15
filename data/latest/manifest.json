@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "runDate": "2026-10-14",
+  "runDate": "2026-10-15",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-10-14T23:46:34.090Z",
-  "finishedAt": "2026-10-14T23:47:15.958Z",
-  "durationMs": 41868,
+  "startedAt": "2026-10-15T23:35:06.282Z",
+  "finishedAt": "2026-10-15T23:35:49.644Z",
+  "durationMs": 43362,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 207
+    "usedRequests": 205
   },
   "totals": {
     "processed": 177,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-10-14/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-10-15/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -76,22 +76,22 @@
       "status": 404
     },
     {
-      "symbol": "KOCA34",
-      "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (KOCA34)",
-      "status": 404
-    },
-    {
       "symbol": "N1KE34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (N1KE34)",
       "status": 404
     },
     {
-      "symbol": "IDIV",
+      "symbol": "KOCA34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (KOCA34)",
+      "status": 404
+    },
+    {
+      "symbol": "IBBR",
       "category": "benchmark",
       "kind": "index",
-      "message": "Error: BRAPI: index not found (IDIV)",
+      "message": "Error: BRAPI: index not found (IBBR)",
       "status": 404
     },
     {
@@ -116,10 +116,10 @@
       "status": 403
     },
     {
-      "symbol": "IBBR",
+      "symbol": "IDIV",
       "category": "benchmark",
       "kind": "index",
-      "message": "Error: BRAPI: index not found (IBBR)",
+      "message": "Error: BRAPI: index not found (IDIV)",
       "status": 404
     }
   ]

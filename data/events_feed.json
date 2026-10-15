@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T23:47:17.290Z",
+  "generatedAt": "2026-10-15T23:35:50.896Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1261,21 +1261,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1536319&numSequencia=1061025&numVersao=1",
       "version": "1",
       "protocol": "021610IPE180620260119934012-59"
-    },
-    {
-      "id": "009512IPE170620260175316572-14:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras recebe pagamento da primeira parcela do Programa de subvenção econômica do diesel",
-      "referenceDate": "2026-06-17T00:00:00.000Z",
-      "deliveredAt": "2026-06-17T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1535844&numSequencia=1060550&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE170620260175316572-14"
     }
   ],
   "audit": {
@@ -1289,6 +1274,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 85
+    "itemsGenerated": 84
   }
 }
