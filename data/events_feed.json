@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T23:35:50.896Z",
+  "generatedAt": "2026-10-16T23:20:10.154Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1246,21 +1246,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1536511&numSequencia=1061217&numVersao=1",
       "version": "1",
       "protocol": "009512IPE190620260150018960-96"
-    },
-    {
-      "id": "021610IPE180620260119934012-59:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Alteração na Vice-Presidência de Tecnologia",
-      "referenceDate": "2026-06-18T00:00:00.000Z",
-      "deliveredAt": "2026-06-18T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1536319&numSequencia=1061025&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE180620260119934012-59"
     }
   ],
   "audit": {
@@ -1274,6 +1259,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 84
+    "itemsGenerated": 83
   }
 }
