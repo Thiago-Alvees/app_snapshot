@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "runDate": "2026-10-19",
+  "runDate": "2026-10-20",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-10-20T00:08:40.890Z",
-  "finishedAt": "2026-10-20T00:09:12.292Z",
-  "durationMs": 31402,
+  "startedAt": "2026-10-20T23:40:52.625Z",
+  "finishedAt": "2026-10-20T23:41:38.537Z",
+  "durationMs": 45912,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 194
+    "usedRequests": 204
   },
   "totals": {
     "processed": 177,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-10-19/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-10-20/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -58,15 +58,15 @@
       "status": 404
     },
     {
-      "symbol": "META34",
-      "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (META34)",
-      "status": 404
-    },
-    {
       "symbol": "INTC34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (INTC34)",
+      "status": 404
+    },
+    {
+      "symbol": "META34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (META34)",
       "status": 404
     },
     {
@@ -76,15 +76,15 @@
       "status": 404
     },
     {
-      "symbol": "N1KE34",
-      "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (N1KE34)",
-      "status": 404
-    },
-    {
       "symbol": "KOCA34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (KOCA34)",
+      "status": 404
+    },
+    {
+      "symbol": "N1KE34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (N1KE34)",
       "status": 404
     },
     {
@@ -109,18 +109,18 @@
       "status": 403
     },
     {
-      "symbol": "USDBRL",
-      "category": "benchmark",
-      "kind": "currency",
-      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Câmbio requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessCurrency\",\"featureLabel\":\"Câmbio\",\"cur",
-      "status": 403
-    },
-    {
       "symbol": "IBBR",
       "category": "benchmark",
       "kind": "index",
       "message": "Error: BRAPI: index not found (IBBR)",
       "status": 404
+    },
+    {
+      "symbol": "USDBRL",
+      "category": "benchmark",
+      "kind": "currency",
+      "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Câmbio requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessCurrency\",\"featureLabel\":\"Câmbio\",\"cur",
+      "status": 403
     }
   ]
 }
