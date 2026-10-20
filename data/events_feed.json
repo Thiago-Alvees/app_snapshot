@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-10-16T23:20:10.154Z",
+  "generatedAt": "2026-10-20T00:09:13.784Z",
   "provider": "CVM IPE",
   "items": [
+    {
+      "id": "021610IPE131020260161941202-78:B3SA3",
+      "ticker": "B3SA3",
+      "assetClass": "STOCK",
+      "cvmCode": 21610,
+      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Dados Operacionais - setembro 2026",
+      "referenceDate": "2026-10-13T00:00:00.000Z",
+      "deliveredAt": "2026-10-13T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1576830&numSequencia=1101536&numVersao=1",
+      "version": "1",
+      "protocol": "021610IPE131020260161941202-78"
+    },
+    {
+      "id": "009512IPE131020260137236896-48:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras informa sobre resultado do 3º trimestre de 2026",
+      "referenceDate": "2026-10-13T00:00:00.000Z",
+      "deliveredAt": "2026-10-13T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1576928&numSequencia=1101634&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE131020260137236896-48"
+    },
+    {
+      "id": "009512IPE131020260166237836-71:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras recebe pagamento de novas parcelas do Programa de Subvenção Econômica da gasolina e do diesel",
+      "referenceDate": "2026-10-13T00:00:00.000Z",
+      "deliveredAt": "2026-10-13T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1576933&numSequencia=1101639&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE131020260166237836-71"
+    },
+    {
+      "id": "009512IPE131020260134742550-39:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Fato Relevante",
+      "type": "",
+      "subject": "Petrobras assina acordos de equalizações referentes às Jazidas Compartilhadas de Berbigão e Sururu",
+      "referenceDate": "2026-10-13T00:00:00.000Z",
+      "deliveredAt": "2026-10-13T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1576827&numSequencia=1101533&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE131020260134742550-39"
+    },
     {
       "id": "009512IPE081020260138678668-06:PETR4",
       "ticker": "PETR4",
@@ -10,7 +70,7 @@
       "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
       "category": "Fato Relevante",
       "type": "",
-      "subject": "",
+      "subject": "Petrobras informa sobre resultado de leilão da ANP",
       "referenceDate": "2026-10-08T00:00:00.000Z",
       "deliveredAt": "2026-10-08T00:00:00.000Z",
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1575304&numSequencia=1100010&numVersao=1",
@@ -1231,21 +1291,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1537719&numSequencia=1062425&numVersao=1",
       "version": "1",
       "protocol": "009512IPE230620260158700194-17"
-    },
-    {
-      "id": "009512IPE190620260150018960-96:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras aprova investimento em planta de BioQAV e diesel renovável na RPBC",
-      "referenceDate": "2026-06-19T00:00:00.000Z",
-      "deliveredAt": "2026-06-19T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1536511&numSequencia=1061217&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE190620260150018960-96"
     }
   ],
   "audit": {
@@ -1259,6 +1304,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 83
+    "itemsGenerated": 86
   }
 }
