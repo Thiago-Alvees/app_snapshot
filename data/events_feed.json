@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T23:41:42.249Z",
+  "generatedAt": "2026-10-21T23:56:47.033Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1261,36 +1261,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1538180&numSequencia=1062886&numVersao=1",
       "version": "1",
       "protocol": "021610IPE240620260138361248-26"
-    },
-    {
-      "id": "009512IPE230620260196030916-36:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras assina Memorando de Entendimento com a PEMEX",
-      "referenceDate": "2026-06-23T00:00:00.000Z",
-      "deliveredAt": "2026-06-23T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1537478&numSequencia=1062184&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE230620260196030916-36"
-    },
-    {
-      "id": "009512IPE230620260158700194-17:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre resgate de títulos globais",
-      "referenceDate": "2026-06-23T00:00:00.000Z",
-      "deliveredAt": "2026-06-23T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1537719&numSequencia=1062425&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE230620260158700194-17"
     }
   ],
   "audit": {
@@ -1304,6 +1274,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 86
+    "itemsGenerated": 84
   }
 }

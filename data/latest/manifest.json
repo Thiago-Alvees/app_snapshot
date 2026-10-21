@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "runDate": "2026-10-20",
+  "runDate": "2026-10-21",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-10-20T23:40:52.625Z",
-  "finishedAt": "2026-10-20T23:41:38.537Z",
-  "durationMs": 45912,
+  "startedAt": "2026-10-21T23:55:59.207Z",
+  "finishedAt": "2026-10-21T23:56:45.731Z",
+  "durationMs": 46524,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 204
+    "usedRequests": 206
   },
   "totals": {
     "processed": 177,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-10-20/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-10-21/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -58,21 +58,15 @@
       "status": 404
     },
     {
-      "symbol": "INTC34",
-      "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (INTC34)",
-      "status": 404
-    },
-    {
       "symbol": "META34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (META34)",
       "status": 404
     },
     {
-      "symbol": "PFGC34",
+      "symbol": "INTC34",
       "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (PFGC34)",
+      "message": "Error: BRAPI: symbol not found (INTC34)",
       "status": 404
     },
     {
@@ -85,6 +79,19 @@
       "symbol": "N1KE34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (N1KE34)",
+      "status": 404
+    },
+    {
+      "symbol": "PFGC34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (PFGC34)",
+      "status": 404
+    },
+    {
+      "symbol": "IBBR",
+      "category": "benchmark",
+      "kind": "index",
+      "message": "Error: BRAPI: index not found (IBBR)",
       "status": 404
     },
     {
@@ -107,13 +114,6 @@
       "kind": "inflation",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Inflação e taxa SELIC requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessInflationOrPrimeRate\",\"",
       "status": 403
-    },
-    {
-      "symbol": "IBBR",
-      "category": "benchmark",
-      "kind": "index",
-      "message": "Error: BRAPI: index not found (IBBR)",
-      "status": 404
     },
     {
       "symbol": "USDBRL",
