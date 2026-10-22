@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "runDate": "2026-10-21",
+  "runDate": "2026-10-22",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-10-21T23:55:59.207Z",
-  "finishedAt": "2026-10-21T23:56:45.731Z",
-  "durationMs": 46524,
+  "startedAt": "2026-10-22T23:55:09.661Z",
+  "finishedAt": "2026-10-22T23:55:56.328Z",
+  "durationMs": 46667,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 206
+    "usedRequests": 209
   },
   "totals": {
     "processed": 177,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-10-21/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-10-22/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -70,6 +70,12 @@
       "status": 404
     },
     {
+      "symbol": "PFGC34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (PFGC34)",
+      "status": 404
+    },
+    {
       "symbol": "KOCA34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (KOCA34)",
@@ -79,12 +85,6 @@
       "symbol": "N1KE34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (N1KE34)",
-      "status": 404
-    },
-    {
-      "symbol": "PFGC34",
-      "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (PFGC34)",
       "status": 404
     },
     {

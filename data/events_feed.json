@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T23:56:47.033Z",
+  "generatedAt": "2026-10-22T23:55:57.622Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1231,36 +1231,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1539114&numSequencia=1063820&numVersao=1",
       "version": "1",
       "protocol": "009512IPE260620260151477434-68"
-    },
-    {
-      "id": "021610IPE240620260141613996-76:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Aviso aos Acionistas",
-      "type": "Outros avisos",
-      "subject": "Dividendos/Juros sobre Capital Próprio",
-      "referenceDate": "2026-06-24T00:00:00.000Z",
-      "deliveredAt": "2026-06-24T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1537994&numSequencia=1062700&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE240620260141613996-76"
-    },
-    {
-      "id": "021610IPE240620260138361248-26:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Processo Administrativo do CADE",
-      "referenceDate": "2026-06-24T00:00:00.000Z",
-      "deliveredAt": "2026-06-24T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1538180&numSequencia=1062886&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE240620260138361248-26"
     }
   ],
   "audit": {
@@ -1274,6 +1244,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 84
+    "itemsGenerated": 82
   }
 }
