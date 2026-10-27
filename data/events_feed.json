@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-10-23T23:47:38.486Z",
+  "generatedAt": "2026-10-27T00:17:18.649Z",
   "provider": "CVM IPE",
   "items": [
+    {
+      "id": "005410IPE221020260148648086-25:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Comunicado ao Mercado",
+      "type": "Apresentações a analistas/agentes do mercado",
+      "subject": "Apresentação da Teleconferência de Resultados do 3T26",
+      "referenceDate": "2026-10-22T00:00:00.000Z",
+      "deliveredAt": "2026-10-22T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1579252&numSequencia=1103958&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE221020260148648086-25"
+    },
+    {
+      "id": "005410IPE211020260197679858-69:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Comunicado ao Mercado",
+      "type": "Apresentações a analistas/agentes do mercado",
+      "subject": "Apresentação para Investidores",
+      "referenceDate": "2026-10-21T00:00:00.000Z",
+      "deliveredAt": "2026-10-21T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1578963&numSequencia=1103669&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE211020260197679858-69"
+    },
+    {
+      "id": "005410IPE211020260162905866-46:WEGE3",
+      "ticker": "WEGE3",
+      "assetClass": "STOCK",
+      "cvmCode": 5410,
+      "companyName": "WEG SA",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Planejamento Sucessório",
+      "referenceDate": "2026-10-21T00:00:00.000Z",
+      "deliveredAt": "2026-10-21T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1579139&numSequencia=1103845&numVersao=1",
+      "version": "1",
+      "protocol": "005410IPE211020260162905866-46"
+    },
     {
       "id": "021610IPE131020260161941202-78:B3SA3",
       "ticker": "B3SA3",
@@ -1201,36 +1246,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1540157&numSequencia=1064863&numVersao=1",
       "version": "1",
       "protocol": "009512IPE300620260162346114-87"
-    },
-    {
-      "id": "001023IPE260620260123747727-61:BBAS3",
-      "ticker": "BBAS3",
-      "assetClass": "STOCK",
-      "cvmCode": 1023,
-      "companyName": "BANCO DO BRASIL S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Repactuação do Cronograma do IHCD",
-      "referenceDate": "2026-06-26T00:00:00.000Z",
-      "deliveredAt": "2026-06-26T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1539070&numSequencia=1063776&numVersao=1",
-      "version": "1",
-      "protocol": "001023IPE260620260123747727-61"
-    },
-    {
-      "id": "009512IPE260620260151477434-68:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras recebe pagamento da segunda parcela do Programa de Subvenção Econômica do diesel",
-      "referenceDate": "2026-06-26T00:00:00.000Z",
-      "deliveredAt": "2026-06-26T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1539114&numSequencia=1063820&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE260620260151477434-68"
     }
   ],
   "audit": {
@@ -1244,6 +1259,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 82
+    "itemsGenerated": 83
   }
 }
