@@ -14,7 +14,7 @@
     "resolvedMappingConflicts": [],
     "unresolvedMappingConflicts": [],
     "validationStatus": "PASSED",
-    "validatedAt": "2026-10-23T23:50:08.128Z",
+    "validatedAt": "2026-10-27T00:21:54.766Z",
     "validationSummary": {
       "items": 50,
       "tickersRequested": 50,
@@ -52,10 +52,10 @@
     },
     {
       "ticker": "BRCR11",
-      "vp": 82.692702,
-      "dy12m": 6.4404,
+      "vp": 82.563429,
+      "dy12m": 6.3127,
       "dyStatus": "OK",
-      "pl": 2202784891.31
+      "pl": 2199341303.2
     },
     {
       "ticker": "BTHF11",
@@ -298,7 +298,7 @@
     {
       "ticker": "RZTR11",
       "vp": 195.672528949613,
-      "dy12m": 11.5603,
+      "dy12m": 11.5222,
       "dyStatus": "OK",
       "pl": 3688763727.45
     },
