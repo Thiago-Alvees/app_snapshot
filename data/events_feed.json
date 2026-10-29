@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T00:19:30.387Z",
+  "generatedAt": "2026-10-29T00:40:48.709Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1216,21 +1216,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1542018&numSequencia=1066724&numVersao=1",
       "version": "1",
       "protocol": "005410IPE060720260147756994-62"
-    },
-    {
-      "id": "019348IPE010720260180495356-14:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Itaú vence licitação promovida por Minas Gerais para a gestão de folha de pagamentos",
-      "referenceDate": "2026-07-01T00:00:00.000Z",
-      "deliveredAt": "2026-07-01T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1540722&numSequencia=1065428&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE010720260180495356-14"
     }
   ],
   "audit": {
@@ -1244,6 +1229,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 82
+    "itemsGenerated": 81
   }
 }
