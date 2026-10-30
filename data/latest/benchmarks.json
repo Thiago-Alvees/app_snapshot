@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T00:40:10.457Z",
+  "generatedAt": "2026-10-30T00:40:52.331Z",
   "timezone": "America/Fortaleza",
-  "runDate": "2026-10-28",
+  "runDate": "2026-10-29",
   "provider": "brapi",
   "items": [
     {
@@ -10,16 +10,16 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-10-29T00:40:45.323Z",
+      "collectedAt": "2026-10-30T00:41:28.356Z",
       "asOf": null,
       "quote": {
-        "price": 171006.1,
-        "change": -4703.95,
-        "changePercent": -2.68,
-        "open": 171006.1,
-        "previousClose": 175710.05,
-        "dayHigh": 175711.22,
-        "dayLow": 170162.48,
+        "price": 169186.42,
+        "change": -1819.68,
+        "changePercent": -1.06,
+        "open": 169186.42,
+        "previousClose": 171006.1,
+        "dayHigh": 171402.97,
+        "dayLow": 168765.34,
         "volume": null,
         "marketCap": null,
         "currency": "BRL"
@@ -28,17 +28,9 @@
         "pe": null,
         "eps": 0,
         "week52High": 209714,
-        "week52Low": 147430
+        "week52Low": 147547
       },
       "history3m": [
-        {
-          "date": "2026-07-31",
-          "open": 177060,
-          "high": 178719,
-          "low": 177014,
-          "close": 177999,
-          "volume": 5884100
-        },
         {
           "date": "2026-08-03",
           "open": 178009,
@@ -521,10 +513,18 @@
         },
         {
           "date": "2026-10-28",
-          "open": 175711.2188,
-          "high": 175711.2188,
-          "low": 170162.4844,
-          "close": 171006.0938,
+          "open": 175711,
+          "high": 175711,
+          "low": 170163,
+          "close": 171006,
+          "volume": 21515700
+        },
+        {
+          "date": "2026-10-29",
+          "open": 171006.0938,
+          "high": 171402.9688,
+          "low": 168765.3438,
+          "close": 169186.4219,
           "volume": 0
         }
       ],
@@ -534,13 +534,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/^BVSP.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-10-29T00:40:46.582Z",
+        "requestedAt": "2026-10-30T00:41:28.381Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-10-28/benchmarks/IBOV.index.json"
+        "path": "data/raw/2026-10-29/benchmarks/IBOV.index.json"
       }
     },
     {
@@ -548,16 +548,16 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-10-29T00:40:44.941Z",
+      "collectedAt": "2026-10-30T00:41:27.949Z",
       "asOf": null,
       "quote": {
-        "price": 3654.09,
-        "change": -64.96,
-        "changePercent": -1.75,
-        "open": 3654.09,
-        "previousClose": 3719.05,
-        "dayHigh": 3720.19,
-        "dayLow": 3648.56,
+        "price": 3632.26,
+        "change": -21.83,
+        "changePercent": -0.6,
+        "open": 3632.26,
+        "previousClose": 3654.09,
+        "dayHigh": 3664.96,
+        "dayLow": 3627.46,
         "volume": null,
         "marketCap": null,
         "currency": "BRL"
@@ -565,16 +565,16 @@
       "stats": {
         "pe": null,
         "eps": 0,
-        "week52High": 3720.19,
-        "week52Low": 3648.56
+        "week52High": 3664.96,
+        "week52Low": 3627.46
       },
       "history3m": [
         {
-          "date": "2026-10-28",
-          "open": 3719.03,
-          "high": 3720.1899,
-          "low": 3648.5601,
-          "close": 3654.0901,
+          "date": "2026-10-29",
+          "open": 3654.0901,
+          "high": 3664.96,
+          "low": 3627.46,
+          "close": 3632.26,
           "volume": 0
         }
       ],
@@ -584,13 +584,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/IFIX.SA.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-10-29T00:40:45.041Z",
+        "requestedAt": "2026-10-30T00:41:28.079Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-10-28/benchmarks/IFIX.index.json"
+        "path": "data/raw/2026-10-29/benchmarks/IFIX.index.json"
       }
     }
   ]
