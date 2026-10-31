@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "runDate": "2026-10-29",
+  "runDate": "2026-10-30",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-10-30T00:40:52.331Z",
-  "finishedAt": "2026-10-30T00:41:30.144Z",
-  "durationMs": 37813,
+  "startedAt": "2026-10-31T00:33:16.806Z",
+  "finishedAt": "2026-10-31T00:33:53.734Z",
+  "durationMs": 36928,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 201
+    "usedRequests": 196
   },
   "totals": {
     "processed": 177,
@@ -24,7 +24,7 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-10-29/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-10-30/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
@@ -76,15 +76,15 @@
       "status": 404
     },
     {
-      "symbol": "N1KE34",
-      "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (N1KE34)",
-      "status": 404
-    },
-    {
       "symbol": "KOCA34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (KOCA34)",
+      "status": 404
+    },
+    {
+      "symbol": "N1KE34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (N1KE34)",
       "status": 404
     },
     {
@@ -92,6 +92,13 @@
       "category": "benchmark",
       "kind": "index",
       "message": "Error: BRAPI: index not found (IBBR)",
+      "status": 404
+    },
+    {
+      "symbol": "IDIV",
+      "category": "benchmark",
+      "kind": "index",
+      "message": "Error: BRAPI: index not found (IDIV)",
       "status": 404
     },
     {
@@ -114,13 +121,6 @@
       "kind": "currency",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Câmbio requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessCurrency\",\"featureLabel\":\"Câmbio\",\"cur",
       "status": 403
-    },
-    {
-      "symbol": "IDIV",
-      "category": "benchmark",
-      "kind": "index",
-      "message": "Error: BRAPI: index not found (IDIV)",
-      "status": 404
     }
   ]
 }
