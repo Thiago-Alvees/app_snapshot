@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "runDate": "2026-10-30",
+  "runDate": "2026-11-02",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-10-31T00:33:16.806Z",
-  "finishedAt": "2026-10-31T00:33:53.734Z",
-  "durationMs": 36928,
+  "startedAt": "2026-11-03T02:47:54.198Z",
+  "finishedAt": "2026-11-03T02:48:33.757Z",
+  "durationMs": 39559,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 196
+    "usedRequests": 205
   },
   "totals": {
     "processed": 177,
-    "succeeded": 162,
-    "failed": 15,
+    "succeeded": 161,
+    "failed": 16,
     "fallback": 0
   },
   "filters": {
@@ -24,13 +24,19 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-10-30/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-11-02/update-market-snapshot.log.jsonl"
   },
   "errors": [
     {
       "symbol": "RBED11",
       "category": "fii",
       "message": "Error: BRAPI: symbol not found (RBED11)",
+      "status": 404
+    },
+    {
+      "symbol": "MORE11",
+      "category": "fii",
+      "message": "Error: BRAPI: symbol not found (MORE11)",
       "status": 404
     },
     {
@@ -58,15 +64,15 @@
       "status": 404
     },
     {
-      "symbol": "META34",
-      "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (META34)",
-      "status": 404
-    },
-    {
       "symbol": "INTC34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (INTC34)",
+      "status": 404
+    },
+    {
+      "symbol": "META34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (META34)",
       "status": 404
     },
     {
@@ -95,13 +101,6 @@
       "status": 404
     },
     {
-      "symbol": "IDIV",
-      "category": "benchmark",
-      "kind": "index",
-      "message": "Error: BRAPI: index not found (IDIV)",
-      "status": 404
-    },
-    {
       "symbol": "CDI",
       "category": "benchmark",
       "kind": "primeRate",
@@ -121,6 +120,13 @@
       "kind": "currency",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Câmbio requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessCurrency\",\"featureLabel\":\"Câmbio\",\"cur",
       "status": 403
+    },
+    {
+      "symbol": "IDIV",
+      "category": "benchmark",
+      "kind": "index",
+      "message": "Error: BRAPI: index not found (IDIV)",
+      "status": 404
     }
   ]
 }
