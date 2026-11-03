@@ -14,7 +14,7 @@
     "resolvedMappingConflicts": [],
     "unresolvedMappingConflicts": [],
     "validationStatus": "PASSED",
-    "validatedAt": "2026-10-31T00:42:12.331Z",
+    "validatedAt": "2026-11-03T02:52:19.953Z",
     "validationSummary": {
       "items": 50,
       "tickersRequested": 50,
@@ -108,10 +108,10 @@
     },
     {
       "ticker": "GGRC11",
-      "vp": 10.92712921,
-      "dy12m": 6.949596,
+      "vp": 11.02848338,
+      "dy12m": 6.963983,
       "dyStatus": "OK",
-      "pl": 3777611904.3
+      "pl": 3808729945.92
     },
     {
       "ticker": "GLOG11",
