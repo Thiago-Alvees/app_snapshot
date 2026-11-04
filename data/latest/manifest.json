@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "runDate": "2026-11-02",
+  "runDate": "2026-11-03",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-11-03T02:47:54.198Z",
-  "finishedAt": "2026-11-03T02:48:33.757Z",
-  "durationMs": 39559,
+  "startedAt": "2026-11-04T01:06:46.590Z",
+  "finishedAt": "2026-11-04T01:07:22.118Z",
+  "durationMs": 35528,
   "budget": {
     "plannedRequests": 177,
     "maxRequests": 220,
-    "usedRequests": 205
+    "usedRequests": 199
   },
   "totals": {
     "processed": 177,
-    "succeeded": 161,
-    "failed": 16,
+    "succeeded": 160,
+    "failed": 17,
     "fallback": 0
   },
   "filters": {
@@ -24,9 +24,15 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-11-02/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-11-03/update-market-snapshot.log.jsonl"
   },
   "errors": [
+    {
+      "symbol": "GLOG11",
+      "category": "fii",
+      "message": "Error: BRAPI: symbol not found (GLOG11)",
+      "status": 404
+    },
     {
       "symbol": "RBED11",
       "category": "fii",
@@ -64,15 +70,15 @@
       "status": 404
     },
     {
-      "symbol": "INTC34",
-      "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (INTC34)",
-      "status": 404
-    },
-    {
       "symbol": "META34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (META34)",
+      "status": 404
+    },
+    {
+      "symbol": "INTC34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (INTC34)",
       "status": 404
     },
     {
@@ -88,16 +94,17 @@
       "status": 404
     },
     {
-      "symbol": "N1KE34",
-      "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (N1KE34)",
-      "status": 404
-    },
-    {
       "symbol": "IBBR",
       "category": "benchmark",
       "kind": "index",
       "message": "Error: BRAPI: index not found (IBBR)",
+      "status": 404
+    },
+    {
+      "symbol": "IDIV",
+      "category": "benchmark",
+      "kind": "index",
+      "message": "Error: BRAPI: index not found (IDIV)",
       "status": 404
     },
     {
@@ -122,10 +129,9 @@
       "status": 403
     },
     {
-      "symbol": "IDIV",
-      "category": "benchmark",
-      "kind": "index",
-      "message": "Error: BRAPI: index not found (IDIV)",
+      "symbol": "N1KE34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (N1KE34)",
       "status": 404
     }
   ]

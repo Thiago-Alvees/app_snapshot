@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T02:48:35.041Z",
+  "generatedAt": "2026-11-04T01:07:23.582Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1306,21 +1306,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1543516&numSequencia=1068222&numVersao=1",
       "version": "1",
       "protocol": "009512IPE090720260180061918-60"
-    },
-    {
-      "id": "009512IPE070720260159679922-55:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras informa sobre resultado do 2º trimestre de 2026",
-      "referenceDate": "2026-07-07T00:00:00.000Z",
-      "deliveredAt": "2026-07-07T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1542688&numSequencia=1067394&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE070720260159679922-55"
     }
   ],
   "audit": {
@@ -1334,6 +1319,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 88
+    "itemsGenerated": 87
   }
 }
