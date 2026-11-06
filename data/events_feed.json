@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T01:22:44.751Z",
+  "generatedAt": "2026-11-06T01:26:03.558Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1291,21 +1291,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1544228&numSequencia=1068934&numVersao=1",
       "version": "1",
       "protocol": "019348IPE130720260171486077-62"
-    },
-    {
-      "id": "009512IPE090720260180061918-60:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras conclui aquisição de bloco exploratório em São Tomé e Príncipe",
-      "referenceDate": "2026-07-09T00:00:00.000Z",
-      "deliveredAt": "2026-07-09T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1543516&numSequencia=1068222&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE090720260180061918-60"
     }
   ],
   "audit": {
@@ -1319,6 +1304,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 87
+    "itemsGenerated": 86
   }
 }
