@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "runDate": "2026-11-06",
+  "runDate": "2026-11-07",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-11-07T00:42:36.480Z",
-  "finishedAt": "2026-11-07T00:43:12.817Z",
-  "durationMs": 36337,
+  "startedAt": "2026-11-07T18:59:22.661Z",
+  "finishedAt": "2026-11-07T18:59:54.000Z",
+  "durationMs": 31339,
   "budget": {
-    "plannedRequests": 177,
+    "plannedRequests": 171,
     "maxRequests": 220,
-    "usedRequests": 198
+    "usedRequests": 187
   },
   "totals": {
-    "processed": 177,
-    "succeeded": 160,
-    "failed": 17,
+    "processed": 171,
+    "succeeded": 157,
+    "failed": 14,
     "fallback": 0
   },
   "filters": {
@@ -24,27 +24,9 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-11-06/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-11-07/update-market-snapshot.log.jsonl"
   },
   "errors": [
-    {
-      "symbol": "GLOG11",
-      "category": "fii",
-      "message": "Error: BRAPI: symbol not found (GLOG11)",
-      "status": 404
-    },
-    {
-      "symbol": "RBED11",
-      "category": "fii",
-      "message": "Error: BRAPI: symbol not found (RBED11)",
-      "status": 404
-    },
-    {
-      "symbol": "MORE11",
-      "category": "fii",
-      "message": "Error: BRAPI: symbol not found (MORE11)",
-      "status": 404
-    },
     {
       "symbol": "RUMO3",
       "category": "acao",
@@ -88,15 +70,15 @@
       "status": 404
     },
     {
-      "symbol": "N1KE34",
-      "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (N1KE34)",
-      "status": 404
-    },
-    {
       "symbol": "KOCA34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (KOCA34)",
+      "status": 404
+    },
+    {
+      "symbol": "N1KE34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (N1KE34)",
       "status": 404
     },
     {

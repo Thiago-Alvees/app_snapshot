@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T00:42:36.481Z",
+  "generatedAt": "2026-11-07T18:59:22.662Z",
   "provider": "brapi",
   "items": [
     {
@@ -83,10 +83,6 @@
       "price": 79.3
     },
     {
-      "ticker": "IRDM11",
-      "price": 58.5
-    },
-    {
       "ticker": "JSRE11",
       "price": 57.2
     },
@@ -119,10 +115,6 @@
       "price": 63.03
     },
     {
-      "ticker": "RBRF11",
-      "price": 6.65
-    },
-    {
       "ticker": "RBRL11",
       "price": 69.83
     },
@@ -149,10 +141,6 @@
     {
       "ticker": "RZTR11",
       "price": 67.79
-    },
-    {
-      "ticker": "SARE11",
-      "price": 4.75
     },
     {
       "ticker": "TORD11",

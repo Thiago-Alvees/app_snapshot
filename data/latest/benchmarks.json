@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T00:42:36.481Z",
+  "generatedAt": "2026-11-07T18:59:22.662Z",
   "timezone": "America/Fortaleza",
-  "runDate": "2026-11-06",
+  "runDate": "2026-11-07",
   "provider": "brapi",
   "items": [
     {
@@ -10,7 +10,7 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-07T00:43:10.752Z",
+      "collectedAt": "2026-11-07T18:59:52.049Z",
       "asOf": null,
       "quote": {
         "price": 168498.45,
@@ -28,7 +28,7 @@
         "pe": null,
         "eps": 0,
         "week52High": 209714,
-        "week52Low": 152368
+        "week52Low": 153571
       },
       "history3m": [
         {
@@ -521,11 +521,11 @@
         },
         {
           "date": "2026-11-06",
-          "open": 166191.4531,
-          "high": 169073.0469,
-          "low": 165909.7344,
-          "close": 168498.4531,
-          "volume": 0
+          "open": 166192,
+          "high": 169073,
+          "low": 165910,
+          "close": 168499,
+          "volume": 12027200
         }
       ],
       "branding": {
@@ -534,13 +534,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/^BVSP.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-07T00:43:10.798Z",
+        "requestedAt": "2026-11-07T18:59:52.093Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-06/benchmarks/IBOV.index.json"
+        "path": "data/raw/2026-11-07/benchmarks/IBOV.index.json"
       }
     },
     {
@@ -548,7 +548,7 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-07T00:43:10.204Z",
+      "collectedAt": "2026-11-07T18:59:51.676Z",
       "asOf": null,
       "quote": {
         "price": 3628.2,
@@ -584,13 +584,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/IFIX.SA.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-07T00:43:10.455Z",
+        "requestedAt": "2026-11-07T18:59:51.773Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-06/benchmarks/IFIX.index.json"
+        "path": "data/raw/2026-11-07/benchmarks/IFIX.index.json"
       }
     }
   ]
