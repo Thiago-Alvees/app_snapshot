@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "runDate": "2026-11-07",
+  "runDate": "2026-11-10",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-11-07T18:59:22.661Z",
-  "finishedAt": "2026-11-07T18:59:54.000Z",
-  "durationMs": 31339,
+  "startedAt": "2026-11-10T03:17:46.159Z",
+  "finishedAt": "2026-11-10T03:18:16.296Z",
+  "durationMs": 30137,
   "budget": {
     "plannedRequests": 171,
     "maxRequests": 220,
-    "usedRequests": 187
+    "usedRequests": 192
   },
   "totals": {
     "processed": 171,
-    "succeeded": 157,
-    "failed": 14,
+    "succeeded": 156,
+    "failed": 15,
     "fallback": 0
   },
   "filters": {
@@ -24,9 +24,15 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-11-07/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-11-10/update-market-snapshot.log.jsonl"
   },
   "errors": [
+    {
+      "symbol": "RBRR11",
+      "category": "fii",
+      "message": "Error: BRAPI: symbol not found (RBRR11)",
+      "status": 404
+    },
     {
       "symbol": "RUMO3",
       "category": "acao",
@@ -70,22 +76,22 @@
       "status": 404
     },
     {
-      "symbol": "KOCA34",
-      "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (KOCA34)",
-      "status": 404
-    },
-    {
       "symbol": "N1KE34",
       "category": "bdr",
       "message": "Error: BRAPI: symbol not found (N1KE34)",
       "status": 404
     },
     {
-      "symbol": "IBBR",
+      "symbol": "KOCA34",
+      "category": "bdr",
+      "message": "Error: BRAPI: symbol not found (KOCA34)",
+      "status": 404
+    },
+    {
+      "symbol": "IDIV",
       "category": "benchmark",
       "kind": "index",
-      "message": "Error: BRAPI: index not found (IBBR)",
+      "message": "Error: BRAPI: index not found (IDIV)",
       "status": 404
     },
     {
@@ -103,18 +109,18 @@
       "status": 403
     },
     {
+      "symbol": "IBBR",
+      "category": "benchmark",
+      "kind": "index",
+      "message": "Error: BRAPI: index not found (IBBR)",
+      "status": 404
+    },
+    {
       "symbol": "USDBRL",
       "category": "benchmark",
       "kind": "currency",
       "message": "HttpError: HTTP 403 - {\"error\":true,\"message\":\"Câmbio requer o plano Startup (R$ 119,99/mês). Seu plano atual: Gratuito.\",\"code\":\"FEATURE_NOT_AVAILABLE\",\"details\":{\"feature\":\"canAccessCurrency\",\"featureLabel\":\"Câmbio\",\"cur",
       "status": 403
-    },
-    {
-      "symbol": "IDIV",
-      "category": "benchmark",
-      "kind": "index",
-      "message": "Error: BRAPI: index not found (IDIV)",
-      "status": 404
     }
   ]
 }
