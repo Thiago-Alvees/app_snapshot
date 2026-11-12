@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T01:06:55.415Z",
+  "generatedAt": "2026-11-12T02:10:11.189Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1366,36 +1366,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1546431&numSequencia=1071137&numVersao=1",
       "version": "1",
       "protocol": "021610IPE200720260117463262-42"
-    },
-    {
-      "id": "021610IPE150720260102448081-30:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Comunicado ao Mercado",
-      "type": "Aquisição/Alienação de Participação Acionária (art. 12 da Instr. CVM nº 358)",
-      "subject": "Declaração de Alienação de Participação Acionária Relevante - Art.12, §4º, da Instrução CVM nº358/02",
-      "referenceDate": "2026-07-15T00:00:00.000Z",
-      "deliveredAt": "2026-07-15T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1544909&numSequencia=1069615&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE150720260102448081-30"
-    },
-    {
-      "id": "021610IPE150720260125416354-96:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Dados Operacionais - junho 2026",
-      "referenceDate": "2026-07-15T00:00:00.000Z",
-      "deliveredAt": "2026-07-15T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1545220&numSequencia=1069926&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE150720260125416354-96"
     }
   ],
   "audit": {
@@ -1409,6 +1379,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 93
+    "itemsGenerated": 91
   }
 }
