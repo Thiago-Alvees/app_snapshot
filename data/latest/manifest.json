@@ -2,13 +2,13 @@
   "version": 1,
   "runDate": "2026-11-17",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-11-17T03:30:17.898Z",
-  "finishedAt": "2026-11-17T03:30:50.516Z",
-  "durationMs": 32618,
+  "startedAt": "2026-11-18T02:46:54.824Z",
+  "finishedAt": "2026-11-18T02:47:23.764Z",
+  "durationMs": 28940,
   "budget": {
     "plannedRequests": 171,
     "maxRequests": 220,
-    "usedRequests": 184
+    "usedRequests": 185
   },
   "totals": {
     "processed": 171,
@@ -64,9 +64,9 @@
       "status": 404
     },
     {
-      "symbol": "KOCA34",
+      "symbol": "PFGC34",
       "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (KOCA34)",
+      "message": "Error: BRAPI: symbol not found (PFGC34)",
       "status": 404
     },
     {
@@ -76,9 +76,9 @@
       "status": 404
     },
     {
-      "symbol": "PFGC34",
+      "symbol": "KOCA34",
       "category": "bdr",
-      "message": "Error: BRAPI: symbol not found (PFGC34)",
+      "message": "Error: BRAPI: symbol not found (KOCA34)",
       "status": 404
     },
     {
