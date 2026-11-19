@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T02:47:25.013Z",
+  "generatedAt": "2026-11-19T02:23:06.033Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1486,51 +1486,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547199&numSequencia=1071905&numVersao=1",
       "version": "1",
       "protocol": "005410IPE230720260102316429-20"
-    },
-    {
-      "id": "001023IPE220720260177813106-58:BBAS3",
-      "ticker": "BBAS3",
-      "assetClass": "STOCK",
-      "cvmCode": 1023,
-      "companyName": "BANCO DO BRASIL S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Medida Provisória 1376",
-      "referenceDate": "2026-07-22T00:00:00.000Z",
-      "deliveredAt": "2026-07-22T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547127&numSequencia=1071833&numVersao=1",
-      "version": "1",
-      "protocol": "001023IPE220720260177813106-58"
-    },
-    {
-      "id": "021610IPE220720260196189469-75:B3SA3",
-      "ticker": "B3SA3",
-      "assetClass": "STOCK",
-      "cvmCode": 21610,
-      "companyName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Nomeação de Vice-Presidente de Tecnologia",
-      "referenceDate": "2026-07-22T00:00:00.000Z",
-      "deliveredAt": "2026-07-22T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547132&numSequencia=1071838&numVersao=1",
-      "version": "1",
-      "protocol": "021610IPE220720260196189469-75"
-    },
-    {
-      "id": "009512IPE220720260183384595-88:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Petrobras recebe pagamento de nova parcela do Programa de Subvenção Econômica do diesel",
-      "referenceDate": "2026-07-22T00:00:00.000Z",
-      "deliveredAt": "2026-07-22T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547056&numSequencia=1071762&numVersao=1",
-      "version": "1",
-      "protocol": "009512IPE220720260183384595-88"
     }
   ],
   "audit": {
@@ -1544,6 +1499,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 102
+    "itemsGenerated": 99
   }
 }
