@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "runDate": "2026-11-18",
+  "runDate": "2026-11-19",
   "timezone": "America/Fortaleza",
-  "startedAt": "2026-11-19T02:22:33.477Z",
-  "finishedAt": "2026-11-19T02:23:04.907Z",
-  "durationMs": 31430,
+  "startedAt": "2026-11-20T02:06:19.942Z",
+  "finishedAt": "2026-11-20T02:06:59.615Z",
+  "durationMs": 39673,
   "budget": {
     "plannedRequests": 171,
     "maxRequests": 220,
-    "usedRequests": 188
+    "usedRequests": 190
   },
   "totals": {
     "processed": 171,
-    "succeeded": 157,
-    "failed": 14,
+    "succeeded": 156,
+    "failed": 15,
     "fallback": 0
   },
   "filters": {
@@ -24,9 +24,15 @@
     "marketSnapshotPath": "data/latest/market-snapshot.json",
     "benchmarksPath": "data/latest/benchmarks.json",
     "manifestPath": "data/latest/manifest.json",
-    "logsPath": "data/logs/2026-11-18/update-market-snapshot.log.jsonl"
+    "logsPath": "data/logs/2026-11-19/update-market-snapshot.log.jsonl"
   },
   "errors": [
+    {
+      "symbol": "RBRR11",
+      "category": "fii",
+      "message": "Error: BRAPI: symbol not found (RBRR11)",
+      "status": 404
+    },
     {
       "symbol": "RUMO3",
       "category": "acao",

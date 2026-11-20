@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T02:23:06.033Z",
+  "generatedAt": "2026-11-20T02:07:00.852Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1471,21 +1471,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1548004&numSequencia=1072710&numVersao=1",
       "version": "1",
       "protocol": "005410IPE240720260149024348-61"
-    },
-    {
-      "id": "005410IPE230720260102316429-20:WEGE3",
-      "ticker": "WEGE3",
-      "assetClass": "STOCK",
-      "cvmCode": 5410,
-      "companyName": "WEG SA",
-      "category": "Comunicado ao Mercado",
-      "type": "Apresentações a analistas/agentes do mercado",
-      "subject": "Apresentação da Teleconferência de Resultados do 2T26",
-      "referenceDate": "2026-07-23T00:00:00.000Z",
-      "deliveredAt": "2026-07-23T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547199&numSequencia=1071905&numVersao=1",
-      "version": "1",
-      "protocol": "005410IPE230720260102316429-20"
     }
   ],
   "audit": {
@@ -1499,6 +1484,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 99
+    "itemsGenerated": 98
   }
 }
