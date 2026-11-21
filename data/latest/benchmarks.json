@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T02:06:19.943Z",
+  "generatedAt": "2026-11-21T02:01:20.328Z",
   "timezone": "America/Fortaleza",
-  "runDate": "2026-11-19",
+  "runDate": "2026-11-20",
   "provider": "brapi",
   "items": [
     {
@@ -10,7 +10,7 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:57.866Z",
+      "collectedAt": "2026-11-21T02:01:49.442Z",
       "asOf": null,
       "quote": {
         "price": 166376.44,
@@ -513,11 +513,11 @@
         },
         {
           "date": "2026-11-19",
-          "open": 167559.8906,
-          "high": 168498.4219,
-          "low": 165833.2969,
-          "close": 166376.4375,
-          "volume": 0
+          "open": 167560,
+          "high": 168498,
+          "low": 165833,
+          "close": 166376,
+          "volume": 12470400
         }
       ],
       "branding": {
@@ -526,13 +526,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/^BVSP.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:57.981Z",
+        "requestedAt": "2026-11-21T02:01:49.471Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/benchmarks/IBOV.index.json"
+        "path": "data/raw/2026-11-20/benchmarks/IBOV.index.json"
       }
     },
     {
@@ -540,7 +540,7 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:57.535Z",
+      "collectedAt": "2026-11-21T02:01:49.179Z",
       "asOf": null,
       "quote": {
         "price": 3485.06,
@@ -576,13 +576,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/IFIX.SA.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:57.746Z",
+        "requestedAt": "2026-11-21T02:01:49.405Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/benchmarks/IFIX.index.json"
+        "path": "data/raw/2026-11-20/benchmarks/IFIX.index.json"
       }
     }
   ]

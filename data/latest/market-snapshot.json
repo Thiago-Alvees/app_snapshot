@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T02:06:19.943Z",
+  "generatedAt": "2026-11-21T02:01:20.328Z",
   "timezone": "America/Fortaleza",
-  "runDate": "2026-11-19",
+  "runDate": "2026-11-20",
   "provider": "brapi",
   "items": [
     {
@@ -10,7 +10,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:33.398Z",
+      "collectedAt": "2026-11-21T02:01:29.531Z",
       "asOf": null,
       "quote": {
         "price": 16.08,
@@ -20,8 +20,8 @@
         "previousClose": 16.07,
         "dayHigh": 16.08,
         "dayLow": 15.85,
-        "volume": 32917800,
-        "marketCap": 248769464592,
+        "volume": 32940200,
+        "marketCap": 248924271788,
         "currency": "BRL"
       },
       "stats": {
@@ -526,13 +526,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/ABEV3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:33.447Z",
+        "requestedAt": "2026-11-21T02:01:29.560Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/ABEV3.json"
+        "path": "data/raw/2026-11-20/acao/ABEV3.json"
       }
     },
     {
@@ -540,7 +540,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:36.471Z",
+      "collectedAt": "2026-11-21T02:01:32.007Z",
       "asOf": null,
       "quote": {
         "price": 25.75,
@@ -550,8 +550,8 @@
         "previousClose": 26.21,
         "dayHigh": 26.41,
         "dayLow": 25.53,
-        "volume": 6757800,
-        "marketCap": 13197975131,
+        "volume": 6759400,
+        "marketCap": 12966343819,
         "currency": "BRL"
       },
       "stats": {
@@ -1056,13 +1056,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/ALOS3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:36.559Z",
+        "requestedAt": "2026-11-21T02:01:32.043Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/ALOS3.json"
+        "path": "data/raw/2026-11-20/acao/ALOS3.json"
       }
     },
     {
@@ -1070,7 +1070,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:34.123Z",
+      "collectedAt": "2026-11-21T02:01:29.994Z",
       "asOf": null,
       "quote": {
         "price": 9.38,
@@ -1080,8 +1080,8 @@
         "previousClose": 9.47,
         "dayHigh": 9.51,
         "dayLow": 9.12,
-        "volume": 18733500,
-        "marketCap": 12826106169,
+        "volume": 18754000,
+        "marketCap": 12704210553,
         "currency": "BRL"
       },
       "stats": {
@@ -1586,13 +1586,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/ASAI3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:34.256Z",
+        "requestedAt": "2026-11-21T02:01:30.027Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/ASAI3.json"
+        "path": "data/raw/2026-11-20/acao/ASAI3.json"
       }
     },
     {
@@ -1600,7 +1600,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:34.568Z",
+      "collectedAt": "2026-11-21T02:01:30.482Z",
       "asOf": null,
       "quote": {
         "price": 46,
@@ -1610,8 +1610,8 @@
         "previousClose": 46.3,
         "dayHigh": 46.66,
         "dayLow": 45.84,
-        "volume": 21025500,
-        "marketCap": 112654793407,
+        "volume": 21044600,
+        "marketCap": 111924850586,
         "currency": "BRL"
       },
       "stats": {
@@ -2116,13 +2116,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/AXIA3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:34.615Z",
+        "requestedAt": "2026-11-21T02:01:30.512Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/AXIA3.json"
+        "path": "data/raw/2026-11-20/acao/AXIA3.json"
       }
     },
     {
@@ -2130,7 +2130,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:35.888Z",
+      "collectedAt": "2026-11-21T02:01:31.463Z",
       "asOf": null,
       "quote": {
         "price": 46.23,
@@ -2141,7 +2141,7 @@
         "dayHigh": 46.98,
         "dayLow": 46.08,
         "volume": 889800,
-        "marketCap": 112654793407,
+        "marketCap": 111924850586,
         "currency": "BRL"
       },
       "stats": {
@@ -2646,13 +2646,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/AXIA7.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:35.945Z",
+        "requestedAt": "2026-11-21T02:01:31.504Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/AXIA7.json"
+        "path": "data/raw/2026-11-20/acao/AXIA7.json"
       }
     },
     {
@@ -2660,7 +2660,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:31.469Z",
+      "collectedAt": "2026-11-21T02:01:28.271Z",
       "asOf": null,
       "quote": {
         "price": 14.28,
@@ -2670,8 +2670,8 @@
         "previousClose": 14.3,
         "dayHigh": 14.47,
         "dayLow": 14.17,
-        "volume": 73038300,
-        "marketCap": 69476453173,
+        "volume": 73044800,
+        "marketCap": 69379281085,
         "currency": "BRL"
       },
       "stats": {
@@ -3176,13 +3176,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/B3SA3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:32.689Z",
+        "requestedAt": "2026-11-21T02:01:28.301Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/B3SA3.json"
+        "path": "data/raw/2026-11-20/acao/B3SA3.json"
       }
     },
     {
@@ -3190,7 +3190,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:33.779Z",
+      "collectedAt": "2026-11-21T02:01:29.841Z",
       "asOf": null,
       "quote": {
         "price": 14.3,
@@ -3200,8 +3200,8 @@
         "previousClose": 14.12,
         "dayHigh": 14.5,
         "dayLow": 14.02,
-        "volume": 65957800,
-        "marketCap": 80749687002,
+        "volume": 66147900,
+        "marketCap": 81779075700,
         "currency": "BRL"
       },
       "stats": {
@@ -3706,13 +3706,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BBAS3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:33.827Z",
+        "requestedAt": "2026-11-21T02:01:29.881Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/BBAS3.json"
+        "path": "data/raw/2026-11-20/acao/BBAS3.json"
       }
     },
     {
@@ -3720,7 +3720,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:33.002Z",
+      "collectedAt": "2026-11-21T02:01:29.059Z",
       "asOf": null,
       "quote": {
         "price": 13.83,
@@ -3730,8 +3730,8 @@
         "previousClose": 14.08,
         "dayHigh": 14.19,
         "dayLow": 13.77,
-        "volume": 59964100,
-        "marketCap": 150640541534,
+        "volume": 60048700,
+        "marketCap": 148351745239,
         "currency": "BRL"
       },
       "stats": {
@@ -4236,13 +4236,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BBDC4.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:33.087Z",
+        "requestedAt": "2026-11-21T02:01:29.089Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/BBDC4.json"
+        "path": "data/raw/2026-11-20/acao/BBDC4.json"
       }
     },
     {
@@ -4250,7 +4250,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:39.437Z",
+      "collectedAt": "2026-11-21T02:01:34.296Z",
       "asOf": null,
       "quote": {
         "price": 36.99,
@@ -4260,8 +4260,8 @@
         "previousClose": 36.66,
         "dayHigh": 37.04,
         "dayLow": 36.37,
-        "volume": 5161100,
-        "marketCap": 71050252549,
+        "volume": 5161900,
+        "marketCap": 71689824658,
         "currency": "BRL"
       },
       "stats": {
@@ -4766,13 +4766,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BBSE3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:39.532Z",
+        "requestedAt": "2026-11-21T02:01:34.324Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/BBSE3.json"
+        "path": "data/raw/2026-11-20/acao/BBSE3.json"
       }
     },
     {
@@ -4780,7 +4780,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:38.437Z",
+      "collectedAt": "2026-11-21T02:01:33.579Z",
       "asOf": null,
       "quote": {
         "price": 49.69,
@@ -4790,8 +4790,8 @@
         "previousClose": 50.11,
         "dayHigh": 51.31,
         "dayLow": 49.53,
-        "volume": 19807100,
-        "marketCap": 194928960093.75333,
+        "volume": 19857400,
+        "marketCap": 193295151208.51334,
         "currency": "BRL"
       },
       "stats": {
@@ -5296,13 +5296,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BPAC11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:38.500Z",
+        "requestedAt": "2026-11-21T02:01:33.610Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/BPAC11.json"
+        "path": "data/raw/2026-11-20/acao/BPAC11.json"
       }
     },
     {
@@ -5310,7 +5310,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:34.538Z",
+      "collectedAt": "2026-11-21T02:01:30.308Z",
       "asOf": null,
       "quote": {
         "price": 12.83,
@@ -5320,8 +5320,8 @@
         "previousClose": 13.16,
         "dayHigh": 13.27,
         "dayLow": 12.66,
-        "volume": 5304800,
-        "marketCap": 6113573754,
+        "volume": 5305000,
+        "marketCap": 5960269886,
         "currency": "BRL"
       },
       "stats": {
@@ -5826,13 +5826,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRAV3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:34.653Z",
+        "requestedAt": "2026-11-21T02:01:30.344Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/BRAV3.json"
+        "path": "data/raw/2026-11-20/acao/BRAV3.json"
       }
     },
     {
@@ -5840,7 +5840,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:34.965Z",
+      "collectedAt": "2026-11-21T02:01:30.793Z",
       "asOf": null,
       "quote": {
         "price": 10.94,
@@ -5850,8 +5850,8 @@
         "previousClose": 10.93,
         "dayHigh": 10.98,
         "dayLow": 10.77,
-        "volume": 13535400,
-        "marketCap": 37643130387,
+        "volume": 13544600,
+        "marketCap": 37423023846,
         "currency": "BRL"
       },
       "stats": {
@@ -6356,13 +6356,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/CMIG4.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:35.014Z",
+        "requestedAt": "2026-11-21T02:01:30.824Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/CMIG4.json"
+        "path": "data/raw/2026-11-20/acao/CMIG4.json"
       }
     },
     {
@@ -6370,7 +6370,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:40.586Z",
+      "collectedAt": "2026-11-21T02:01:35.224Z",
       "asOf": null,
       "quote": {
         "price": 43.78,
@@ -6380,8 +6380,8 @@
         "previousClose": 44.14,
         "dayHigh": 44.35,
         "dayLow": 43.18,
-        "volume": 1035400,
-        "marketCap": 50860513660,
+        "volume": 1038300,
+        "marketCap": 50445701330,
         "currency": "BRL"
       },
       "stats": {
@@ -6886,13 +6886,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/CPFE3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:40.697Z",
+        "requestedAt": "2026-11-21T02:01:35.261Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/CPFE3.json"
+        "path": "data/raw/2026-11-20/acao/CPFE3.json"
       }
     },
     {
@@ -6900,7 +6900,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:31.483Z",
+      "collectedAt": "2026-11-21T02:01:28.417Z",
       "asOf": null,
       "quote": {
         "price": 15.19,
@@ -6910,8 +6910,8 @@
         "previousClose": 15.28,
         "dayHigh": 15.38,
         "dayLow": 15.07,
-        "volume": 59685100,
-        "marketCap": 45382684789,
+        "volume": 59685800,
+        "marketCap": 45115377941,
         "currency": "BRL"
       },
       "stats": {
@@ -7416,13 +7416,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/CPLE3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:31.547Z",
+        "requestedAt": "2026-11-21T02:01:28.459Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/CPLE3.json"
+        "path": "data/raw/2026-11-20/acao/CPLE3.json"
       }
     },
     {
@@ -7430,7 +7430,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:32.659Z",
+      "collectedAt": "2026-11-21T02:01:28.902Z",
       "asOf": null,
       "quote": {
         "price": 3.08,
@@ -7440,8 +7440,8 @@
         "previousClose": 3.13,
         "dayHigh": 3.22,
         "dayLow": 3.03,
-        "volume": 40467900,
-        "marketCap": 12390657177,
+        "volume": 40498600,
+        "marketCap": 12192722608,
         "currency": "BRL"
       },
       "stats": {
@@ -7946,13 +7946,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/CSAN3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:32.717Z",
+        "requestedAt": "2026-11-21T02:01:28.931Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/CSAN3.json"
+        "path": "data/raw/2026-11-20/acao/CSAN3.json"
       }
     },
     {
@@ -7960,7 +7960,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:39.194Z",
+      "collectedAt": "2026-11-21T02:01:34.202Z",
       "asOf": null,
       "quote": {
         "price": 56.09,
@@ -7970,8 +7970,8 @@
         "previousClose": 55.5,
         "dayHigh": 57.39,
         "dayLow": 55.6,
-        "volume": 6162900,
-        "marketCap": 21044548874,
+        "volume": 6163000,
+        "marketCap": 21268265758,
         "currency": "BRL"
       },
       "stats": {
@@ -8476,13 +8476,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/CSMG3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:39.293Z",
+        "requestedAt": "2026-11-21T02:01:34.239Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/CSMG3.json"
+        "path": "data/raw/2026-11-20/acao/CSMG3.json"
       }
     },
     {
@@ -8490,7 +8490,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:41.224Z",
+      "collectedAt": "2026-11-21T02:01:35.543Z",
       "asOf": null,
       "quote": {
         "price": 46,
@@ -8500,8 +8500,8 @@
         "previousClose": 46.3,
         "dayHigh": 46.66,
         "dayLow": 45.84,
-        "volume": 21025500,
-        "marketCap": 112654793407,
+        "volume": 21044600,
+        "marketCap": 111924850586,
         "currency": "BRL"
       },
       "stats": {
@@ -9006,13 +9006,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/AXIA3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:41.362Z",
+        "requestedAt": "2026-11-21T02:01:35.573Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/ELET3.json"
+        "path": "data/raw/2026-11-20/acao/ELET3.json"
       }
     },
     {
@@ -9020,7 +9020,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:41.451Z",
+      "collectedAt": "2026-11-21T02:01:35.552Z",
       "asOf": null,
       "quote": {
         "price": 46,
@@ -9030,8 +9030,8 @@
         "previousClose": 46.3,
         "dayHigh": 46.66,
         "dayLow": 45.84,
-        "volume": 21025500,
-        "marketCap": 112654793407,
+        "volume": 21044600,
+        "marketCap": 111924850586,
         "currency": "BRL"
       },
       "stats": {
@@ -9047,13 +9047,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/AXIA3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:41.546Z",
+        "requestedAt": "2026-11-21T02:01:35.600Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/ELET6.json"
+        "path": "data/raw/2026-11-20/acao/ELET6.json"
       }
     },
     {
@@ -9061,7 +9061,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:38.816Z",
+      "collectedAt": "2026-11-21T02:01:33.891Z",
       "asOf": null,
       "quote": {
         "price": 110.15,
@@ -9071,8 +9071,8 @@
         "previousClose": 109.79,
         "dayHigh": 112.12,
         "dayLow": 109.39,
-        "volume": 5511200,
-        "marketCap": 79352492239,
+        "volume": 5513100,
+        "marketCap": 79612688481,
         "currency": "BRL"
       },
       "stats": {
@@ -9577,13 +9577,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/EMBJ3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:38.880Z",
+        "requestedAt": "2026-11-21T02:01:33.922Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/EMBR3.json"
+        "path": "data/raw/2026-11-20/acao/EMBR3.json"
       }
     },
     {
@@ -9591,7 +9591,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:36.267Z",
+      "collectedAt": "2026-11-21T02:01:31.785Z",
       "asOf": null,
       "quote": {
         "price": 26.22,
@@ -9602,7 +9602,7 @@
         "dayHigh": 26.46,
         "dayLow": 25.96,
         "volume": 7665900,
-        "marketCap": 49867891313,
+        "marketCap": 50039652430,
         "currency": "BRL"
       },
       "stats": {
@@ -10107,13 +10107,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/ENEV3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:36.347Z",
+        "requestedAt": "2026-11-21T02:01:31.823Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/ENEV3.json"
+        "path": "data/raw/2026-11-20/acao/ENEV3.json"
       }
     },
     {
@@ -10121,7 +10121,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:40.228Z",
+      "collectedAt": "2026-11-21T02:01:34.914Z",
       "asOf": null,
       "quote": {
         "price": 48.44,
@@ -10131,8 +10131,8 @@
         "previousClose": 48.82,
         "dayHigh": 49.18,
         "dayLow": 48.33,
-        "volume": 5633300,
-        "marketCap": 24589336657.32,
+        "volume": 5633400,
+        "marketCap": 24397940755.44,
         "currency": "BRL"
       },
       "stats": {
@@ -10637,13 +10637,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/ENGI11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:40.900Z",
+        "requestedAt": "2026-11-21T02:01:34.946Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/ENGI11.json"
+        "path": "data/raw/2026-11-20/acao/ENGI11.json"
       }
     },
     {
@@ -10651,7 +10651,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:36.869Z",
+      "collectedAt": "2026-11-21T02:01:32.324Z",
       "asOf": null,
       "quote": {
         "price": 32.9,
@@ -10661,8 +10661,8 @@
         "previousClose": 33.67,
         "dayHigh": 34,
         "dayLow": 32.85,
-        "volume": 19002000,
-        "marketCap": 41433238517,
+        "volume": 19002900,
+        "marketCap": 40485704917,
         "currency": "BRL"
       },
       "stats": {
@@ -11167,13 +11167,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/EQTL3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:36.925Z",
+        "requestedAt": "2026-11-21T02:01:32.362Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/EQTL3.json"
+        "path": "data/raw/2026-11-20/acao/EQTL3.json"
       }
     },
     {
@@ -11181,7 +11181,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:36.095Z",
+      "collectedAt": "2026-11-21T02:01:31.699Z",
       "asOf": null,
       "quote": {
         "price": 25.86,
@@ -11191,8 +11191,8 @@
         "previousClose": 25.59,
         "dayHigh": 26.22,
         "dayLow": 25.47,
-        "volume": 12829900,
-        "marketCap": 47070164394,
+        "volume": 12830300,
+        "marketCap": 47546206142,
         "currency": "BRL"
       },
       "stats": {
@@ -11697,13 +11697,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/GGBR4.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:36.156Z",
+        "requestedAt": "2026-11-21T02:01:31.728Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/GGBR4.json"
+        "path": "data/raw/2026-11-20/acao/GGBR4.json"
       }
     },
     {
@@ -11711,7 +11711,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:31.843Z",
+      "collectedAt": "2026-11-21T02:01:28.581Z",
       "asOf": null,
       "quote": {
         "price": 13.17,
@@ -11721,8 +11721,8 @@
         "previousClose": 13.15,
         "dayHigh": 13.25,
         "dayLow": 13.06,
-        "volume": 30293500,
-        "marketCap": 148929511044,
+        "volume": 30299100,
+        "marketCap": 149307763450,
         "currency": "BRL"
       },
       "stats": {
@@ -12227,13 +12227,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/ITSA4.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:31.911Z",
+        "requestedAt": "2026-11-21T02:01:28.611Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/ITSA4.json"
+        "path": "data/raw/2026-11-20/acao/ITSA4.json"
       }
     },
     {
@@ -12241,7 +12241,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:33.016Z",
+      "collectedAt": "2026-11-21T02:01:29.216Z",
       "asOf": null,
       "quote": {
         "price": 40.07,
@@ -12251,8 +12251,8 @@
         "previousClose": 40.19,
         "dayHigh": 40.41,
         "dayLow": 39.69,
-        "volume": 30818800,
-        "marketCap": 464947203606,
+        "volume": 30824700,
+        "marketCap": 465312198061,
         "currency": "BRL"
       },
       "stats": {
@@ -12757,13 +12757,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/ITUB4.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:33.065Z",
+        "requestedAt": "2026-11-21T02:01:29.247Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/ITUB4.json"
+        "path": "data/raw/2026-11-20/acao/ITUB4.json"
       }
     },
     {
@@ -12771,7 +12771,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:41.688Z",
+      "collectedAt": "2026-11-21T02:01:35.853Z",
       "asOf": null,
       "quote": {
         "price": 70.32,
@@ -12782,7 +12782,7 @@
         "dayHigh": 71.5,
         "dayLow": 68.17,
         "volume": 2040573,
-        "marketCap": 75965505283.01888,
+        "marketCap": 75623148982.74837,
         "currency": "BRL"
       },
       "stats": {
@@ -13287,13 +13287,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/JBSS32.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:41.772Z",
+        "requestedAt": "2026-11-21T02:01:35.892Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/JBSS3.json"
+        "path": "data/raw/2026-11-20/acao/JBSS3.json"
       }
     },
     {
@@ -13301,7 +13301,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:41.862Z",
+      "collectedAt": "2026-11-21T02:01:35.877Z",
       "asOf": null,
       "quote": {
         "price": 16.94,
@@ -13311,8 +13311,8 @@
         "previousClose": 17.13,
         "dayHigh": 17.21,
         "dayLow": 16.75,
-        "volume": 8751300,
-        "marketCap": 21383306540.1,
+        "volume": 8778700,
+        "marketCap": 21146130343.800003,
         "currency": "BRL"
       },
       "stats": {
@@ -13817,13 +13817,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/KLBN11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:41.955Z",
+        "requestedAt": "2026-11-21T02:01:35.906Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/KLBN11.json"
+        "path": "data/raw/2026-11-20/acao/KLBN11.json"
       }
     },
     {
@@ -13831,7 +13831,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:34.909Z",
+      "collectedAt": "2026-11-21T02:01:30.625Z",
       "asOf": null,
       "quote": {
         "price": 9.1,
@@ -13841,8 +13841,8 @@
         "previousClose": 9.47,
         "dayHigh": 9.59,
         "dayLow": 9.09,
-        "volume": 33739600,
-        "marketCap": 9504905287,
+        "volume": 33759800,
+        "marketCap": 9133541637,
         "currency": "BRL"
       },
       "stats": {
@@ -14347,13 +14347,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/LREN3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:35.009Z",
+        "requestedAt": "2026-11-21T02:01:30.654Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/LREN3.json"
+        "path": "data/raw/2026-11-20/acao/LREN3.json"
       }
     },
     {
@@ -14361,7 +14361,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:33.740Z",
+      "collectedAt": "2026-11-21T02:01:29.682Z",
       "asOf": null,
       "quote": {
         "price": 8.2,
@@ -14371,8 +14371,8 @@
         "previousClose": 8.32,
         "dayHigh": 8.75,
         "dayLow": 8.2,
-        "volume": 60471200,
-        "marketCap": 5864440957,
+        "volume": 60504400,
+        "marketCap": 5779857751,
         "currency": "BRL"
       },
       "stats": {
@@ -14877,13 +14877,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/MGLU3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:33.870Z",
+        "requestedAt": "2026-11-21T02:01:29.713Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/MGLU3.json"
+        "path": "data/raw/2026-11-20/acao/MGLU3.json"
       }
     },
     {
@@ -14891,7 +14891,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:36.659Z",
+      "collectedAt": "2026-11-21T02:01:32.106Z",
       "asOf": null,
       "quote": {
         "price": 18.39,
@@ -14901,8 +14901,8 @@
         "previousClose": 18.69,
         "dayHigh": 18.96,
         "dayLow": 18.04,
-        "volume": 5626400,
-        "marketCap": 25789198291,
+        "volume": 5626500,
+        "marketCap": 25375244905,
         "currency": "BRL"
       },
       "stats": {
@@ -15407,13 +15407,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/MBRF3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:36.724Z",
+        "requestedAt": "2026-11-21T02:01:32.144Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/MRFG3.json"
+        "path": "data/raw/2026-11-20/acao/MRFG3.json"
       }
     },
     {
@@ -15421,7 +15421,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:35.321Z",
+      "collectedAt": "2026-11-21T02:01:31.120Z",
       "asOf": null,
       "quote": {
         "price": 48.63,
@@ -15431,8 +15431,8 @@
         "previousClose": 49.3,
         "dayHigh": 49.85,
         "dayLow": 48.42,
-        "volume": 10252400,
-        "marketCap": 596189102277,
+        "volume": 10256500,
+        "marketCap": 588547212774,
         "currency": "BRL"
       },
       "stats": {
@@ -15937,13 +15937,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/PETR3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:35.380Z",
+        "requestedAt": "2026-11-21T02:01:31.184Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/PETR3.json"
+        "path": "data/raw/2026-11-20/acao/PETR3.json"
       }
     },
     {
@@ -15951,7 +15951,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:31.125Z",
+      "collectedAt": "2026-11-21T02:01:28.101Z",
       "asOf": null,
       "quote": {
         "price": 42.67,
@@ -15961,8 +15961,8 @@
         "previousClose": 43.17,
         "dayHigh": 43.6,
         "dayLow": 42.41,
-        "volume": 39230100,
-        "marketCap": 596189102277,
+        "volume": 39268400,
+        "marketCap": 588547212774,
         "currency": "BRL"
       },
       "stats": {
@@ -16467,13 +16467,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/PETR4.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:31.189Z",
+        "requestedAt": "2026-11-21T02:01:28.132Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/PETR4.json"
+        "path": "data/raw/2026-11-20/acao/PETR4.json"
       }
     },
     {
@@ -16481,7 +16481,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:34.182Z",
+      "collectedAt": "2026-11-21T02:01:30.161Z",
       "asOf": null,
       "quote": {
         "price": 60.2,
@@ -16491,8 +16491,8 @@
         "previousClose": 61.87,
         "dayHigh": 62.29,
         "dayLow": 59.59,
-        "volume": 9763800,
-        "marketCap": 51563549955,
+        "volume": 9773600,
+        "marketCap": 50171743983,
         "currency": "BRL"
       },
       "stats": {
@@ -16997,13 +16997,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/PRIO3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:34.242Z",
+        "requestedAt": "2026-11-21T02:01:30.200Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/PRIO3.json"
+        "path": "data/raw/2026-11-20/acao/PRIO3.json"
       }
     },
     {
@@ -17011,7 +17011,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:35.675Z",
+      "collectedAt": "2026-11-21T02:01:31.382Z",
       "asOf": null,
       "quote": {
         "price": 13.72,
@@ -17021,8 +17021,8 @@
         "previousClose": 14.03,
         "dayHigh": 14.14,
         "dayLow": 13.49,
-        "volume": 9381300,
-        "marketCap": 24518786087,
+        "volume": 9390500,
+        "marketCap": 23977031936,
         "currency": "BRL"
       },
       "stats": {
@@ -17527,13 +17527,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/RADL3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:35.780Z",
+        "requestedAt": "2026-11-21T02:01:31.418Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/RADL3.json"
+        "path": "data/raw/2026-11-20/acao/RADL3.json"
       }
     },
     {
@@ -17541,7 +17541,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:37.270Z",
+      "collectedAt": "2026-11-21T02:01:32.644Z",
       "asOf": null,
       "quote": {
         "price": 35.91,
@@ -17551,8 +17551,8 @@
         "previousClose": 36.31,
         "dayHigh": 36.69,
         "dayLow": 35.64,
-        "volume": 5802100,
-        "marketCap": 79932062244,
+        "volume": 5803000,
+        "marketCap": 79051507420,
         "currency": "BRL"
       },
       "stats": {
@@ -18057,13 +18057,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/RDOR3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:37.358Z",
+        "requestedAt": "2026-11-21T02:01:32.679Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/RDOR3.json"
+        "path": "data/raw/2026-11-20/acao/RDOR3.json"
       }
     },
     {
@@ -18071,7 +18071,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:37.670Z",
+      "collectedAt": "2026-11-21T02:01:32.960Z",
       "asOf": null,
       "quote": {
         "price": 28.86,
@@ -18081,8 +18081,8 @@
         "previousClose": 29.45,
         "dayHigh": 30.02,
         "dayLow": 28.86,
-        "volume": 13814400,
-        "marketCap": 31698370993,
+        "volume": 13832000,
+        "marketCap": 31063327080,
         "currency": "BRL"
       },
       "stats": {
@@ -18587,13 +18587,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/RENT3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:37.728Z",
+        "requestedAt": "2026-11-21T02:01:32.989Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/RENT3.json"
+        "path": "data/raw/2026-11-20/acao/RENT3.json"
       }
     },
     {
@@ -18601,7 +18601,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:39.034Z",
+      "collectedAt": "2026-11-21T02:01:33.987Z",
       "asOf": null,
       "quote": {
         "price": 28.15,
@@ -18611,7 +18611,7 @@
         "previousClose": 28.15,
         "dayHigh": 28.88,
         "dayLow": 27.84,
-        "volume": 4063400,
+        "volume": 4063500,
         "marketCap": 105541824542.825,
         "currency": "BRL"
       },
@@ -19117,13 +19117,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/SANB11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:39.126Z",
+        "requestedAt": "2026-11-21T02:01:34.015Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/SANB11.json"
+        "path": "data/raw/2026-11-20/acao/SANB11.json"
       }
     },
     {
@@ -19131,7 +19131,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:39.607Z",
+      "collectedAt": "2026-11-21T02:01:34.518Z",
       "asOf": null,
       "quote": {
         "price": 34.14,
@@ -19141,8 +19141,8 @@
         "previousClose": 33.79,
         "dayHigh": 34.14,
         "dayLow": 33.07,
-        "volume": 1756600,
-        "marketCap": 10212726769,
+        "volume": 1757200,
+        "marketCap": 10318511154,
         "currency": "BRL"
       },
       "stats": {
@@ -19647,13 +19647,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/SAPR11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:39.688Z",
+        "requestedAt": "2026-11-21T02:01:34.549Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/SAPR11.json"
+        "path": "data/raw/2026-11-20/acao/SAPR11.json"
       }
     },
     {
@@ -19661,7 +19661,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:37.834Z",
+      "collectedAt": "2026-11-21T02:01:33.052Z",
       "asOf": null,
       "quote": {
         "price": 27.35,
@@ -19671,8 +19671,8 @@
         "previousClose": 27.43,
         "dayHigh": 28.13,
         "dayLow": 27.16,
-        "volume": 19497100,
-        "marketCap": 96948844877,
+        "volume": 19498000,
+        "marketCap": 96666092413,
         "currency": "BRL"
       },
       "stats": {
@@ -20177,13 +20177,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/SBSP3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:37.934Z",
+        "requestedAt": "2026-11-21T02:01:33.080Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/SBSP3.json"
+        "path": "data/raw/2026-11-20/acao/SBSP3.json"
       }
     },
     {
@@ -20191,7 +20191,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:37.037Z",
+      "collectedAt": "2026-11-21T02:01:32.425Z",
       "asOf": null,
       "quote": {
         "price": 17.69,
@@ -20202,7 +20202,7 @@
         "dayHigh": 17.99,
         "dayLow": 17.22,
         "volume": 13605500,
-        "marketCap": 10936305420,
+        "marketCap": 10899337956,
         "currency": "BRL"
       },
       "stats": {
@@ -20707,13 +20707,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/SMFT3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:37.111Z",
+        "requestedAt": "2026-11-21T02:01:32.455Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/SMFT3.json"
+        "path": "data/raw/2026-11-20/acao/SMFT3.json"
       }
     },
     {
@@ -20721,7 +20721,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:38.653Z",
+      "collectedAt": "2026-11-21T02:01:33.674Z",
       "asOf": null,
       "quote": {
         "price": 55.32,
@@ -20731,8 +20731,8 @@
         "previousClose": 55.6,
         "dayHigh": 55.67,
         "dayLow": 54.03,
-        "volume": 8295800,
-        "marketCap": 69615406097,
+        "volume": 8297100,
+        "marketCap": 69264826434,
         "currency": "BRL"
       },
       "stats": {
@@ -21237,13 +21237,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/SUZB3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:38.720Z",
+        "requestedAt": "2026-11-21T02:01:33.703Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/SUZB3.json"
+        "path": "data/raw/2026-11-20/acao/SUZB3.json"
       }
     },
     {
@@ -21251,7 +21251,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:41.011Z",
+      "collectedAt": "2026-11-21T02:01:35.245Z",
       "asOf": null,
       "quote": {
         "price": 40.17,
@@ -21261,8 +21261,8 @@
         "previousClose": 40.56,
         "dayHigh": 40.58,
         "dayLow": 39.87,
-        "volume": 2078600,
-        "marketCap": 13972875384.000002,
+        "volume": 2078700,
+        "marketCap": 13838520813,
         "currency": "BRL"
       },
       "stats": {
@@ -21767,13 +21767,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/TAEE11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:41.130Z",
+        "requestedAt": "2026-11-21T02:01:35.272Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/TAEE11.json"
+        "path": "data/raw/2026-11-20/acao/TAEE11.json"
       }
     },
     {
@@ -21781,7 +21781,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:37.425Z",
+      "collectedAt": "2026-11-21T02:01:32.738Z",
       "asOf": null,
       "quote": {
         "price": 31.11,
@@ -21791,8 +21791,8 @@
         "previousClose": 31.93,
         "dayHigh": 32.45,
         "dayLow": 30.96,
-        "volume": 3996600,
-        "marketCap": 18209573546,
+        "volume": 4097600,
+        "marketCap": 17741930433,
         "currency": "BRL"
       },
       "stats": {
@@ -22297,13 +22297,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/TOTS3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:37.519Z",
+        "requestedAt": "2026-11-21T02:01:32.771Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/TOTS3.json"
+        "path": "data/raw/2026-11-20/acao/TOTS3.json"
       }
     },
     {
@@ -22311,7 +22311,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:33.360Z",
+      "collectedAt": "2026-11-21T02:01:29.371Z",
       "asOf": null,
       "quote": {
         "price": 58.48,
@@ -22321,8 +22321,8 @@
         "previousClose": 59,
         "dayHigh": 59.7,
         "dayLow": 58.25,
-        "volume": 23300200,
-        "marketCap": 235146502905,
+        "volume": 23314600,
+        "marketCap": 233074023428,
         "currency": "BRL"
       },
       "stats": {
@@ -22827,13 +22827,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/VALE3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:33.464Z",
+        "requestedAt": "2026-11-21T02:01:29.402Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/VALE3.json"
+        "path": "data/raw/2026-11-20/acao/VALE3.json"
       }
     },
     {
@@ -22841,7 +22841,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:32.225Z",
+      "collectedAt": "2026-11-21T02:01:28.745Z",
       "asOf": null,
       "quote": {
         "price": 2.49,
@@ -22851,8 +22851,8 @@
         "previousClose": 2.59,
         "dayHigh": 2.66,
         "dayLow": 2.49,
-        "volume": 27334500,
-        "marketCap": 3120161072,
+        "volume": 27345800,
+        "marketCap": 2999691644,
         "currency": "BRL"
       },
       "stats": {
@@ -23357,13 +23357,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/VAMO3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:32.347Z",
+        "requestedAt": "2026-11-21T02:01:28.779Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/VAMO3.json"
+        "path": "data/raw/2026-11-20/acao/VAMO3.json"
       }
     },
     {
@@ -23371,7 +23371,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:38.246Z",
+      "collectedAt": "2026-11-21T02:01:33.362Z",
       "asOf": null,
       "quote": {
         "price": 30.13,
@@ -23382,7 +23382,7 @@
         "dayHigh": 30.79,
         "dayLow": 30.04,
         "volume": 10150900,
-        "marketCap": 34901912675,
+        "marketCap": 34603310982,
         "currency": "BRL"
       },
       "stats": {
@@ -23887,13 +23887,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/VBBR3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:38.337Z",
+        "requestedAt": "2026-11-21T02:01:33.395Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/VBBR3.json"
+        "path": "data/raw/2026-11-20/acao/VBBR3.json"
       }
     },
     {
@@ -23901,7 +23901,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:39.846Z",
+      "collectedAt": "2026-11-21T02:01:34.605Z",
       "asOf": null,
       "quote": {
         "price": 35.22,
@@ -23911,8 +23911,8 @@
         "previousClose": 35.56,
         "dayHigh": 35.69,
         "dayLow": 34.78,
-        "volume": 5276300,
-        "marketCap": 114321046231,
+        "volume": 5284500,
+        "marketCap": 113227987411,
         "currency": "BRL"
       },
       "stats": {
@@ -24417,13 +24417,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/VIVT3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:39.915Z",
+        "requestedAt": "2026-11-21T02:01:34.633Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/VIVT3.json"
+        "path": "data/raw/2026-11-20/acao/VIVT3.json"
       }
     },
     {
@@ -24431,7 +24431,7 @@
       "category": "acao",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:38.040Z",
+      "collectedAt": "2026-11-21T02:01:33.271Z",
       "asOf": null,
       "quote": {
         "price": 51.13,
@@ -24441,8 +24441,8 @@
         "previousClose": 51.38,
         "dayHigh": 52.51,
         "dayLow": 50.47,
-        "volume": 10431000,
-        "marketCap": 215591086591,
+        "volume": 10434400,
+        "marketCap": 214542083662,
         "currency": "BRL"
       },
       "stats": {
@@ -24947,13 +24947,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/WEGE3.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:38.124Z",
+        "requestedAt": "2026-11-21T02:01:33.300Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/acao/WEGE3.json"
+        "path": "data/raw/2026-11-20/acao/WEGE3.json"
       }
     },
     {
@@ -24961,7 +24961,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:52.468Z",
+      "collectedAt": "2026-11-21T02:01:45.846Z",
       "asOf": null,
       "quote": {
         "price": 103.21,
@@ -24972,7 +24972,7 @@
         "dayHigh": 104.9,
         "dayLow": 102.41,
         "volume": 1196347,
-        "marketCap": 30199691017883.258,
+        "marketCap": 30189072138881.617,
         "currency": "BRL"
       },
       "stats": {
@@ -25477,13 +25477,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/AAPL34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:52.545Z",
+        "requestedAt": "2026-11-21T02:01:45.875Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/AAPL34.json"
+        "path": "data/raw/2026-11-20/bdr/AAPL34.json"
       }
     },
     {
@@ -25491,7 +25491,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:52.860Z",
+      "collectedAt": "2026-11-21T02:01:46.154Z",
       "asOf": null,
       "quote": {
         "price": 77.03,
@@ -25501,8 +25501,8 @@
         "previousClose": 78.61,
         "dayHigh": 80.99,
         "dayLow": 76.17,
-        "volume": 1344816,
-        "marketCap": 17070220406521.227,
+        "volume": 1344818,
+        "marketCap": 16555485995502.678,
         "currency": "BRL"
       },
       "stats": {
@@ -26007,13 +26007,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/AMZO34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:52.965Z",
+        "requestedAt": "2026-11-21T02:01:46.183Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/AMZO34.json"
+        "path": "data/raw/2026-11-20/bdr/AMZO34.json"
       }
     },
     {
@@ -26021,7 +26021,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:55.873Z",
+      "collectedAt": "2026-11-21T02:01:48.448Z",
       "asOf": null,
       "quote": {
         "price": 17.79,
@@ -26032,12 +26032,12 @@
         "dayHigh": 18.65,
         "dayLow": 17.33,
         "volume": 3843816,
-        "marketCap": 1274682460444.9368,
+        "marketCap": 1215535456255.5618,
         "currency": "BRL"
       },
       "stats": {
-        "pe": 6.49158064865046,
-        "eps": 2.9072151659751033,
+        "pe": 4.001420616816642,
+        "eps": 4.687510482866044,
         "week52High": 34.36,
         "week52Low": 16.99
       },
@@ -26537,13 +26537,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BABA34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:57.158Z",
+        "requestedAt": "2026-11-21T02:01:48.486Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/BABA34.json"
+        "path": "data/raw/2026-11-20/bdr/BABA34.json"
       }
     },
     {
@@ -26551,7 +26551,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:54.325Z",
+      "collectedAt": "2026-11-21T02:01:47.196Z",
       "asOf": null,
       "quote": {
         "price": 47.07,
@@ -26562,7 +26562,7 @@
         "dayHigh": 48.1,
         "dayLow": 47.07,
         "volume": 65824,
-        "marketCap": 1232278954115.5662,
+        "marketCap": 1221835615621.6538,
         "currency": "BRL"
       },
       "stats": {
@@ -27067,13 +27067,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/DISB34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:54.458Z",
+        "requestedAt": "2026-11-21T02:01:47.226Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/DISB34.json"
+        "path": "data/raw/2026-11-20/bdr/DISB34.json"
       }
     },
     {
@@ -27081,7 +27081,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:53.082Z",
+      "collectedAt": "2026-11-21T02:01:46.299Z",
       "asOf": null,
       "quote": {
         "price": 136.39,
@@ -27091,8 +27091,8 @@
         "previousClose": 138.55,
         "dayHigh": 145.2,
         "dayLow": 135.3,
-        "volume": 766398,
-        "marketCap": 20249744833820.758,
+        "volume": 766528,
+        "marketCap": 19771914716240.332,
         "currency": "BRL"
       },
       "stats": {
@@ -27597,13 +27597,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/GOGL34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:53.195Z",
+        "requestedAt": "2026-11-21T02:01:46.329Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/GOGL34.json"
+        "path": "data/raw/2026-11-20/bdr/GOGL34.json"
       }
     },
     {
@@ -27611,7 +27611,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:55.506Z",
+      "collectedAt": "2026-11-21T02:01:48.139Z",
       "asOf": null,
       "quote": {
         "price": 105.28,
@@ -27622,7 +27622,7 @@
         "dayHigh": 110,
         "dayLow": 103.95,
         "volume": 4831,
-        "marketCap": 3870716680082.5474,
+        "marketCap": 3825633013301.6064,
         "currency": "BRL"
       },
       "stats": {
@@ -28127,13 +28127,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/JNJB34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:55.575Z",
+        "requestedAt": "2026-11-21T02:01:48.168Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/JNJB34.json"
+        "path": "data/raw/2026-11-20/bdr/JNJB34.json"
       }
     },
     {
@@ -28141,7 +28141,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:55.137Z",
+      "collectedAt": "2026-11-21T02:01:47.823Z",
       "asOf": null,
       "quote": {
         "price": 80.74,
@@ -28152,7 +28152,7 @@
         "dayHigh": 81.03,
         "dayLow": 79.01,
         "volume": 9066,
-        "marketCap": 1140366677045.9905,
+        "marketCap": 1139701618000,
         "currency": "BRL"
       },
       "stats": {
@@ -28657,13 +28657,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/MCDC34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:55.209Z",
+        "requestedAt": "2026-11-21T02:01:47.859Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/MCDC34.json"
+        "path": "data/raw/2026-11-20/bdr/MCDC34.json"
       }
     },
     {
@@ -28671,7 +28671,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:52.677Z",
+      "collectedAt": "2026-11-21T02:01:45.990Z",
       "asOf": null,
       "quote": {
         "price": 123.38,
@@ -28682,7 +28682,7 @@
         "dayHigh": 129.8,
         "dayLow": 123.2,
         "volume": 490133,
-        "marketCap": 22256252255129.72,
+        "marketCap": 22013519018120.164,
         "currency": "BRL"
       },
       "stats": {
@@ -29187,13 +29187,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/MSFT34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:52.771Z",
+        "requestedAt": "2026-11-21T02:01:46.020Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/MSFT34.json"
+        "path": "data/raw/2026-11-20/bdr/MSFT34.json"
       }
     },
     {
@@ -29201,7 +29201,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:53.926Z",
+      "collectedAt": "2026-11-21T02:01:46.926Z",
       "asOf": null,
       "quote": {
         "price": 7.02,
@@ -29212,7 +29212,7 @@
         "dayHigh": 7.13,
         "dayLow": 6.91,
         "volume": 1626784,
-        "marketCap": 1448351594033.0188,
+        "marketCap": 1428053683807.2576,
         "currency": "BRL"
       },
       "stats": {
@@ -29717,13 +29717,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/NFLX34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:54.165Z",
+        "requestedAt": "2026-11-21T02:01:46.957Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/NFLX34.json"
+        "path": "data/raw/2026-11-20/bdr/NFLX34.json"
       }
     },
     {
@@ -29731,7 +29731,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:53.507Z",
+      "collectedAt": "2026-11-21T02:01:46.611Z",
       "asOf": null,
       "quote": {
         "price": 18.15,
@@ -29741,8 +29741,8 @@
         "previousClose": 18.34,
         "dayHigh": 19.46,
         "dayLow": 18.15,
-        "volume": 33682469,
-        "marketCap": 21451274538938.68,
+        "volume": 33698786,
+        "marketCap": 20928720386876.86,
         "currency": "BRL"
       },
       "stats": {
@@ -30247,13 +30247,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/NVDC34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:53.614Z",
+        "requestedAt": "2026-11-21T02:01:46.644Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/NVDC34.json"
+        "path": "data/raw/2026-11-20/bdr/NVDC34.json"
       }
     },
     {
@@ -30261,7 +30261,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:54.775Z",
+      "collectedAt": "2026-11-21T02:01:47.510Z",
       "asOf": null,
       "quote": {
         "price": 108.95,
@@ -30272,7 +30272,7 @@
         "dayHigh": 116.6,
         "dayLow": 108.95,
         "volume": 200636,
-        "marketCap": 2030502952588.4434,
+        "marketCap": 1988902426430.696,
         "currency": "BRL"
       },
       "stats": {
@@ -30777,13 +30777,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/ORCL34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:54.841Z",
+        "requestedAt": "2026-11-21T02:01:47.543Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/ORCL34.json"
+        "path": "data/raw/2026-11-20/bdr/ORCL34.json"
       }
     },
     {
@@ -30791,7 +30791,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:55.028Z",
+      "collectedAt": "2026-11-21T02:01:47.654Z",
       "asOf": null,
       "quote": {
         "price": 16.41,
@@ -30802,7 +30802,7 @@
         "dayHigh": 17.18,
         "dayLow": 16.41,
         "volume": 40018,
-        "marketCap": 283530718979.9529,
+        "marketCap": 278549725782.27246,
         "currency": "BRL"
       },
       "stats": {
@@ -31307,13 +31307,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/PYPL34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:55.106Z",
+        "requestedAt": "2026-11-21T02:01:47.702Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/PYPL34.json"
+        "path": "data/raw/2026-11-20/bdr/PYPL34.json"
       }
     },
     {
@@ -31321,7 +31321,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:53.278Z",
+      "collectedAt": "2026-11-21T02:01:46.462Z",
       "asOf": null,
       "quote": {
         "price": 69.19,
@@ -31331,8 +31331,8 @@
         "previousClose": 70.31,
         "dayHigh": 72.55,
         "dayLow": 68.55,
-        "volume": 1577410,
-        "marketCap": 8943115131597.877,
+        "volume": 1577411,
+        "marketCap": 8803998563129.09,
         "currency": "BRL"
       },
       "stats": {
@@ -31837,13 +31837,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/TSLA34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:53.376Z",
+        "requestedAt": "2026-11-21T02:01:46.496Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/TSLA34.json"
+        "path": "data/raw/2026-11-20/bdr/TSLA34.json"
       }
     },
     {
@@ -31851,7 +31851,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:55.417Z",
+      "collectedAt": "2026-11-21T02:01:47.986Z",
       "asOf": null,
       "quote": {
         "price": 120.9,
@@ -31862,7 +31862,7 @@
         "dayHigh": 123.99,
         "dayLow": 118.76,
         "volume": 19884,
-        "marketCap": 4539968721762.972,
+        "marketCap": 4437402080440.214,
         "currency": "BRL"
       },
       "stats": {
@@ -32367,13 +32367,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/VISA34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:55.529Z",
+        "requestedAt": "2026-11-21T02:01:48.015Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/VISA34.json"
+        "path": "data/raw/2026-11-20/bdr/VISA34.json"
       }
     },
     {
@@ -32381,7 +32381,7 @@
       "category": "bdr",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:57.453Z",
+      "collectedAt": "2026-11-21T02:01:49.128Z",
       "asOf": null,
       "quote": {
         "price": 46.81,
@@ -32392,12 +32392,12 @@
         "dayHigh": 47.01,
         "dayLow": 45.23,
         "volume": 39125,
-        "marketCap": 5957794264988.208,
+        "marketCap": 5948657733016.062,
         "currency": "BRL"
       },
       "stats": {
-        "pe": 51.53583617747441,
-        "eps": 0.9083,
+        "pe": 55.174446016030174,
+        "eps": 0.8484,
         "week52High": 47.01,
         "week52Low": 32
       },
@@ -32897,13 +32897,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/WALM34.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:57.553Z",
+        "requestedAt": "2026-11-21T02:01:49.163Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/bdr/WALM34.json"
+        "path": "data/raw/2026-11-20/bdr/WALM34.json"
       }
     },
     {
@@ -32911,17 +32911,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:48.198Z",
+      "collectedAt": "2026-11-21T02:01:41.285Z",
       "asOf": null,
       "quote": {
-        "price": 18.6,
-        "change": -0.03,
-        "changePercent": -0.16,
+        "price": 18.48,
+        "change": -0.15,
+        "changePercent": -0.81,
         "open": 18.76,
         "previousClose": 18.63,
         "dayHigh": 18.91,
         "dayLow": 18.42,
-        "volume": 76841,
+        "volume": 106925,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -33417,8 +33417,8 @@
           "open": 18.76,
           "high": 18.91,
           "low": 18.42,
-          "close": 18.6,
-          "volume": 76841
+          "close": 18.48,
+          "volume": 106925
         }
       ],
       "branding": {
@@ -33427,13 +33427,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/ACWI11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:48.268Z",
+        "requestedAt": "2026-11-21T02:01:41.318Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/ACWI11.json"
+        "path": "data/raw/2026-11-20/etf/ACWI11.json"
       }
     },
     {
@@ -33441,7 +33441,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:46.815Z",
+      "collectedAt": "2026-11-21T02:01:40.143Z",
       "asOf": null,
       "quote": {
         "price": 112.2,
@@ -33451,7 +33451,7 @@
         "previousClose": 112.1,
         "dayHigh": 112.28,
         "dayLow": 112.03,
-        "volume": 111415,
+        "volume": 111835,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -33944,7 +33944,7 @@
         },
         {
           "date": "2026-11-19",
-          "open": 112.1,
+          "open": 0,
           "high": 112.28,
           "low": 112.03,
           "close": 112.2,
@@ -33957,13 +33957,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/AUPO11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:46.878Z",
+        "requestedAt": "2026-11-21T02:01:40.179Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/AUPO11.json"
+        "path": "data/raw/2026-11-20/etf/AUPO11.json"
       }
     },
     {
@@ -33971,7 +33971,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:46.562Z",
+      "collectedAt": "2026-11-21T02:01:39.982Z",
       "asOf": null,
       "quote": {
         "price": 114.64,
@@ -33981,7 +33981,7 @@
         "previousClose": 114.76,
         "dayHigh": 114.99,
         "dayLow": 114.52,
-        "volume": 112331,
+        "volume": 112479,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -34474,7 +34474,7 @@
         },
         {
           "date": "2026-11-19",
-          "open": 114.92,
+          "open": 0,
           "high": 114.99,
           "low": 114.52,
           "close": 114.64,
@@ -34487,13 +34487,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/B5P211.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:46.641Z",
+        "requestedAt": "2026-11-21T02:01:40.023Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/B5P211.json"
+        "path": "data/raw/2026-11-20/etf/B5P211.json"
       }
     },
     {
@@ -34501,17 +34501,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:45.409Z",
+      "collectedAt": "2026-11-21T02:01:38.705Z",
       "asOf": null,
       "quote": {
-        "price": 83.49,
-        "change": 1.11,
-        "changePercent": 1.35,
+        "price": 82.5,
+        "change": 0.12,
+        "changePercent": 0.15,
         "open": 84.1,
         "previousClose": 82.38,
         "dayHigh": 85.17,
-        "dayLow": 82.93,
-        "volume": 140418,
+        "dayLow": 82.5,
+        "volume": 151954,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -35006,9 +35006,9 @@
           "date": "2026-11-19",
           "open": 84.1,
           "high": 85.17,
-          "low": 82.93,
-          "close": 83.49,
-          "volume": 140418
+          "low": 82.5,
+          "close": 82.5,
+          "volume": 151953
         }
       ],
       "branding": {
@@ -35017,13 +35017,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BITH11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:45.540Z",
+        "requestedAt": "2026-11-21T02:01:38.739Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/BITH11.json"
+        "path": "data/raw/2026-11-20/etf/BITH11.json"
       }
     },
     {
@@ -35031,7 +35031,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:47.704Z",
+      "collectedAt": "2026-11-21T02:01:40.879Z",
       "asOf": null,
       "quote": {
         "price": 32.97,
@@ -35547,13 +35547,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BITI11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:47.795Z",
+        "requestedAt": "2026-11-21T02:01:40.924Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/BITI11.json"
+        "path": "data/raw/2026-11-20/etf/BITI11.json"
       }
     },
     {
@@ -35561,17 +35561,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:42.269Z",
+      "collectedAt": "2026-11-21T02:01:36.183Z",
       "asOf": null,
       "quote": {
-        "price": 163.8,
-        "change": -0.6,
-        "changePercent": -0.36,
+        "price": 163.6,
+        "change": -0.8,
+        "changePercent": -0.49,
         "open": 165.27,
         "previousClose": 164.4,
         "dayHigh": 165.99,
         "dayLow": 163.33,
-        "volume": 4506553,
+        "volume": 5132921,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -36066,9 +36066,9 @@
           "date": "2026-11-19",
           "open": 165.27,
           "high": 165.99,
-          "low": 163.33,
-          "close": 163.8,
-          "volume": 4506553
+          "low": 163.32,
+          "close": 163.6,
+          "volume": 4947601
         }
       ],
       "branding": {
@@ -36077,13 +36077,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BOVA11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:42.327Z",
+        "requestedAt": "2026-11-21T02:01:36.220Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/BOVA11.json"
+        "path": "data/raw/2026-11-20/etf/BOVA11.json"
       }
     },
     {
@@ -36091,17 +36091,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:44.420Z",
+      "collectedAt": "2026-11-21T02:01:37.780Z",
       "asOf": null,
       "quote": {
-        "price": 171.74,
-        "change": -1.53,
+        "price": 171.75,
+        "change": -1.52,
         "changePercent": -0.88,
         "open": 173.75,
         "previousClose": 173.27,
         "dayHigh": 174.15,
         "dayLow": 171.42,
-        "volume": 348860,
+        "volume": 506859,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -36597,8 +36597,8 @@
           "open": 173.75,
           "high": 174.15,
           "low": 171.42,
-          "close": 171.74,
-          "volume": 348860
+          "close": 171.75,
+          "volume": 506859
         }
       ],
       "branding": {
@@ -36607,13 +36607,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BOVV11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:44.485Z",
+        "requestedAt": "2026-11-21T02:01:37.813Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/BOVV11.json"
+        "path": "data/raw/2026-11-20/etf/BOVV11.json"
       }
     },
     {
@@ -36621,7 +36621,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:43.073Z",
+      "collectedAt": "2026-11-21T02:01:36.822Z",
       "asOf": null,
       "quote": {
         "price": 17.1,
@@ -36631,7 +36631,7 @@
         "previousClose": 17.22,
         "dayHigh": 17.32,
         "dayLow": 17.05,
-        "volume": 455902,
+        "volume": 685562,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -37128,7 +37128,7 @@
           "high": 17.32,
           "low": 17.05,
           "close": 17.1,
-          "volume": 455902
+          "volume": 685562
         }
       ],
       "branding": {
@@ -37137,13 +37137,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BOVX11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:43.201Z",
+        "requestedAt": "2026-11-21T02:01:36.864Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/BOVX11.json"
+        "path": "data/raw/2026-11-20/etf/BOVX11.json"
       }
     },
     {
@@ -37151,7 +37151,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:43.757Z",
+      "collectedAt": "2026-11-21T02:01:37.420Z",
       "asOf": null,
       "quote": {
         "price": 37.72,
@@ -37161,7 +37161,7 @@
         "previousClose": 37.79,
         "dayHigh": 38.6,
         "dayLow": 37.72,
-        "volume": 70100,
+        "volume": 70603,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -37658,7 +37658,7 @@
           "high": 38.6,
           "low": 37.72,
           "close": 37.72,
-          "volume": 70100
+          "volume": 70599
         }
       ],
       "branding": {
@@ -37667,13 +37667,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/COIN11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:43.857Z",
+        "requestedAt": "2026-11-21T02:01:37.459Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/COIN11.json"
+        "path": "data/raw/2026-11-20/etf/COIN11.json"
       }
     },
     {
@@ -37681,7 +37681,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:44.577Z",
+      "collectedAt": "2026-11-21T02:01:38.052Z",
       "asOf": null,
       "quote": {
         "price": 17.34,
@@ -37691,7 +37691,7 @@
         "previousClose": 17.35,
         "dayHigh": 17.4,
         "dayLow": 17.25,
-        "volume": 411392,
+        "volume": 411631,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -38184,7 +38184,7 @@
         },
         {
           "date": "2026-11-19",
-          "open": 17.36,
+          "open": 0,
           "high": 17.4,
           "low": 17.25,
           "close": 17.34,
@@ -38197,13 +38197,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/DEBB11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:44.667Z",
+        "requestedAt": "2026-11-21T02:01:38.091Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/DEBB11.json"
+        "path": "data/raw/2026-11-20/etf/DEBB11.json"
       }
     },
     {
@@ -38211,17 +38211,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:52.300Z",
+      "collectedAt": "2026-11-21T02:01:45.678Z",
       "asOf": null,
       "quote": {
-        "price": 57.46,
-        "change": -0.34,
-        "changePercent": -0.59,
+        "price": 57.48,
+        "change": -0.32,
+        "changePercent": -0.55,
         "open": 58,
         "previousClose": 57.8,
         "dayHigh": 58.27,
         "dayLow": 57.25,
-        "volume": 29059,
+        "volume": 32396,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -38717,8 +38717,8 @@
           "open": 58,
           "high": 58.27,
           "low": 57.25,
-          "close": 57.46,
-          "volume": 29059
+          "close": 57.48,
+          "volume": 32394
         }
       ],
       "branding": {
@@ -38727,13 +38727,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/DIVD11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:52.366Z",
+        "requestedAt": "2026-11-21T02:01:45.711Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/DIVD11.json"
+        "path": "data/raw/2026-11-20/etf/DIVD11.json"
       }
     },
     {
@@ -38741,17 +38741,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:49.286Z",
+      "collectedAt": "2026-11-21T02:01:42.332Z",
       "asOf": null,
       "quote": {
-        "price": 119.37,
-        "change": -0.97,
-        "changePercent": -0.81,
+        "price": 119.43,
+        "change": -0.91,
+        "changePercent": -0.76,
         "open": 120.66,
         "previousClose": 120.34,
         "dayHigh": 120.76,
         "dayLow": 118.96,
-        "volume": 190088,
+        "volume": 192607,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -39247,8 +39247,8 @@
           "open": 120.66,
           "high": 120.76,
           "low": 118.96,
-          "close": 119.37,
-          "volume": 190088
+          "close": 119.43,
+          "volume": 192607
         }
       ],
       "branding": {
@@ -39257,13 +39257,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/DIVO11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:49.364Z",
+        "requestedAt": "2026-11-21T02:01:42.370Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/DIVO11.json"
+        "path": "data/raw/2026-11-20/etf/DIVO11.json"
       }
     },
     {
@@ -39271,7 +39271,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:46.952Z",
+      "collectedAt": "2026-11-21T02:01:40.303Z",
       "asOf": null,
       "quote": {
         "price": 11.93,
@@ -39281,7 +39281,7 @@
         "previousClose": 11.76,
         "dayHigh": 11.98,
         "dayLow": 11.75,
-        "volume": 1829270,
+        "volume": 1829760,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -39778,7 +39778,7 @@
           "high": 11.98,
           "low": 11.75,
           "close": 11.93,
-          "volume": 1829270
+          "volume": 1829470
         }
       ],
       "branding": {
@@ -39787,13 +39787,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/DOLA11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:47.019Z",
+        "requestedAt": "2026-11-21T02:01:40.338Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/DOLA11.json"
+        "path": "data/raw/2026-11-20/etf/DOLA11.json"
       }
     },
     {
@@ -39801,7 +39801,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:46.415Z",
+      "collectedAt": "2026-11-21T02:01:39.824Z",
       "asOf": null,
       "quote": {
         "price": 12.01,
@@ -40317,13 +40317,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/DVER11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:46.502Z",
+        "requestedAt": "2026-11-21T02:01:39.859Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/DVER11.json"
+        "path": "data/raw/2026-11-20/etf/DVER11.json"
       }
     },
     {
@@ -40331,17 +40331,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:43.514Z",
+      "collectedAt": "2026-11-21T02:01:37.142Z",
       "asOf": null,
       "quote": {
-        "price": 30.11,
-        "change": 0.46,
-        "changePercent": 1.55,
+        "price": 29.66,
+        "change": 0.01,
+        "changePercent": 0.03,
         "open": 30.4,
         "previousClose": 29.65,
         "dayHigh": 30.9,
-        "dayLow": 29.89,
-        "volume": 88964,
+        "dayLow": 29.66,
+        "volume": 101704,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -40836,9 +40836,9 @@
           "date": "2026-11-19",
           "open": 30.4,
           "high": 30.9,
-          "low": 29.89,
-          "close": 30.11,
-          "volume": 88964
+          "low": 29.66,
+          "close": 29.66,
+          "volume": 101704
         }
       ],
       "branding": {
@@ -40847,13 +40847,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/ETHE11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:43.665Z",
+        "requestedAt": "2026-11-21T02:01:37.183Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/ETHE11.json"
+        "path": "data/raw/2026-11-20/etf/ETHE11.json"
       }
     },
     {
@@ -40861,7 +40861,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:49.487Z",
+      "collectedAt": "2026-11-21T02:01:42.652Z",
       "asOf": null,
       "quote": {
         "price": 46.99,
@@ -41377,13 +41377,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/ETHY11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:49.571Z",
+        "requestedAt": "2026-11-21T02:01:42.689Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/ETHY11.json"
+        "path": "data/raw/2026-11-20/etf/ETHY11.json"
       }
     },
     {
@@ -41391,17 +41391,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:42.503Z",
+      "collectedAt": "2026-11-21T02:01:36.482Z",
       "asOf": null,
       "quote": {
-        "price": 22.57,
-        "change": -0.13,
-        "changePercent": -0.57,
+        "price": 22.49,
+        "change": -0.21,
+        "changePercent": -0.93,
         "open": 22.7,
         "previousClose": 22.7,
         "dayHigh": 22.79,
         "dayLow": 22.45,
-        "volume": 741221,
+        "volume": 1019803,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -41897,8 +41897,8 @@
           "open": 22.7,
           "high": 22.79,
           "low": 22.45,
-          "close": 22.57,
-          "volume": 741221
+          "close": 22.49,
+          "volume": 1013772
         }
       ],
       "branding": {
@@ -41907,13 +41907,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/GOLD11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:42.582Z",
+        "requestedAt": "2026-11-21T02:01:36.511Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/GOLD11.json"
+        "path": "data/raw/2026-11-20/etf/GOLD11.json"
       }
     },
     {
@@ -41921,7 +41921,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:43.307Z",
+      "collectedAt": "2026-11-21T02:01:37.108Z",
       "asOf": null,
       "quote": {
         "price": 47.08,
@@ -41931,7 +41931,7 @@
         "previousClose": 46.94,
         "dayHigh": 48.48,
         "dayLow": 47.08,
-        "volume": 290937,
+        "volume": 298078,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -42428,7 +42428,7 @@
           "high": 48.48,
           "low": 47.08,
           "close": 47.08,
-          "volume": 290937
+          "volume": 297816
         }
       ],
       "branding": {
@@ -42437,13 +42437,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/HASH11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:43.442Z",
+        "requestedAt": "2026-11-21T02:01:37.138Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/HASH11.json"
+        "path": "data/raw/2026-11-20/etf/HASH11.json"
       }
     },
     {
@@ -42451,7 +42451,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:50.090Z",
+      "collectedAt": "2026-11-21T02:01:43.321Z",
       "asOf": null,
       "quote": {
         "price": 61.95,
@@ -42461,7 +42461,7 @@
         "previousClose": 61.69,
         "dayHigh": 63.44,
         "dayLow": 61.54,
-        "volume": 96202,
+        "volume": 97120,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -42958,7 +42958,7 @@
           "high": 63.44,
           "low": 61.54,
           "close": 61.95,
-          "volume": 96202
+          "volume": 97120
         }
       ],
       "branding": {
@@ -42967,13 +42967,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/HODL11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:50.168Z",
+        "requestedAt": "2026-11-21T02:01:43.351Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/HODL11.json"
+        "path": "data/raw/2026-11-20/etf/HODL11.json"
       }
     },
     {
@@ -42981,7 +42981,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:51.276Z",
+      "collectedAt": "2026-11-21T02:01:44.895Z",
       "asOf": null,
       "quote": {
         "price": 88.52,
@@ -43497,13 +43497,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/HTEK11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:51.367Z",
+        "requestedAt": "2026-11-21T02:01:44.928Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/HTEK11.json"
+        "path": "data/raw/2026-11-20/etf/HTEK11.json"
       }
     },
     {
@@ -43511,7 +43511,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:51.680Z",
+      "collectedAt": "2026-11-21T02:01:45.209Z",
       "asOf": null,
       "quote": {
         "price": 126.57,
@@ -43521,7 +43521,7 @@
         "previousClose": 127.53,
         "dayHigh": 127.6,
         "dayLow": 126.46,
-        "volume": 18981,
+        "volume": 19029,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -44014,7 +44014,7 @@
         },
         {
           "date": "2026-11-19",
-          "open": 127.5,
+          "open": 0,
           "high": 127.6,
           "low": 126.46,
           "close": 126.57,
@@ -44027,13 +44027,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/IB5M11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:51.751Z",
+        "requestedAt": "2026-11-21T02:01:45.240Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/IB5M11.json"
+        "path": "data/raw/2026-11-20/etf/IB5M11.json"
       }
     },
     {
@@ -44041,7 +44041,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:51.509Z",
+      "collectedAt": "2026-11-21T02:01:45.054Z",
       "asOf": null,
       "quote": {
         "price": 137.13,
@@ -44051,7 +44051,7 @@
         "previousClose": 138.14,
         "dayHigh": 138.81,
         "dayLow": 136.99,
-        "volume": 509,
+        "volume": 911,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -44548,7 +44548,7 @@
           "high": 138.81,
           "low": 136.99,
           "close": 137.13,
-          "volume": 509
+          "volume": 911
         }
       ],
       "branding": {
@@ -44557,13 +44557,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/IBOB11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:51.586Z",
+        "requestedAt": "2026-11-21T02:01:45.085Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/IBOB11.json"
+        "path": "data/raw/2026-11-20/etf/IBOB11.json"
       }
     },
     {
@@ -44571,7 +44571,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:49.889Z",
+      "collectedAt": "2026-11-21T02:01:43.292Z",
       "asOf": null,
       "quote": {
         "price": 118.35,
@@ -44581,7 +44581,7 @@
         "previousClose": 118.78,
         "dayHigh": 119.05,
         "dayLow": 118.31,
-        "volume": 63124,
+        "volume": 63249,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -45074,7 +45074,7 @@
         },
         {
           "date": "2026-11-19",
-          "open": 118.76,
+          "open": 0,
           "high": 119.05,
           "low": 118.31,
           "close": 118.35,
@@ -45087,13 +45087,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/IMAB11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:49.997Z",
+        "requestedAt": "2026-11-21T02:01:43.328Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/IMAB11.json"
+        "path": "data/raw/2026-11-20/etf/IMAB11.json"
       }
     },
     {
@@ -45101,7 +45101,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:50.480Z",
+      "collectedAt": "2026-11-21T02:01:43.629Z",
       "asOf": null,
       "quote": {
         "price": 104.29,
@@ -45111,7 +45111,7 @@
         "previousClose": 104.86,
         "dayHigh": 104.97,
         "dayLow": 104.08,
-        "volume": 345825,
+        "volume": 345952,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -45604,7 +45604,7 @@
         },
         {
           "date": "2026-11-19",
-          "open": 104.88,
+          "open": 0,
           "high": 104.97,
           "low": 104.08,
           "close": 104.29,
@@ -45617,13 +45617,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/IRFM11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:50.564Z",
+        "requestedAt": "2026-11-21T02:01:44.773Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/IRFM11.json"
+        "path": "data/raw/2026-11-20/etf/IRFM11.json"
       }
     },
     {
@@ -45631,17 +45631,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:46.042Z",
+      "collectedAt": "2026-11-21T02:01:39.670Z",
       "asOf": null,
       "quote": {
-        "price": 482.9,
-        "change": -3.2,
-        "changePercent": -0.66,
+        "price": 481.17,
+        "change": -4.93,
+        "changePercent": -1.01,
         "open": 492.51,
         "previousClose": 486.1,
         "dayHigh": 495.75,
-        "dayLow": 481.27,
-        "volume": 438069,
+        "dayLow": 481.17,
+        "volume": 446461,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -46136,9 +46136,9 @@
           "date": "2026-11-19",
           "open": 492.51,
           "high": 495.75,
-          "low": 481.27,
-          "close": 482.9,
-          "volume": 438069
+          "low": 481.17,
+          "close": 481.17,
+          "volume": 446376
         }
       ],
       "branding": {
@@ -46147,13 +46147,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/IVVB11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:46.266Z",
+        "requestedAt": "2026-11-21T02:01:39.701Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/IVVB11.json"
+        "path": "data/raw/2026-11-20/etf/IVVB11.json"
       }
     },
     {
@@ -46161,7 +46161,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:42.644Z",
+      "collectedAt": "2026-11-21T02:01:36.501Z",
       "asOf": null,
       "quote": {
         "price": 128.7,
@@ -46171,7 +46171,7 @@
         "previousClose": 128.74,
         "dayHigh": 128.85,
         "dayLow": 128.58,
-        "volume": 769708,
+        "volume": 773937,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -46664,7 +46664,7 @@
         },
         {
           "date": "2026-11-19",
-          "open": 128.61,
+          "open": 0,
           "high": 128.85,
           "low": 128.58,
           "close": 128.7,
@@ -46677,13 +46677,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/LFTB11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:42.760Z",
+        "requestedAt": "2026-11-21T02:01:36.544Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/LFTB11.json"
+        "path": "data/raw/2026-11-20/etf/LFTB11.json"
       }
     },
     {
@@ -46691,7 +46691,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:44.168Z",
+      "collectedAt": "2026-11-21T02:01:37.740Z",
       "asOf": null,
       "quote": {
         "price": 163.23,
@@ -46701,7 +46701,7 @@
         "previousClose": 163.18,
         "dayHigh": 163.27,
         "dayLow": 163.18,
-        "volume": 151673,
+        "volume": 153818,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -47194,7 +47194,7 @@
         },
         {
           "date": "2026-11-19",
-          "open": 163.19,
+          "open": 0,
           "high": 163.27,
           "low": 163.18,
           "close": 163.23,
@@ -47207,13 +47207,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/LFTS11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:44.264Z",
+        "requestedAt": "2026-11-21T02:01:37.772Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/LFTS11.json"
+        "path": "data/raw/2026-11-20/etf/LFTS11.json"
       }
     },
     {
@@ -47221,17 +47221,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:42.895Z",
+      "collectedAt": "2026-11-21T02:01:36.793Z",
       "asOf": null,
       "quote": {
-        "price": 22.02,
-        "change": -0.15,
-        "changePercent": -0.68,
+        "price": 21.9,
+        "change": -0.27,
+        "changePercent": -1.22,
         "open": 22.63,
         "previousClose": 22.17,
         "dayHigh": 22.88,
-        "dayLow": 21.91,
-        "volume": 3093588,
+        "dayLow": 21.9,
+        "volume": 3197316,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -47726,9 +47726,9 @@
           "date": "2026-11-19",
           "open": 22.63,
           "high": 22.88,
-          "low": 21.91,
-          "close": 22.02,
-          "volume": 3093588
+          "low": 21.9,
+          "close": 21.9,
+          "volume": 3197316
         }
       ],
       "branding": {
@@ -47737,13 +47737,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/NASD11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:42.994Z",
+        "requestedAt": "2026-11-21T02:01:36.827Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/NASD11.json"
+        "path": "data/raw/2026-11-20/etf/NASD11.json"
       }
     },
     {
@@ -47751,7 +47751,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:49.675Z",
+      "collectedAt": "2026-11-21T02:01:42.971Z",
       "asOf": null,
       "quote": {
         "price": 69.5,
@@ -47761,7 +47761,7 @@
         "previousClose": 69.64,
         "dayHigh": 69.72,
         "dayLow": 69.49,
-        "volume": 9547,
+        "volume": 9555,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -48254,7 +48254,7 @@
         },
         {
           "date": "2026-11-19",
-          "open": 69.5,
+          "open": 0,
           "high": 69.72,
           "low": 69.49,
           "close": 69.5,
@@ -48267,13 +48267,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/NTNS11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:49.776Z",
+        "requestedAt": "2026-11-21T02:01:43.008Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/NTNS11.json"
+        "path": "data/raw/2026-11-20/etf/NTNS11.json"
       }
     },
     {
@@ -48281,7 +48281,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:47.332Z",
+      "collectedAt": "2026-11-21T02:01:40.619Z",
       "asOf": null,
       "quote": {
         "price": 10.86,
@@ -48784,7 +48784,7 @@
         },
         {
           "date": "2026-11-19",
-          "open": 10.98,
+          "open": 0,
           "high": 10.98,
           "low": 10.86,
           "close": 10.86,
@@ -48797,13 +48797,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/PACB11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:47.409Z",
+        "requestedAt": "2026-11-21T02:01:40.673Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/PACB11.json"
+        "path": "data/raw/2026-11-20/etf/PACB11.json"
       }
     },
     {
@@ -48811,7 +48811,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:43.980Z",
+      "collectedAt": "2026-11-21T02:01:37.461Z",
       "asOf": null,
       "quote": {
         "price": 22.25,
@@ -48821,7 +48821,7 @@
         "previousClose": 22.14,
         "dayHigh": 22.9,
         "dayLow": 22.15,
-        "volume": 115327,
+        "volume": 117142,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -49318,7 +49318,7 @@
           "high": 22.9,
           "low": 22.15,
           "close": 22.25,
-          "volume": 115327
+          "volume": 116926
         }
       ],
       "branding": {
@@ -49327,13 +49327,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/QBTC11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:44.106Z",
+        "requestedAt": "2026-11-21T02:01:37.503Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/QBTC11.json"
+        "path": "data/raw/2026-11-20/etf/QBTC11.json"
       }
     },
     {
@@ -49341,17 +49341,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:47.780Z",
+      "collectedAt": "2026-11-21T02:01:40.951Z",
       "asOf": null,
       "quote": {
-        "price": 7.46,
-        "change": 0.16,
-        "changePercent": 2.19,
+        "price": 7.39,
+        "change": 0.09,
+        "changePercent": 1.23,
         "open": 7.45,
         "previousClose": 7.3,
         "dayHigh": 7.62,
-        "dayLow": 7.4,
-        "volume": 40192,
+        "dayLow": 7.39,
+        "volume": 45760,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -49846,9 +49846,9 @@
           "date": "2026-11-19",
           "open": 7.45,
           "high": 7.62,
-          "low": 7.4,
-          "close": 7.46,
-          "volume": 40192
+          "low": 7.39,
+          "close": 7.39,
+          "volume": 44838
         }
       ],
       "branding": {
@@ -49857,13 +49857,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/QETH11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:47.901Z",
+        "requestedAt": "2026-11-21T02:01:41.000Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/QETH11.json"
+        "path": "data/raw/2026-11-20/etf/QETH11.json"
       }
     },
     {
@@ -49871,17 +49871,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:51.118Z",
+      "collectedAt": "2026-11-21T02:01:44.581Z",
       "asOf": null,
       "quote": {
-        "price": 97.67,
-        "change": -0.83,
-        "changePercent": -0.84,
+        "price": 97.48,
+        "change": -1.02,
+        "changePercent": -1.04,
         "open": 100.4,
         "previousClose": 98.5,
         "dayHigh": 101.1,
         "dayLow": 97.39,
-        "volume": 124188,
+        "volume": 124212,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -50377,8 +50377,8 @@
           "open": 100.4,
           "high": 101.1,
           "low": 97.39,
-          "close": 97.67,
-          "volume": 124188
+          "close": 97.48,
+          "volume": 124212
         }
       ],
       "branding": {
@@ -50387,13 +50387,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/QQQI11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:51.194Z",
+        "requestedAt": "2026-11-21T02:01:44.614Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/QQQI11.json"
+        "path": "data/raw/2026-11-20/etf/QQQI11.json"
       }
     },
     {
@@ -50401,7 +50401,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:44.980Z",
+      "collectedAt": "2026-11-21T02:01:38.371Z",
       "asOf": null,
       "quote": {
         "price": 5.28,
@@ -50411,7 +50411,7 @@
         "previousClose": 5.17,
         "dayHigh": 5.4,
         "dayLow": 5.2,
-        "volume": 41062,
+        "volume": 41064,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -50917,13 +50917,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/QSOL11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:45.094Z",
+        "requestedAt": "2026-11-21T02:01:38.424Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/QSOL11.json"
+        "path": "data/raw/2026-11-20/etf/QSOL11.json"
       }
     },
     {
@@ -50931,7 +50931,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:50.311Z",
+      "collectedAt": "2026-11-21T02:01:43.609Z",
       "asOf": null,
       "quote": {
         "price": 82.4,
@@ -51447,13 +51447,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/REVE11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:50.400Z",
+        "requestedAt": "2026-11-21T02:01:43.659Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/REVE11.json"
+        "path": "data/raw/2026-11-20/etf/REVE11.json"
       }
     },
     {
@@ -51461,17 +51461,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:42.090Z",
+      "collectedAt": "2026-11-21T02:01:36.172Z",
       "asOf": null,
       "quote": {
-        "price": 97.5,
-        "change": -0.72,
-        "changePercent": -0.73,
+        "price": 97.6,
+        "change": -0.62,
+        "changePercent": -0.63,
         "open": 98.52,
         "previousClose": 98.22,
         "dayHigh": 99.75,
         "dayLow": 95.57,
-        "volume": 8657808,
+        "volume": 8859995,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -51967,8 +51967,8 @@
           "open": 98.52,
           "high": 99.75,
           "low": 95.57,
-          "close": 97.5,
-          "volume": 8657808
+          "close": 97.6,
+          "volume": 8855552
         }
       ],
       "branding": {
@@ -51977,13 +51977,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/SMAL11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:42.188Z",
+        "requestedAt": "2026-11-21T02:01:36.201Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/SMAL11.json"
+        "path": "data/raw/2026-11-20/etf/SMAL11.json"
       }
     },
     {
@@ -51991,7 +51991,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:48.108Z",
+      "collectedAt": "2026-11-21T02:01:41.205Z",
       "asOf": null,
       "quote": {
         "price": 12,
@@ -52001,7 +52001,7 @@
         "previousClose": 11.9,
         "dayHigh": 12.42,
         "dayLow": 11.95,
-        "volume": 92729,
+        "volume": 92731,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -52507,13 +52507,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/SOLH11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:48.180Z",
+        "requestedAt": "2026-11-21T02:01:41.241Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/SOLH11.json"
+        "path": "data/raw/2026-11-20/etf/SOLH11.json"
       }
     },
     {
@@ -52521,7 +52521,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:52.063Z",
+      "collectedAt": "2026-11-21T02:01:45.519Z",
       "asOf": null,
       "quote": {
         "price": 18.77,
@@ -52531,7 +52531,7 @@
         "previousClose": 18.97,
         "dayHigh": 19.44,
         "dayLow": 18.77,
-        "volume": 59227,
+        "volume": 60696,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -53028,7 +53028,7 @@
           "high": 19.44,
           "low": 18.77,
           "close": 18.77,
-          "volume": 59227
+          "volume": 60696
         }
       ],
       "branding": {
@@ -53037,13 +53037,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/SPXB11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:52.156Z",
+        "requestedAt": "2026-11-21T02:01:45.551Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/SPXB11.json"
+        "path": "data/raw/2026-11-20/etf/SPXB11.json"
       }
     },
     {
@@ -53051,7 +53051,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:46.041Z",
+      "collectedAt": "2026-11-21T02:01:39.356Z",
       "asOf": null,
       "quote": {
         "price": 58.57,
@@ -53061,7 +53061,7 @@
         "previousClose": 59.13,
         "dayHigh": 60.3,
         "dayLow": 58.5,
-        "volume": 904781,
+        "volume": 925714,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -53558,7 +53558,7 @@
           "high": 60.3,
           "low": 58.5,
           "close": 58.57,
-          "volume": 904781
+          "volume": 925705
         }
       ],
       "branding": {
@@ -53567,13 +53567,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/SPXI11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:46.102Z",
+        "requestedAt": "2026-11-21T02:01:39.391Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/SPXI11.json"
+        "path": "data/raw/2026-11-20/etf/SPXI11.json"
       }
     },
     {
@@ -53581,17 +53581,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:45.602Z",
+      "collectedAt": "2026-11-21T02:01:39.022Z",
       "asOf": null,
       "quote": {
-        "price": 71.75,
-        "change": -1.3,
-        "changePercent": -1.78,
+        "price": 71.64,
+        "change": -1.41,
+        "changePercent": -1.93,
         "open": 74.12,
         "previousClose": 73.05,
         "dayHigh": 74.15,
         "dayLow": 71.54,
-        "volume": 838386,
+        "volume": 1265600,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -54087,8 +54087,8 @@
           "open": 74.12,
           "high": 74.15,
           "low": 71.54,
-          "close": 71.75,
-          "volume": 838386
+          "close": 71.64,
+          "volume": 1265600
         }
       ],
       "branding": {
@@ -54097,13 +54097,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/SPXR11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:45.709Z",
+        "requestedAt": "2026-11-21T02:01:39.069Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/SPXR11.json"
+        "path": "data/raw/2026-11-20/etf/SPXR11.json"
       }
     },
     {
@@ -54111,7 +54111,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:48.563Z",
+      "collectedAt": "2026-11-21T02:01:41.601Z",
       "asOf": null,
       "quote": {
         "price": 115.9,
@@ -54121,7 +54121,7 @@
         "previousClose": 116.7,
         "dayHigh": 118.76,
         "dayLow": 115.46,
-        "volume": 110539,
+        "volume": 110561,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -54627,13 +54627,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/SPYI11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:48.648Z",
+        "requestedAt": "2026-11-21T02:01:41.634Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/SPYI11.json"
+        "path": "data/raw/2026-11-20/etf/SPYI11.json"
       }
     },
     {
@@ -54641,7 +54641,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:45.175Z",
+      "collectedAt": "2026-11-21T02:01:38.398Z",
       "asOf": null,
       "quote": {
         "price": 125.7,
@@ -54651,7 +54651,7 @@
         "previousClose": 127.68,
         "dayHigh": 132.57,
         "dayLow": 125.7,
-        "volume": 123522,
+        "volume": 133531,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -55148,7 +55148,7 @@
           "high": 132.57,
           "low": 125.7,
           "close": 125.7,
-          "volume": 123522
+          "volume": 133531
         }
       ],
       "branding": {
@@ -55157,13 +55157,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/TECK11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:45.289Z",
+        "requestedAt": "2026-11-21T02:01:39.543Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/TECK11.json"
+        "path": "data/raw/2026-11-20/etf/TECK11.json"
       }
     },
     {
@@ -55171,7 +55171,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:50.714Z",
+      "collectedAt": "2026-11-21T02:01:43.942Z",
       "asOf": null,
       "quote": {
         "price": 112.71,
@@ -55181,7 +55181,7 @@
         "previousClose": 111.5,
         "dayHigh": 113.39,
         "dayLow": 111.23,
-        "volume": 41681,
+        "volume": 43025,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -55678,7 +55678,7 @@
           "high": 113.39,
           "low": 111.23,
           "close": 112.71,
-          "volume": 41681
+          "volume": 42443
         }
       ],
       "branding": {
@@ -55687,13 +55687,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/USDB11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:50.801Z",
+        "requestedAt": "2026-11-21T02:01:43.984Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/USDB11.json"
+        "path": "data/raw/2026-11-20/etf/USDB11.json"
       }
     },
     {
@@ -55701,7 +55701,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:50.876Z",
+      "collectedAt": "2026-11-21T02:01:44.266Z",
       "asOf": null,
       "quote": {
         "price": 22.32,
@@ -55711,7 +55711,7 @@
         "previousClose": 22.52,
         "dayHigh": 23.14,
         "dayLow": 22.26,
-        "volume": 13400,
+        "volume": 17637,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -56208,7 +56208,7 @@
           "high": 23.14,
           "low": 22.26,
           "close": 22.32,
-          "volume": 13400
+          "volume": 17637
         }
       ],
       "branding": {
@@ -56217,13 +56217,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/USTK11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:50.964Z",
+        "requestedAt": "2026-11-21T02:01:44.301Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/USTK11.json"
+        "path": "data/raw/2026-11-20/etf/USTK11.json"
       }
     },
     {
@@ -56231,7 +56231,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:48.491Z",
+      "collectedAt": "2026-11-21T02:01:41.523Z",
       "asOf": null,
       "quote": {
         "price": 29.57,
@@ -56241,7 +56241,7 @@
         "previousClose": 29.82,
         "dayHigh": 30.92,
         "dayLow": 29.56,
-        "volume": 88335,
+        "volume": 93763,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -56738,7 +56738,7 @@
           "high": 30.92,
           "low": 29.56,
           "close": 29.57,
-          "volume": 88335
+          "volume": 93763
         }
       ],
       "branding": {
@@ -56747,13 +56747,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/UTEC11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:48.583Z",
+        "requestedAt": "2026-11-21T02:01:41.558Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/UTEC11.json"
+        "path": "data/raw/2026-11-20/etf/UTEC11.json"
       }
     },
     {
@@ -56761,17 +56761,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:48.895Z",
+      "collectedAt": "2026-11-21T02:01:41.921Z",
       "asOf": null,
       "quote": {
-        "price": 158.22,
-        "change": -1.3,
-        "changePercent": -0.81,
+        "price": 158.06,
+        "change": -1.46,
+        "changePercent": -0.92,
         "open": 160.93,
         "previousClose": 159.52,
         "dayHigh": 161.68,
         "dayLow": 157.45,
-        "volume": 121456,
+        "volume": 121865,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -57267,8 +57267,8 @@
           "open": 160.93,
           "high": 161.68,
           "low": 157.45,
-          "close": 158.22,
-          "volume": 121456
+          "close": 158.06,
+          "volume": 121855
         }
       ],
       "branding": {
@@ -57277,13 +57277,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/WRLD11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:48.974Z",
+        "requestedAt": "2026-11-21T02:01:43.043Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/WRLD11.json"
+        "path": "data/raw/2026-11-20/etf/WRLD11.json"
       }
     },
     {
@@ -57291,17 +57291,17 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:51.901Z",
+      "collectedAt": "2026-11-21T02:01:45.364Z",
       "asOf": null,
       "quote": {
-        "price": 12.27,
-        "change": -0.14,
-        "changePercent": -1.13,
+        "price": 12.31,
+        "change": -0.1,
+        "changePercent": -0.81,
         "open": 12.41,
         "previousClose": 12.41,
         "dayHigh": 12.41,
         "dayLow": 12.23,
-        "volume": 47331,
+        "volume": 47779,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -57797,8 +57797,8 @@
           "open": 12.41,
           "high": 12.41,
           "low": 12.23,
-          "close": 12.27,
-          "volume": 47331
+          "close": 12.31,
+          "volume": 47779
         }
       ],
       "branding": {
@@ -57807,13 +57807,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/XFIX11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:51.990Z",
+        "requestedAt": "2026-11-21T02:01:45.397Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/XFIX11.json"
+        "path": "data/raw/2026-11-20/etf/XFIX11.json"
       }
     },
     {
@@ -57821,7 +57821,7 @@
       "category": "etf",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:44.798Z",
+      "collectedAt": "2026-11-21T02:01:38.091Z",
       "asOf": null,
       "quote": {
         "price": 7.26,
@@ -57831,7 +57831,7 @@
         "previousClose": 7.27,
         "dayHigh": 7.32,
         "dayLow": 7.21,
-        "volume": 129566,
+        "volume": 132737,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -58328,7 +58328,7 @@
           "high": 7.32,
           "low": 7.21,
           "close": 7.26,
-          "volume": 129566
+          "volume": 132737
         }
       ],
       "branding": {
@@ -58337,13 +58337,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/XINA11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:44.858Z",
+        "requestedAt": "2026-11-21T02:01:38.120Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/etf/XINA11.json"
+        "path": "data/raw/2026-11-20/etf/XINA11.json"
       }
     },
     {
@@ -58351,7 +58351,7 @@
       "category": "fii",
       "subcategory": "Shoppings",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:19.943Z",
+      "collectedAt": "2026-11-21T02:01:20.328Z",
       "asOf": null,
       "quote": {
         "price": 66.2,
@@ -58867,13 +58867,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRAPI.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:20.428Z",
+        "requestedAt": "2026-11-21T02:01:20.520Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/ABCP11.json"
+        "path": "data/raw/2026-11-20/fii/ABCP11.json"
       }
     },
     {
@@ -58881,7 +58881,7 @@
       "category": "fii",
       "subcategory": "Lajes",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:19.989Z",
+      "collectedAt": "2026-11-21T02:01:20.368Z",
       "asOf": null,
       "quote": {
         "price": 71.99,
@@ -58891,7 +58891,7 @@
         "previousClose": 70.5,
         "dayHigh": 71.99,
         "dayLow": 70.5,
-        "volume": 2871,
+        "volume": 243675,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -59397,13 +59397,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRAPI.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:20.321Z",
+        "requestedAt": "2026-11-21T02:01:20.505Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/AIEC11.json"
+        "path": "data/raw/2026-11-20/fii/AIEC11.json"
       }
     },
     {
@@ -59411,7 +59411,7 @@
       "category": "fii",
       "subcategory": "Híbridos/Outros",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:20.638Z",
+      "collectedAt": "2026-11-21T02:01:20.805Z",
       "asOf": null,
       "quote": {
         "price": 9.4,
@@ -59421,7 +59421,7 @@
         "previousClose": 9.44,
         "dayHigh": 9.45,
         "dayLow": 9.15,
-        "volume": 494591,
+        "volume": 494658,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -59927,13 +59927,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRAPI.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:20.728Z",
+        "requestedAt": "2026-11-21T02:01:20.863Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/ALZR11.json"
+        "path": "data/raw/2026-11-20/fii/ALZR11.json"
       }
     },
     {
@@ -59941,7 +59941,7 @@
       "category": "fii",
       "subcategory": "Logística",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:20.742Z",
+      "collectedAt": "2026-11-21T02:01:20.806Z",
       "asOf": null,
       "quote": {
         "price": 103.86,
@@ -59951,7 +59951,7 @@
         "previousClose": 104.69,
         "dayHigh": 104.92,
         "dayLow": 102.7,
-        "volume": 44302,
+        "volume": 44325,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -60457,13 +60457,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRAPI.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:20.808Z",
+        "requestedAt": "2026-11-21T02:01:20.858Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/BRCO11.json"
+        "path": "data/raw/2026-11-20/fii/BRCO11.json"
       }
     },
     {
@@ -60471,7 +60471,7 @@
       "category": "fii",
       "subcategory": "Lajes",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:21.041Z",
+      "collectedAt": "2026-11-21T02:01:21.139Z",
       "asOf": null,
       "quote": {
         "price": 37.84,
@@ -60481,7 +60481,7 @@
         "previousClose": 38.74,
         "dayHigh": 38.74,
         "dayLow": 37.08,
-        "volume": 57130,
+        "volume": 57133,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -60987,13 +60987,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRCR11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:21.121Z",
+        "requestedAt": "2026-11-21T02:01:22.388Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/BRCR11.json"
+        "path": "data/raw/2026-11-20/fii/BRCR11.json"
       }
     },
     {
@@ -61001,7 +61001,7 @@
       "category": "fii",
       "subcategory": "Híbridos/Outros",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:21.106Z",
+      "collectedAt": "2026-11-21T02:01:21.145Z",
       "asOf": null,
       "quote": {
         "price": 7.96,
@@ -61011,7 +61011,7 @@
         "previousClose": 8,
         "dayHigh": 8.04,
         "dayLow": 7.88,
-        "volume": 486759,
+        "volume": 487283,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -61517,13 +61517,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BTHF11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:21.178Z",
+        "requestedAt": "2026-11-21T02:01:21.187Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/BTHF11.json"
+        "path": "data/raw/2026-11-20/fii/BTHF11.json"
       }
     },
     {
@@ -61531,7 +61531,7 @@
       "category": "fii",
       "subcategory": "Logística",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:21.439Z",
+      "collectedAt": "2026-11-21T02:01:21.469Z",
       "asOf": null,
       "quote": {
         "price": 94.8,
@@ -61541,7 +61541,7 @@
         "previousClose": 96.42,
         "dayHigh": 96.47,
         "dayLow": 94.44,
-        "volume": 210842,
+        "volume": 210983,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -62047,13 +62047,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BTLG11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:21.546Z",
+        "requestedAt": "2026-11-21T02:01:21.508Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/BTLG11.json"
+        "path": "data/raw/2026-11-20/fii/BTLG11.json"
       }
     },
     {
@@ -62061,7 +62061,7 @@
       "category": "fii",
       "subcategory": "Papel/CRI",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:21.475Z",
+      "collectedAt": "2026-11-21T02:01:21.791Z",
       "asOf": null,
       "quote": {
         "price": 6.54,
@@ -62071,7 +62071,7 @@
         "previousClose": 6.59,
         "dayHigh": 6.62,
         "dayLow": 6.49,
-        "volume": 3112397,
+        "volume": 3116156,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -62577,13 +62577,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/CPTS11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:21.570Z",
+        "requestedAt": "2026-11-21T02:01:21.829Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/CPTS11.json"
+        "path": "data/raw/2026-11-20/fii/CPTS11.json"
       }
     },
     {
@@ -62591,7 +62591,7 @@
       "category": "fii",
       "subcategory": "Papel/CRI",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:21.866Z",
+      "collectedAt": "2026-11-21T02:01:22.111Z",
       "asOf": null,
       "quote": {
         "price": 13.64,
@@ -62601,7 +62601,7 @@
         "previousClose": 13.68,
         "dayHigh": 13.8,
         "dayLow": 13.35,
-        "volume": 25342,
+        "volume": 25347,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -63107,13 +63107,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRAPI.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:21.994Z",
+        "requestedAt": "2026-11-21T02:01:22.158Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/DEVA11.json"
+        "path": "data/raw/2026-11-20/fii/DEVA11.json"
       }
     },
     {
@@ -63121,7 +63121,7 @@
       "category": "fii",
       "subcategory": "Híbridos/Outros",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:21.867Z",
+      "collectedAt": "2026-11-21T02:01:22.439Z",
       "asOf": null,
       "quote": {
         "price": 415.5,
@@ -63637,13 +63637,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRAPI.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:21.938Z",
+        "requestedAt": "2026-11-21T02:01:22.477Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/FIIB11.json"
+        "path": "data/raw/2026-11-20/fii/FIIB11.json"
       }
     },
     {
@@ -63651,7 +63651,7 @@
       "category": "fii",
       "subcategory": "Shoppings",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:22.233Z",
+      "collectedAt": "2026-11-21T02:01:22.669Z",
       "asOf": null,
       "quote": {
         "price": 20.38,
@@ -63661,7 +63661,7 @@
         "previousClose": 20.69,
         "dayHigh": 20.4,
         "dayLow": 19.87,
-        "volume": 306,
+        "volume": 307,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -64167,13 +64167,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/FLRP11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:22.325Z",
+        "requestedAt": "2026-11-21T02:01:22.705Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/FLRP11.json"
+        "path": "data/raw/2026-11-20/fii/FLRP11.json"
       }
     },
     {
@@ -64181,7 +64181,7 @@
       "category": "fii",
       "subcategory": "Logística",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:22.307Z",
+      "collectedAt": "2026-11-21T02:01:22.758Z",
       "asOf": null,
       "quote": {
         "price": 7.91,
@@ -64191,7 +64191,7 @@
         "previousClose": 7.97,
         "dayHigh": 8.02,
         "dayLow": 7.89,
-        "volume": 783577,
+        "volume": 783745,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -64697,13 +64697,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRAPI.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:22.373Z",
+        "requestedAt": "2026-11-21T02:01:22.797Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/GARE11.json"
+        "path": "data/raw/2026-11-20/fii/GARE11.json"
       }
     },
     {
@@ -64711,7 +64711,7 @@
       "category": "fii",
       "subcategory": "Logística",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:22.637Z",
+      "collectedAt": "2026-11-21T02:01:22.988Z",
       "asOf": null,
       "quote": {
         "price": 8.09,
@@ -64721,7 +64721,7 @@
         "previousClose": 8.16,
         "dayHigh": 8.14,
         "dayLow": 8.02,
-        "volume": 1366123,
+        "volume": 1366383,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -65227,13 +65227,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/GGRC11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:22.732Z",
+        "requestedAt": "2026-11-21T02:01:23.035Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/GGRC11.json"
+        "path": "data/raw/2026-11-20/fii/GGRC11.json"
       }
     },
     {
@@ -65241,7 +65241,7 @@
       "category": "fii",
       "subcategory": "Papel/CRI",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:22.668Z",
+      "collectedAt": "2026-11-21T02:01:23.078Z",
       "asOf": null,
       "quote": {
         "price": 8.97,
@@ -65251,8 +65251,8 @@
         "previousClose": 9.02,
         "dayHigh": 9.48,
         "dayLow": 8.88,
-        "volume": 68069,
-        "marketCap": 206218848,
+        "volume": 68102,
+        "marketCap": 205075728,
         "currency": "BRL"
       },
       "stats": {
@@ -65757,13 +65757,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRAPI.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:23.861Z",
+        "requestedAt": "2026-11-21T02:01:23.131Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/HCTR11.json"
+        "path": "data/raw/2026-11-20/fii/HCTR11.json"
       }
     },
     {
@@ -65771,7 +65771,7 @@
       "category": "fii",
       "subcategory": "Shoppings",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:23.045Z",
+      "collectedAt": "2026-11-21T02:01:23.317Z",
       "asOf": null,
       "quote": {
         "price": 16.83,
@@ -65781,7 +65781,7 @@
         "previousClose": 17.22,
         "dayHigh": 17.44,
         "dayLow": 16.7,
-        "volume": 454786,
+        "volume": 454890,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -66287,13 +66287,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/HGBS11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:23.140Z",
+        "requestedAt": "2026-11-21T02:01:23.351Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/HGBS11.json"
+        "path": "data/raw/2026-11-20/fii/HGBS11.json"
       }
     },
     {
@@ -66301,7 +66301,7 @@
       "category": "fii",
       "subcategory": "Logística",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:23.455Z",
+      "collectedAt": "2026-11-21T02:01:23.414Z",
       "asOf": null,
       "quote": {
         "price": 141.8,
@@ -66311,7 +66311,7 @@
         "previousClose": 142.65,
         "dayHigh": 142.66,
         "dayLow": 141.1,
-        "volume": 113897,
+        "volume": 113933,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -66817,13 +66817,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/HGLG11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:23.549Z",
+        "requestedAt": "2026-11-21T02:01:23.442Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/HGLG11.json"
+        "path": "data/raw/2026-11-20/fii/HGLG11.json"
       }
     },
     {
@@ -66831,7 +66831,7 @@
       "category": "fii",
       "subcategory": "Lajes",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:23.861Z",
+      "collectedAt": "2026-11-21T02:01:23.633Z",
       "asOf": null,
       "quote": {
         "price": 111.02,
@@ -66841,7 +66841,7 @@
         "previousClose": 110.76,
         "dayHigh": 111.99,
         "dayLow": 110.14,
-        "volume": 10844,
+        "volume": 10937,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -67347,13 +67347,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/HGRE11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:23.918Z",
+        "requestedAt": "2026-11-21T02:01:23.674Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/HGRE11.json"
+        "path": "data/raw/2026-11-20/fii/HGRE11.json"
       }
     },
     {
@@ -67361,7 +67361,7 @@
       "category": "fii",
       "subcategory": "Híbridos/Outros",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:24.175Z",
+      "collectedAt": "2026-11-21T02:01:23.723Z",
       "asOf": null,
       "quote": {
         "price": 113.35,
@@ -67371,7 +67371,7 @@
         "previousClose": 114.94,
         "dayHigh": 114.95,
         "dayLow": 113.01,
-        "volume": 42613,
+        "volume": 42648,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -67877,13 +67877,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRAPI.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:24.241Z",
+        "requestedAt": "2026-11-21T02:01:23.756Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/HGRU11.json"
+        "path": "data/raw/2026-11-20/fii/HGRU11.json"
       }
     },
     {
@@ -67891,7 +67891,7 @@
       "category": "fii",
       "subcategory": "Logística",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:24.215Z",
+      "collectedAt": "2026-11-21T02:01:23.958Z",
       "asOf": null,
       "quote": {
         "price": 71.05,
@@ -67901,7 +67901,7 @@
         "previousClose": 71.32,
         "dayHigh": 71.5,
         "dayLow": 70.25,
-        "volume": 8161,
+        "volume": 8169,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -68407,13 +68407,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRAPI.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:24.280Z",
+        "requestedAt": "2026-11-21T02:01:23.990Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/HSLG11.json"
+        "path": "data/raw/2026-11-20/fii/HSLG11.json"
       }
     },
     {
@@ -68421,7 +68421,7 @@
       "category": "fii",
       "subcategory": "Shoppings",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:24.556Z",
+      "collectedAt": "2026-11-21T02:01:24.040Z",
       "asOf": null,
       "quote": {
         "price": 76.55,
@@ -68431,7 +68431,7 @@
         "previousClose": 76.46,
         "dayHigh": 77,
         "dayLow": 75.51,
-        "volume": 33597,
+        "volume": 33961,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -68937,13 +68937,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRAPI.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:24.644Z",
+        "requestedAt": "2026-11-21T02:01:24.075Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/HSML11.json"
+        "path": "data/raw/2026-11-20/fii/HSML11.json"
       }
     },
     {
@@ -68951,7 +68951,7 @@
       "category": "fii",
       "subcategory": "Lajes",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:24.575Z",
+      "collectedAt": "2026-11-21T02:01:24.271Z",
       "asOf": null,
       "quote": {
         "price": 56.94,
@@ -68961,7 +68961,7 @@
         "previousClose": 56.77,
         "dayHigh": 57.36,
         "dayLow": 56.05,
-        "volume": 67152,
+        "volume": 67181,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -69467,13 +69467,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/JSRE11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:24.629Z",
+        "requestedAt": "2026-11-21T02:01:24.308Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/JSRE11.json"
+        "path": "data/raw/2026-11-20/fii/JSRE11.json"
       }
     },
     {
@@ -69481,7 +69481,7 @@
       "category": "fii",
       "subcategory": "Papel/CRI",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:24.925Z",
+      "collectedAt": "2026-11-21T02:01:24.358Z",
       "asOf": null,
       "quote": {
         "price": 102.85,
@@ -69491,7 +69491,7 @@
         "previousClose": 103.01,
         "dayHigh": 103.01,
         "dayLow": 102.21,
-        "volume": 220852,
+        "volume": 221506,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -69997,13 +69997,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/KNCR11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:24.986Z",
+        "requestedAt": "2026-11-21T02:01:24.403Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/KNCR11.json"
+        "path": "data/raw/2026-11-20/fii/KNCR11.json"
       }
     },
     {
@@ -70011,7 +70011,7 @@
       "category": "fii",
       "subcategory": "Lajes",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:24.958Z",
+      "collectedAt": "2026-11-21T02:01:24.593Z",
       "asOf": null,
       "quote": {
         "price": 143.11,
@@ -70021,7 +70021,7 @@
         "previousClose": 144.71,
         "dayHigh": 146.13,
         "dayLow": 142.98,
-        "volume": 48291,
+        "volume": 48314,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -70527,13 +70527,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/KNRI11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:25.029Z",
+        "requestedAt": "2026-11-21T02:01:24.622Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/KNRI11.json"
+        "path": "data/raw/2026-11-20/fii/KNRI11.json"
       }
     },
     {
@@ -70541,7 +70541,7 @@
       "category": "fii",
       "subcategory": "Papel/CRI",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:25.302Z",
+      "collectedAt": "2026-11-21T02:01:24.686Z",
       "asOf": null,
       "quote": {
         "price": 8.26,
@@ -70551,7 +70551,7 @@
         "previousClose": 8.33,
         "dayHigh": 8.38,
         "dayLow": 8.22,
-        "volume": 852286,
+        "volume": 852686,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -71057,13 +71057,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/KNSC11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:26.659Z",
+        "requestedAt": "2026-11-21T02:01:24.739Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/KNSC11.json"
+        "path": "data/raw/2026-11-20/fii/KNSC11.json"
       }
     },
     {
@@ -71071,7 +71071,7 @@
       "category": "fii",
       "subcategory": "Logística",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:25.323Z",
+      "collectedAt": "2026-11-21T02:01:24.902Z",
       "asOf": null,
       "quote": {
         "price": 99.29,
@@ -71081,7 +71081,7 @@
         "previousClose": 99,
         "dayHigh": 100.06,
         "dayLow": 98.06,
-        "volume": 60279,
+        "volume": 60293,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -71587,13 +71587,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/LVBI11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:25.379Z",
+        "requestedAt": "2026-11-21T02:01:24.934Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/LVBI11.json"
+        "path": "data/raw/2026-11-20/fii/LVBI11.json"
       }
     },
     {
@@ -71601,7 +71601,7 @@
       "category": "fii",
       "subcategory": "Papel/CRI",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:25.675Z",
+      "collectedAt": "2026-11-21T02:01:25.022Z",
       "asOf": null,
       "quote": {
         "price": 8.5,
@@ -71611,7 +71611,7 @@
         "previousClose": 8.56,
         "dayHigh": 8.62,
         "dayLow": 8.49,
-        "volume": 1945672,
+        "volume": 1948419,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -72117,13 +72117,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/MXRF11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:25.740Z",
+        "requestedAt": "2026-11-21T02:01:25.051Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/MXRF11.json"
+        "path": "data/raw/2026-11-20/fii/MXRF11.json"
       }
     },
     {
@@ -72131,7 +72131,7 @@
       "category": "fii",
       "subcategory": "Shoppings",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:26.054Z",
+      "collectedAt": "2026-11-21T02:01:25.214Z",
       "asOf": null,
       "quote": {
         "price": 97.42,
@@ -72141,7 +72141,7 @@
         "previousClose": 97.96,
         "dayHigh": 98.22,
         "dayLow": 96.84,
-        "volume": 48332,
+        "volume": 48356,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -72647,13 +72647,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/PMLL11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:26.122Z",
+        "requestedAt": "2026-11-21T02:01:25.263Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/PMLL11.json"
+        "path": "data/raw/2026-11-20/fii/PMLL11.json"
       }
     },
     {
@@ -72661,7 +72661,7 @@
       "category": "fii",
       "subcategory": "Lajes",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:26.441Z",
+      "collectedAt": "2026-11-21T02:01:25.335Z",
       "asOf": null,
       "quote": {
         "price": 59.21,
@@ -72671,7 +72671,7 @@
         "previousClose": 60.59,
         "dayHigh": 60.73,
         "dayLow": 59.21,
-        "volume": 49341,
+        "volume": 49343,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -73177,13 +73177,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/PVBI11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:26.504Z",
+        "requestedAt": "2026-11-21T02:01:25.383Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/PVBI11.json"
+        "path": "data/raw/2026-11-20/fii/PVBI11.json"
       }
     },
     {
@@ -73191,7 +73191,7 @@
       "category": "fii",
       "subcategory": "Logística",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:26.821Z",
+      "collectedAt": "2026-11-21T02:01:25.545Z",
       "asOf": null,
       "quote": {
         "price": 71.4,
@@ -73707,13 +73707,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/RBRL11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:26.895Z",
+        "requestedAt": "2026-11-21T02:01:25.577Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/RBRL11.json"
+        "path": "data/raw/2026-11-20/fii/RBRL11.json"
       }
     },
     {
@@ -73721,7 +73721,7 @@
       "category": "fii",
       "subcategory": "Híbridos/Outros",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:27.209Z",
+      "collectedAt": "2026-11-21T02:01:25.857Z",
       "asOf": null,
       "quote": {
         "price": 7.42,
@@ -73731,7 +73731,7 @@
         "previousClose": 7.47,
         "dayHigh": 7.56,
         "dayLow": 7.35,
-        "volume": 288622,
+        "volume": 289018,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -74237,13 +74237,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/RBVA11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:27.263Z",
+        "requestedAt": "2026-11-21T02:01:25.902Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/RBVA11.json"
+        "path": "data/raw/2026-11-20/fii/RBVA11.json"
       }
     },
     {
@@ -74251,7 +74251,7 @@
       "category": "fii",
       "subcategory": "Lajes",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:27.516Z",
+      "collectedAt": "2026-11-21T02:01:26.042Z",
       "asOf": null,
       "quote": {
         "price": 126.75,
@@ -74261,7 +74261,7 @@
         "previousClose": 128.49,
         "dayHigh": 128.58,
         "dayLow": 125.01,
-        "volume": 4114,
+        "volume": 4128,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -74767,13 +74767,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/RCRB11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:27.621Z",
+        "requestedAt": "2026-11-21T02:01:26.079Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/RCRB11.json"
+        "path": "data/raw/2026-11-20/fii/RCRB11.json"
       }
     },
     {
@@ -74781,7 +74781,7 @@
       "category": "fii",
       "subcategory": "Papel/CRI",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:27.557Z",
+      "collectedAt": "2026-11-21T02:01:26.182Z",
       "asOf": null,
       "quote": {
         "price": 65.48,
@@ -74791,7 +74791,7 @@
         "previousClose": 66.39,
         "dayHigh": 67.09,
         "dayLow": 65.48,
-        "volume": 49431,
+        "volume": 49449,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -75297,13 +75297,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/RECR11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:28.858Z",
+        "requestedAt": "2026-11-21T02:01:26.213Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/RECR11.json"
+        "path": "data/raw/2026-11-20/fii/RECR11.json"
       }
     },
     {
@@ -75311,7 +75311,7 @@
       "category": "fii",
       "subcategory": "Híbridos/Outros",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:27.934Z",
+      "collectedAt": "2026-11-21T02:01:26.359Z",
       "asOf": null,
       "quote": {
         "price": 30.5,
@@ -75827,13 +75827,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/RECT11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:28.037Z",
+        "requestedAt": "2026-11-21T02:01:26.392Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/RECT11.json"
+        "path": "data/raw/2026-11-20/fii/RECT11.json"
       }
     },
     {
@@ -75841,7 +75841,7 @@
       "category": "fii",
       "subcategory": "Híbridos/Outros",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:28.351Z",
+      "collectedAt": "2026-11-21T02:01:26.497Z",
       "asOf": null,
       "quote": {
         "price": 64.49,
@@ -75851,7 +75851,7 @@
         "previousClose": 64.2,
         "dayHigh": 64.89,
         "dayLow": 63.55,
-        "volume": 57675,
+        "volume": 57677,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -76357,13 +76357,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/RZTR11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:28.437Z",
+        "requestedAt": "2026-11-21T02:01:26.540Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/RZTR11.json"
+        "path": "data/raw/2026-11-20/fii/RZTR11.json"
       }
     },
     {
@@ -76371,7 +76371,7 @@
       "category": "fii",
       "subcategory": "Shoppings",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:28.750Z",
+      "collectedAt": "2026-11-21T02:01:26.673Z",
       "asOf": null,
       "quote": {
         "price": 0.94,
@@ -76887,13 +76887,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRAPI.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:28.815Z",
+        "requestedAt": "2026-11-21T02:01:26.715Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/TORD11.json"
+        "path": "data/raw/2026-11-20/fii/TORD11.json"
       }
     },
     {
@@ -76901,7 +76901,7 @@
       "category": "fii",
       "subcategory": "Papel/CRI",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:29.129Z",
+      "collectedAt": "2026-11-21T02:01:26.820Z",
       "asOf": null,
       "quote": {
         "price": 15.77,
@@ -76911,7 +76911,7 @@
         "previousClose": 15.51,
         "dayHigh": 15.88,
         "dayLow": 15.56,
-        "volume": 12813,
+        "volume": 12877,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -77417,13 +77417,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/BRAPI.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:30.400Z",
+        "requestedAt": "2026-11-21T02:01:26.854Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/URPR11.json"
+        "path": "data/raw/2026-11-20/fii/URPR11.json"
       }
     },
     {
@@ -77431,7 +77431,7 @@
       "category": "fii",
       "subcategory": "Papel/CRI",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:29.152Z",
+      "collectedAt": "2026-11-21T02:01:26.996Z",
       "asOf": null,
       "quote": {
         "price": 3.87,
@@ -77441,7 +77441,7 @@
         "previousClose": 3.89,
         "dayHigh": 3.98,
         "dayLow": 3.82,
-        "volume": 508932,
+        "volume": 509159,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -77947,13 +77947,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/VGHF11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:29.204Z",
+        "requestedAt": "2026-11-21T02:01:27.030Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/VGHF11.json"
+        "path": "data/raw/2026-11-20/fii/VGHF11.json"
       }
     },
     {
@@ -77961,7 +77961,7 @@
       "category": "fii",
       "subcategory": "Papel/CRI",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:29.500Z",
+      "collectedAt": "2026-11-21T02:01:27.139Z",
       "asOf": null,
       "quote": {
         "price": 8.13,
@@ -77971,7 +77971,7 @@
         "previousClose": 7.82,
         "dayHigh": 8.15,
         "dayLow": 7.84,
-        "volume": 799120,
+        "volume": 800405,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -78477,13 +78477,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/VGIR11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:29.566Z",
+        "requestedAt": "2026-11-21T02:01:27.173Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/VGIR11.json"
+        "path": "data/raw/2026-11-20/fii/VGIR11.json"
       }
     },
     {
@@ -78491,7 +78491,7 @@
       "category": "fii",
       "subcategory": "Logística",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:29.879Z",
+      "collectedAt": "2026-11-21T02:01:27.311Z",
       "asOf": null,
       "quote": {
         "price": 86.9,
@@ -78501,7 +78501,7 @@
         "previousClose": 88.42,
         "dayHigh": 88.36,
         "dayLow": 86.64,
-        "volume": 23717,
+        "volume": 23868,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -79007,13 +79007,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/VILG11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:29.969Z",
+        "requestedAt": "2026-11-21T02:01:27.359Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/VILG11.json"
+        "path": "data/raw/2026-11-20/fii/VILG11.json"
       }
     },
     {
@@ -79021,7 +79021,7 @@
       "category": "fii",
       "subcategory": "Lajes",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:30.287Z",
+      "collectedAt": "2026-11-21T02:01:27.458Z",
       "asOf": null,
       "quote": {
         "price": 3.99,
@@ -79031,7 +79031,7 @@
         "previousClose": 3.99,
         "dayHigh": 4.09,
         "dayLow": 3.98,
-        "volume": 42897,
+        "volume": 42901,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -79537,13 +79537,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/VINO11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:30.386Z",
+        "requestedAt": "2026-11-21T02:01:27.495Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/VINO11.json"
+        "path": "data/raw/2026-11-20/fii/VINO11.json"
       }
     },
     {
@@ -79551,7 +79551,7 @@
       "category": "fii",
       "subcategory": "Shoppings",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:30.697Z",
+      "collectedAt": "2026-11-21T02:01:27.640Z",
       "asOf": null,
       "quote": {
         "price": 96,
@@ -79561,7 +79561,7 @@
         "previousClose": 95.25,
         "dayHigh": 96,
         "dayLow": 94.16,
-        "volume": 55680,
+        "volume": 55731,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -80067,13 +80067,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/VISC11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:30.812Z",
+        "requestedAt": "2026-11-21T02:01:27.672Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/VISC11.json"
+        "path": "data/raw/2026-11-20/fii/VISC11.json"
       }
     },
     {
@@ -80081,7 +80081,7 @@
       "category": "fii",
       "subcategory": "Logística",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:30.704Z",
+      "collectedAt": "2026-11-21T02:01:27.782Z",
       "asOf": null,
       "quote": {
         "price": 86.79,
@@ -80091,7 +80091,7 @@
         "previousClose": 87.35,
         "dayHigh": 88,
         "dayLow": 86.5,
-        "volume": 74962,
+        "volume": 75055,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -80597,13 +80597,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/XPLG11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:30.757Z",
+        "requestedAt": "2026-11-21T02:01:27.814Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/XPLG11.json"
+        "path": "data/raw/2026-11-20/fii/XPLG11.json"
       }
     },
     {
@@ -80611,7 +80611,7 @@
       "category": "fii",
       "subcategory": "Shoppings",
       "source": "brapi",
-      "collectedAt": "2026-11-20T02:06:31.055Z",
+      "collectedAt": "2026-11-21T02:01:27.956Z",
       "asOf": null,
       "quote": {
         "price": 81.99,
@@ -80621,7 +80621,7 @@
         "previousClose": 85.8,
         "dayHigh": 86.13,
         "dayLow": 81.42,
-        "volume": 447821,
+        "volume": 447904,
         "marketCap": null,
         "currency": "BRL"
       },
@@ -81127,13 +81127,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/XPML11.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-20T02:06:31.157Z",
+        "requestedAt": "2026-11-21T02:01:27.991Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-19/fii/XPML11.json"
+        "path": "data/raw/2026-11-20/fii/XPML11.json"
       }
     }
   ]
