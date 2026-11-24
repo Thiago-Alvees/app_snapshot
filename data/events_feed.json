@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-11-21T02:01:52.490Z",
+  "generatedAt": "2026-11-24T05:10:48.877Z",
   "provider": "CVM IPE",
   "items": [
+    {
+      "id": "009512IPE171120260193110696-81:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Relatório Fiscal 3T26",
+      "referenceDate": "2026-11-17T00:00:00.000Z",
+      "deliveredAt": "2026-11-17T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1590808&numSequencia=1115514&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE171120260193110696-81"
+    },
+    {
+      "id": "009512IPE161120260193100239-27:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Esclarecimentos sobre questionamentos da CVM/B3",
+      "subject": "Notícia divulgada na mídia",
+      "referenceDate": "2026-11-16T00:00:00.000Z",
+      "deliveredAt": "2026-11-16T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1590178&numSequencia=1114884&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE161120260193100239-27"
+    },
+    {
+      "id": "009512IPE161120260186734276-74:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras recebe pagamento de novas parcelas do Programa de Subvenção Econômica do diesel",
+      "referenceDate": "2026-11-16T00:00:00.000Z",
+      "deliveredAt": "2026-11-16T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1590187&numSequencia=1114893&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE161120260186734276-74"
+    },
+    {
+      "id": "009512IPE161120260163426288-29:PETR4",
+      "ticker": "PETR4",
+      "assetClass": "STOCK",
+      "cvmCode": 9512,
+      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "category": "Comunicado ao Mercado",
+      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
+      "subject": "Petrobras convida para seu webcast sobre o Plano de Negócios 2027-2031",
+      "referenceDate": "2026-11-16T00:00:00.000Z",
+      "deliveredAt": "2026-11-16T00:00:00.000Z",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1590212&numSequencia=1114918&numVersao=1",
+      "version": "1",
+      "protocol": "009512IPE161120260163426288-29"
+    },
     {
       "id": "001023IPE121120260214304187-09:BBAS3",
       "ticker": "BBAS3",
@@ -1411,21 +1471,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1548856&numSequencia=1073562&numVersao=1",
       "version": "1",
       "protocol": "005410IPE280720260195386757-09"
-    },
-    {
-      "id": "005410IPE270720260107847352-80:WEGE3",
-      "ticker": "WEGE3",
-      "assetClass": "STOCK",
-      "cvmCode": 5410,
-      "companyName": "WEG SA",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Contrato com a ENGIE para fornecimento de equipamentos da expansão da Usina Hidrelétrica Jaguara",
-      "referenceDate": "2026-07-27T00:00:00.000Z",
-      "deliveredAt": "2026-07-27T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1548057&numSequencia=1072763&numVersao=1",
-      "version": "1",
-      "protocol": "005410IPE270720260107847352-80"
     }
   ],
   "audit": {
@@ -1439,6 +1484,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 95
+    "itemsGenerated": 98
   }
 }
