@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T03:59:39.678Z",
+  "generatedAt": "2026-11-26T03:24:47.415Z",
   "timezone": "America/Fortaleza",
-  "runDate": "2026-11-25",
+  "runDate": "2026-11-26",
   "provider": "brapi",
   "items": [
     {
@@ -10,16 +10,16 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-25T04:00:09.784Z",
+      "collectedAt": "2026-11-26T03:25:18.471Z",
       "asOf": null,
       "quote": {
-        "price": 164089.81,
-        "change": -706.24,
-        "changePercent": -0.43,
-        "open": 164089.81,
-        "previousClose": 164796.05,
-        "dayHigh": 164089.81,
-        "dayLow": 164089.81,
+        "price": 166684.61,
+        "change": 2594.8,
+        "changePercent": 1.58,
+        "open": 166684.61,
+        "previousClose": 164089.81,
+        "dayHigh": 166684.61,
+        "dayLow": 166684.61,
         "volume": null,
         "marketCap": null,
         "currency": "BRL"
@@ -28,17 +28,9 @@
         "pe": null,
         "eps": 0,
         "week52High": 209714,
-        "week52Low": 164089.81
+        "week52Low": 166684.61
       },
       "history3m": [
-        {
-          "date": "2026-08-27",
-          "open": 174584,
-          "high": 175558,
-          "low": 173661,
-          "close": 175135,
-          "volume": 7119800
-        },
         {
           "date": "2026-08-28",
           "open": 175137,
@@ -510,6 +502,14 @@
           "low": 164023,
           "close": 164090,
           "volume": 11838600
+        },
+        {
+          "date": "2026-11-25",
+          "open": 164060,
+          "high": 167105,
+          "low": 164042,
+          "close": 166685,
+          "volume": 12233200
         }
       ],
       "branding": {
@@ -518,13 +518,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/^BVSP.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-25T04:00:09.800Z",
+        "requestedAt": "2026-11-26T03:25:18.507Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-25/benchmarks/IBOV.index.json"
+        "path": "data/raw/2026-11-26/benchmarks/IBOV.index.json"
       }
     },
     {
@@ -532,16 +532,16 @@
       "category": "benchmark",
       "subcategory": null,
       "source": "brapi",
-      "collectedAt": "2026-11-25T04:00:09.654Z",
+      "collectedAt": "2026-11-26T03:25:18.088Z",
       "asOf": null,
       "quote": {
-        "price": 3467.64,
-        "change": 27.56,
-        "changePercent": 0.8,
-        "open": 3467.64,
-        "previousClose": 3440.08,
-        "dayHigh": 3467.64,
-        "dayLow": 3467.64,
+        "price": 3541.11,
+        "change": 73.47,
+        "changePercent": 2.12,
+        "open": 3541.11,
+        "previousClose": 3467.64,
+        "dayHigh": 3541.11,
+        "dayLow": 3541.11,
         "volume": null,
         "marketCap": null,
         "currency": "BRL"
@@ -549,16 +549,16 @@
       "stats": {
         "pe": null,
         "eps": 0,
-        "week52High": 3467.64,
-        "week52Low": 3467.64
+        "week52High": 3541.11,
+        "week52Low": 3541.11
       },
       "history3m": [
         {
-          "date": "2026-11-24",
+          "date": "2026-11-25",
           "open": 0,
           "high": 0,
           "low": 0,
-          "close": 3467.6399,
+          "close": 3541.1101,
           "volume": 0
         }
       ],
@@ -568,13 +568,13 @@
         "logoUrl": "https://icons.brapi.dev/icons/IFIX.SA.svg"
       },
       "providerMeta": {
-        "requestedAt": "2026-11-25T04:00:09.749Z",
+        "requestedAt": "2026-11-26T03:25:18.190Z",
         "responseStatus": 200,
         "stale": false,
         "fallbackUsed": false
       },
       "rawRef": {
-        "path": "data/raw/2026-11-25/benchmarks/IFIX.index.json"
+        "path": "data/raw/2026-11-26/benchmarks/IFIX.index.json"
       }
     }
   ]
