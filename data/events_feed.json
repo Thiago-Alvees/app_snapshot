@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:33:03.164Z",
+  "generatedAt": "2026-11-28T03:09:58.780Z",
   "provider": "CVM IPE",
   "items": [
     {
@@ -1381,51 +1381,6 @@
       "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550828&numSequencia=1075534&numVersao=1",
       "version": "1",
       "protocol": "009512IPE030820260123647958-12"
-    },
-    {
-      "id": "009512IPE280720260274877668-50:PETR4",
-      "ticker": "PETR4",
-      "assetClass": "STOCK",
-      "cvmCode": 9512,
-      "companyName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
-      "category": "Fato Relevante",
-      "type": "",
-      "subject": "Relatório de Produção e Vendas 2T26",
-      "referenceDate": "2026-07-28T00:00:00.000Z",
-      "deliveredAt": "2026-07-31T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550775&numSequencia=1075481&numVersao=2",
-      "version": "2",
-      "protocol": "009512IPE280720260274877668-50"
-    },
-    {
-      "id": "019348IPE310720260103578150-83:ITUB4",
-      "ticker": "ITUB4",
-      "assetClass": "STOCK",
-      "cvmCode": 19348,
-      "companyName": "ITAÚ UNIBANCO HOLDING S.A.",
-      "category": "Comunicado ao Mercado",
-      "type": "Outros Comunicados Não Considerados Fatos Relevantes",
-      "subject": "Itaú Colômbia",
-      "referenceDate": "2026-07-31T00:00:00.000Z",
-      "deliveredAt": "2026-07-31T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550771&numSequencia=1075477&numVersao=1",
-      "version": "1",
-      "protocol": "019348IPE310720260103578150-83"
-    },
-    {
-      "id": "005410IPE230720260143220407-69:WEGE3",
-      "ticker": "WEGE3",
-      "assetClass": "STOCK",
-      "cvmCode": 5410,
-      "companyName": "WEG SA",
-      "category": "Comunicado ao Mercado",
-      "type": "Apresentações a analistas/agentes do mercado",
-      "subject": "Transcrição da Teleconferência de Resultados do 2T26",
-      "referenceDate": "2026-07-23T00:00:00.000Z",
-      "deliveredAt": "2026-07-31T00:00:00.000Z",
-      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550107&numSequencia=1074813&numVersao=1",
-      "version": "1",
-      "protocol": "005410IPE230720260143220407-69"
     }
   ],
   "audit": {
@@ -1439,6 +1394,6 @@
       2025
     ],
     "tickersCovered": 5,
-    "itemsGenerated": 95
+    "itemsGenerated": 92
   }
 }
